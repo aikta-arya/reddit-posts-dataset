@@ -1,0 +1,441 @@
+,ID,Author,body,Comment,Score,Created On,Replies,Submission,Subreddit,Subreddit_ID,Distinguished,Edited,Is_submitter,link_id,Parent_id,Permalink
+0,iy82q9m,jimtk,"This guy has been promoting his site, mostly filled with inane articles, for the last 2 months.","This guy has been promoting his site, mostly filled with inane articles, for the last 2 months.",88,2022-11-29 13:24:22,<praw.models.comment_forest.CommentForest object at 0x000001BA5A1777F0>,z7qs7y,Python,t5_2qh0y,,False,False,t3_z7qs7y,t3_z7qs7y,/r/Python/comments/z7qs7y/python_and_selenium_are_better_for_scraping_data/iy82q9m/
+1,iy7v8zd,CKtalon,Slow as fuck compared to good ol’ requests. Only use it when antiscraping measures are prevalent.,Slow as fuck compared to good ol’ requests. Only use it when antiscraping measures are prevalent.,48,2022-11-29 12:06:43,<praw.models.comment_forest.CommentForest object at 0x000001BA57DFF130>,z7qs7y,Python,t5_2qh0y,,False,False,t3_z7qs7y,t3_z7qs7y,/r/Python/comments/z7qs7y/python_and_selenium_are_better_for_scraping_data/iy7v8zd/
+2,iy7wbzl,colei_canis,It’s a very useful tool but I’d only use it for scraping if the site I was trying to scrape was aggressively trying to avoid it because it’s also slow as swimming in treacle.,It’s a very useful tool but I’d only use it for scraping if the site I was trying to scrape was aggressively trying to avoid it because it’s also slow as swimming in treacle.,45,2022-11-29 12:19:08,<praw.models.comment_forest.CommentForest object at 0x000001BA57DFF9D0>,z7qs7y,Python,t5_2qh0y,,False,False,t3_z7qs7y,t3_z7qs7y,/r/Python/comments/z7qs7y/python_and_selenium_are_better_for_scraping_data/iy7wbzl/
+3,iy83rlg,ilikegamesandstuff,"As someone that's built a couple scrappers in his job, just use [Scrapy](https://scrapy.org).
+
+It handles pretty much everything a production grade webscraper should. And if it doesn't theres probably an extension or middleware that does.","As someone that's built a couple scrappers in his job, just use [Scrapy](https://scrapy.org).
+
+It handles pretty much everything a production grade webscraper should. And if it doesn't theres probably an extension or middleware that does.",42,2022-11-29 13:34:03,<praw.models.comment_forest.CommentForest object at 0x000001BA57DF3220>,z7qs7y,Python,t5_2qh0y,,False,False,t3_z7qs7y,t3_z7qs7y,/r/Python/comments/z7qs7y/python_and_selenium_are_better_for_scraping_data/iy83rlg/
+4,iy8uala,hmga2,"If you try hard enough, by reverse engineering how the auth flow is made you can use plain requests + beautifulsoup for most scenarios. I’d use Selenium as last hope unless it’s an operation that I need to run one time only and then forget about it.
+
+If you plan to share an app that uses selenium it’s gonna give you a nightmare with compatibility of drivers","If you try hard enough, by reverse engineering how the auth flow is made you can use plain requests + beautifulsoup for most scenarios. I’d use Selenium as last hope unless it’s an operation that I need to run one time only and then forget about it.
+
+If you plan to share an app that uses selenium it’s gonna give you a nightmare with compatibility of drivers",5,2022-11-29 16:50:41,<praw.models.comment_forest.CommentForest object at 0x000001BA57DF3460>,z7qs7y,Python,t5_2qh0y,,False,False,t3_z7qs7y,t3_z7qs7y,/r/Python/comments/z7qs7y/python_and_selenium_are_better_for_scraping_data/iy8uala/
+5,iy8vgdx,Mrblabbles,"The speed of selenium is pretty apparent when your trying to mass scrape a website. I'm running selenium right now for scraping top tiktok views and hashtags and it only calls twice a day and the speed doesn't matter all the much. If I was scraping more data and more frequently I'd probably switch to beautifulsoup. Though I will say selenium is so easy to use, especially with Xpaths.","The speed of selenium is pretty apparent when your trying to mass scrape a website. I'm running selenium right now for scraping top tiktok views and hashtags and it only calls twice a day and the speed doesn't matter all the much. If I was scraping more data and more frequently I'd probably switch to beautifulsoup. Though I will say selenium is so easy to use, especially with Xpaths.",3,2022-11-29 16:58:25,<praw.models.comment_forest.CommentForest object at 0x000001BA57DE5B50>,z7qs7y,Python,t5_2qh0y,,False,False,t3_z7qs7y,t3_z7qs7y,/r/Python/comments/z7qs7y/python_and_selenium_are_better_for_scraping_data/iy8vgdx/
+6,iy9m3ri,liko,Hard pass. I’ll stick with the soup.,Hard pass. I’ll stick with the soup.,3,2022-11-29 19:52:28,<praw.models.comment_forest.CommentForest object at 0x000001BA57DE2310>,z7qs7y,Python,t5_2qh0y,,False,False,t3_z7qs7y,t3_z7qs7y,/r/Python/comments/z7qs7y/python_and_selenium_are_better_for_scraping_data/iy9m3ri/
+7,iy92ijy,ZachVorhies,"I want to point out that setting up selenium can be a giant pain and if people want to get a bot up on Max/Win/Linux and running as quickly as possible they should try out my tool install selenium web driver for you:
+
+https://github.com/zackees/open-webdriver
+
+It downloads everything automatically and uses sane defaults. It’s just a few lines of code to get running. It also does things like headless by default, disables SSL certs and has a tested path to compile a native C++ binary using nuitka. There is an example dockerfile to run in a container.","I want to point out that setting up selenium can be a giant pain and if people want to get a bot up on Max/Win/Linux and running as quickly as possible they should try out my tool install selenium web driver for you:
+
+https://github.com/zackees/open-webdriver
+
+It downloads everything automatically and uses sane defaults. It’s just a few lines of code to get running. It also does things like headless by default, disables SSL certs and has a tested path to compile a native C++ binary using nuitka. There is an example dockerfile to run in a container.",2,2022-11-29 17:45:07,<praw.models.comment_forest.CommentForest object at 0x000001BA57DE2BB0>,z7qs7y,Python,t5_2qh0y,,1669790355.0,False,t3_z7qs7y,t3_z7qs7y,/r/Python/comments/z7qs7y/python_and_selenium_are_better_for_scraping_data/iy92ijy/
+8,iy9sw41,MeNotSanta,Stop talking about the website like you are not one of the people that own it.,Stop talking about the website like you are not one of the people that own it.,2,2022-11-29 20:34:43,<praw.models.comment_forest.CommentForest object at 0x000001BA57DE2F40>,z7qs7y,Python,t5_2qh0y,,False,False,t3_z7qs7y,t3_z7qs7y,/r/Python/comments/z7qs7y/python_and_selenium_are_better_for_scraping_data/iy9sw41/
+9,iy80xde,betazoid_one,This becomes difficult when most modern websites are dynamically loaded content,This becomes difficult when most modern websites are dynamically loaded content,3,2022-11-29 13:07:05,<praw.models.comment_forest.CommentForest object at 0x000001BA57DE7820>,z7qs7y,Python,t5_2qh0y,,False,False,t3_z7qs7y,t3_z7qs7y,/r/Python/comments/z7qs7y/python_and_selenium_are_better_for_scraping_data/iy80xde/
+10,iyadtgd,Chilling_Home_1001,Has anyone ever done a scraper that uses the finished format  of the page like an OCR system instead of the DOM structure? I use companies that scrape but I'm curious about this because I assume it would be more stable to minor changes in the HTML,Has anyone ever done a scraper that uses the finished format  of the page like an OCR system instead of the DOM structure? I use companies that scrape but I'm curious about this because I assume it would be more stable to minor changes in the HTML,1,2022-11-29 22:52:19,<praw.models.comment_forest.CommentForest object at 0x000001BA57DE7760>,z7qs7y,Python,t5_2qh0y,,False,False,t3_z7qs7y,t3_z7qs7y,/r/Python/comments/z7qs7y/python_and_selenium_are_better_for_scraping_data/iyadtgd/
+11,iy7ukho,surister,Dissssagre,Dissssagre,1,2022-11-29 11:58:46,<praw.models.comment_forest.CommentForest object at 0x000001BA57DE7BB0>,z7qs7y,Python,t5_2qh0y,,False,False,t3_z7qs7y,t3_z7qs7y,/r/Python/comments/z7qs7y/python_and_selenium_are_better_for_scraping_data/iy7ukho/
+12,iya6fzd,SpaceZZ,"If you are serious, out Scrapy.","If you are serious, out Scrapy.",1,2022-11-29 22:01:11,<praw.models.comment_forest.CommentForest object at 0x000001BA57DE7BE0>,z7qs7y,Python,t5_2qh0y,,False,False,t3_z7qs7y,t3_z7qs7y,/r/Python/comments/z7qs7y/python_and_selenium_are_better_for_scraping_data/iya6fzd/
+13,iyc2j3k,ethsy,Playwright is a good alternative,Playwright is a good alternative,1,2022-11-30 07:36:23,<praw.models.comment_forest.CommentForest object at 0x000001BA57DE83A0>,z7qs7y,Python,t5_2qh0y,,False,False,t3_z7qs7y,t3_z7qs7y,/r/Python/comments/z7qs7y/python_and_selenium_are_better_for_scraping_data/iyc2j3k/
+14,iyb4ucd,AlmightySnoo,and even then you need your own build of Chromium if I remember correctly (been a few years) because by default it tells websites that it's a headless browser to help anti-webscraping efforts,and even then you need your own build of Chromium if I remember correctly (been a few years) because by default it tells websites that it's a headless browser to help anti-webscraping efforts,5,2022-11-30 02:12:44,<praw.models.comment_forest.CommentForest object at 0x000001BA57DFF1F0>,z7qs7y,Python,t5_2qh0y,,False,False,t3_z7qs7y,t1_iy7v8zd,/r/Python/comments/z7qs7y/python_and_selenium_are_better_for_scraping_data/iyb4ucd/
+15,j9oin6w,pconwell,"Dumb question - I don't do much scraping. Is captcha considered an anti-scraping measure? I am working on a project to download a bunch of csv files (I guess not *technically* web scraping), but the data is behind a username/password + captcha page.
+
+I would assume requests would not work well with captcha, and something like selnium would be better?","Dumb question - I don't do much scraping. Is captcha considered an anti-scraping measure? I am working on a project to download a bunch of csv files (I guess not *technically* web scraping), but the data is behind a username/password + captcha page.
+
+I would assume requests would not work well with captcha, and something like selnium would be better?",1,2023-02-23 13:25:11,<praw.models.comment_forest.CommentForest object at 0x000001BA57DFFBE0>,z7qs7y,Python,t5_2qh0y,,False,False,t3_z7qs7y,t1_iy7v8zd,/r/Python/comments/z7qs7y/python_and_selenium_are_better_for_scraping_data/j9oin6w/
+16,je9r74o,greatestbaker,What do you mean by good ol' request? I want to read more about it. What keyword should I search?,What do you mean by good ol' request? I want to read more about it. What keyword should I search?,1,2023-03-30 13:24:13,<praw.models.comment_forest.CommentForest object at 0x000001BA57DFF880>,z7qs7y,Python,t5_2qh0y,,False,False,t3_z7qs7y,t1_iy7v8zd,/r/Python/comments/z7qs7y/python_and_selenium_are_better_for_scraping_data/je9r74o/
+17,iy8seqe,dalepo,"I've been doing data scraping for years and no tool has been close to scrapy in terms of efficiency. I've got some old bots that has been running for more than 6 years
+
+The only thing I dislike about the scrapy ecosystem is splash, which in my case switched to puppeteer + node.","I've been doing data scraping for years and no tool has been close to scrapy in terms of efficiency. I've got some old bots that has been running for more than 6 years
+
+The only thing I dislike about the scrapy ecosystem is splash, which in my case switched to puppeteer + node.",6,2022-11-29 16:38:06,<praw.models.comment_forest.CommentForest object at 0x000001BA57DF34C0>,z7qs7y,Python,t5_2qh0y,,False,False,t3_z7qs7y,t1_iy83rlg,/r/Python/comments/z7qs7y/python_and_selenium_are_better_for_scraping_data/iy8seqe/
+18,iy926jg,someone383726,"I’ve been meaning to give scrapy a shot.  I mostly just use requests and beautiful soup, but will use selenium for accessing JavaScript sites.","I’ve been meaning to give scrapy a shot.  I mostly just use requests and beautiful soup, but will use selenium for accessing JavaScript sites.",5,2022-11-29 17:42:58,<praw.models.comment_forest.CommentForest object at 0x000001BA57DF3CA0>,z7qs7y,Python,t5_2qh0y,,False,False,t3_z7qs7y,t1_iy83rlg,/r/Python/comments/z7qs7y/python_and_selenium_are_better_for_scraping_data/iy926jg/
+19,iy8fcft,Garbage_Wizard246,Thank you for this,Thank you for this,3,2022-11-29 15:07:10,<praw.models.comment_forest.CommentForest object at 0x000001BA57DF3E20>,z7qs7y,Python,t5_2qh0y,,False,False,t3_z7qs7y,t1_iy83rlg,/r/Python/comments/z7qs7y/python_and_selenium_are_better_for_scraping_data/iy8fcft/
+20,iy9u19n,zenos1337,Scrapy is 100% the best scraping module for Python,Scrapy is 100% the best scraping module for Python,3,2022-11-29 20:42:00,<praw.models.comment_forest.CommentForest object at 0x000001BA57DF3F70>,z7qs7y,Python,t5_2qh0y,,False,False,t3_z7qs7y,t1_iy83rlg,/r/Python/comments/z7qs7y/python_and_selenium_are_better_for_scraping_data/iy9u19n/
+21,iy9bgbh,Ordinary_Price_2189,Can you refer some tutorial or guide? I have always used selenium for dynamic websites and it is slow slow.,Can you refer some tutorial or guide? I have always used selenium for dynamic websites and it is slow slow.,1,2022-11-29 18:43:11,<praw.models.comment_forest.CommentForest object at 0x000001BA57DE2070>,z7qs7y,Python,t5_2qh0y,,False,False,t3_z7qs7y,t1_iy8uala,/r/Python/comments/z7qs7y/python_and_selenium_are_better_for_scraping_data/iy9bgbh/
+22,iybrhw7,alcalde,"Why not both? Selenium to navigate the javascript-riddled web pages, then you have selenium pass the HTML to beautifulsoup. That's what I've done to parse Amazon wish lists.","Why not both? Selenium to navigate the javascript-riddled web pages, then you have selenium pass the HTML to beautifulsoup. That's what I've done to parse Amazon wish lists.",1,2022-11-30 05:25:00,<praw.models.comment_forest.CommentForest object at 0x000001BA57DE2AF0>,z7qs7y,Python,t5_2qh0y,,False,False,t3_z7qs7y,t1_iy9m3ri,/r/Python/comments/z7qs7y/python_and_selenium_are_better_for_scraping_data/iybrhw7/
+23,iyaob8k,Dasher38,I've never done any webdev but I was wondering why certificates are turned off by default ? Does it just ignore certificates when using https ?,I've never done any webdev but I was wondering why certificates are turned off by default ? Does it just ignore certificates when using https ?,1,2022-11-30 00:07:58,<praw.models.comment_forest.CommentForest object at 0x000001BA57DE24F0>,z7qs7y,Python,t5_2qh0y,,False,False,t3_z7qs7y,t1_iy92ijy,/r/Python/comments/z7qs7y/python_and_selenium_are_better_for_scraping_data/iyaob8k/
+24,j9orfm3,CKtalon,Yes,Yes,1,2023-02-23 14:33:00,<praw.models.comment_forest.CommentForest object at 0x000001BA57DFF550>,z7qs7y,Python,t5_2qh0y,,False,False,t3_z7qs7y,t1_j9oin6w,/r/Python/comments/z7qs7y/python_and_selenium_are_better_for_scraping_data/j9orfm3/
+25,je9zlep,CKtalon,"the `requests` library
+
+https://realpython.com/python-requests/","the `requests` library
+
+https://realpython.com/python-requests/",1,2023-03-30 14:26:39,<praw.models.comment_forest.CommentForest object at 0x000001BA57DF3310>,z7qs7y,Python,t5_2qh0y,,False,False,t3_z7qs7y,t1_je9r74o,/r/Python/comments/z7qs7y/python_and_selenium_are_better_for_scraping_data/je9zlep/
+26,iy943i1,ilikegamesandstuff,"In my experience, rendering JS pages is rarely a must and will slow down your scrapping significantly. 
+
+Most often the rendered JS is simply requesting data from a backend API which should be pretty easy to replicate in your code. Just check what requests are being fired by the page and what they contain by using your browser's developer tools (in particular the Network tab).
+
+There has only been a single time in which I've *had* to render JS. It was a page with heavily obfuscated JS and APIs, which I didn't have the time, patience or experience to make sense of (not a fan of JS).","In my experience, rendering JS pages is rarely a must and will slow down your scrapping significantly. 
+
+Most often the rendered JS is simply requesting data from a backend API which should be pretty easy to replicate in your code. Just check what requests are being fired by the page and what they contain by using your browser's developer tools (in particular the Network tab).
+
+There has only been a single time in which I've *had* to render JS. It was a page with heavily obfuscated JS and APIs, which I didn't have the time, patience or experience to make sense of (not a fan of JS).",5,2022-11-29 17:55:16,<praw.models.comment_forest.CommentForest object at 0x000001BA57DF3610>,z7qs7y,Python,t5_2qh0y,,1669744861.0,False,t3_z7qs7y,t1_iy926jg,/r/Python/comments/z7qs7y/python_and_selenium_are_better_for_scraping_data/iy943i1/
+27,iya9pzh,Ihtmlelement,"Your best bet would be to run fiddler while using the website. Narrow down which http traffic matters and script them with requests. 
+For complicated stuff I sometimes grab the cURL data and use postman to build the python code.
+Basically just a game of finding what headers and cookies are required to unlock the next door.","Your best bet would be to run fiddler while using the website. Narrow down which http traffic matters and script them with requests. 
+For complicated stuff I sometimes grab the cURL data and use postman to build the python code.
+Basically just a game of finding what headers and cookies are required to unlock the next door.",3,2022-11-29 22:23:41,<praw.models.comment_forest.CommentForest object at 0x000001BA57DE23D0>,z7qs7y,Python,t5_2qh0y,,False,False,t3_z7qs7y,t1_iy9bgbh,/r/Python/comments/z7qs7y/python_and_selenium_are_better_for_scraping_data/iya9pzh/
+28,iyasszk,ZachVorhies,"I added this because when I was scraping certain cites, like gab.com, they had a bad cert that selenium wouldn’t accept. Im not that concerned about fake sites for a bot scraper so I turned it off.","I added this because when I was scraping certain cites, like gab.com, they had a bad cert that selenium wouldn’t accept. Im not that concerned about fake sites for a bot scraper so I turned it off.",3,2022-11-30 00:41:02,<praw.models.comment_forest.CommentForest object at 0x000001BA57DE7A60>,z7qs7y,Python,t5_2qh0y,,False,False,t3_z7qs7y,t1_iyaob8k,/r/Python/comments/z7qs7y/python_and_selenium_are_better_for_scraping_data/iyasszk/
+29,iy9p7tl,sageknight,My site uses JS to log in. I couldn't get around that as the Network tab does not show the post form that they use to log in.,My site uses JS to log in. I couldn't get around that as the Network tab does not show the post form that they use to log in.,6,2022-11-29 20:11:33,<praw.models.comment_forest.CommentForest object at 0x000001BA57DE5040>,z7qs7y,Python,t5_2qh0y,,False,False,t3_z7qs7y,t1_iy943i1,/r/Python/comments/z7qs7y/python_and_selenium_are_better_for_scraping_data/iy9p7tl/
+30,iy96ssx,someone383726,Thanks for the info.  I actually have one JavaScript page that is a form that I have to submit to get the data I need that I’m using selenium for.  I’ll have to take a closer look again.  Before when I tried requests I never got a good response when working with it.,Thanks for the info.  I actually have one JavaScript page that is a form that I have to submit to get the data I need that I’m using selenium for.  I’ll have to take a closer look again.  Before when I tried requests I never got a good response when working with it.,2,2022-11-29 18:13:01,<praw.models.comment_forest.CommentForest object at 0x000001BA57DE57F0>,z7qs7y,Python,t5_2qh0y,,False,False,t3_z7qs7y,t1_iy943i1,/r/Python/comments/z7qs7y/python_and_selenium_are_better_for_scraping_data/iy96ssx/
+31,iybroql,alcalde,">Most often the rendered JS is simply requesting data from a backend API which should be pretty easy to replicate in your code. Just check what requests are being fired by the page and what they contain by using your browser's developer tools (in particular the Network tab).
+
+That sounds like a lot more work than just using Selenium/beautifulsoup.",">Most often the rendered JS is simply requesting data from a backend API which should be pretty easy to replicate in your code. Just check what requests are being fired by the page and what they contain by using your browser's developer tools (in particular the Network tab).
+
+That sounds like a lot more work than just using Selenium/beautifulsoup.",2,2022-11-30 05:26:56,<praw.models.comment_forest.CommentForest object at 0x000001BA57DE5A00>,z7qs7y,Python,t5_2qh0y,,False,False,t3_z7qs7y,t1_iy943i1,/r/Python/comments/z7qs7y/python_and_selenium_are_better_for_scraping_data/iybroql/
+32,iyaczgb,hmga2,"Concur, I'd also add before going that route that a basic knowledge about APIs, javascript and networking is needed.
+
+I must say though that it's much more satisfying than playing with the driver","Concur, I'd also add before going that route that a basic knowledge about APIs, javascript and networking is needed.
+
+I must say though that it's much more satisfying than playing with the driver",2,2022-11-29 22:46:29,<praw.models.comment_forest.CommentForest object at 0x000001BA57DE2DF0>,z7qs7y,Python,t5_2qh0y,,False,False,t3_z7qs7y,t1_iya9pzh,/r/Python/comments/z7qs7y/python_and_selenium_are_better_for_scraping_data/iyaczgb/
+33,iy9x4ae,ilikegamesandstuff,"I actually have the same problem. Currently I'm using selenium to log in to a site and then I use selenium-requests to send my requests from the browser's session. It's been running for a couple years now and unlike when it was automated using only selenium, it doesn't break every couple of months when something in the frontend changes.
+
+I did manage to capture and examine the log in request once, using Wireshark, but I haven't gotten around to trying to replicate it yet.","I actually have the same problem. Currently I'm using selenium to log in to a site and then I use selenium-requests to send my requests from the browser's session. It's been running for a couple years now and unlike when it was automated using only selenium, it doesn't break every couple of months when something in the frontend changes.
+
+I did manage to capture and examine the log in request once, using Wireshark, but I haven't gotten around to trying to replicate it yet.",3,2022-11-29 21:01:35,<praw.models.comment_forest.CommentForest object at 0x000001BA57DE58B0>,z7qs7y,Python,t5_2qh0y,,False,False,t3_z7qs7y,t1_iy9p7tl,/r/Python/comments/z7qs7y/python_and_selenium_are_better_for_scraping_data/iy9x4ae/
+34,iycchyt,hmga2,"That’s slightly true, but it’s a more reliable and performing way to do scraping. You do not have to update drivers every time you update your browser and generally speaking it’s much less likely something in the backend changes than in the front end.
+
+Difficulty depends a lot on the kind of website and authentication you get","That’s slightly true, but it’s a more reliable and performing way to do scraping. You do not have to update drivers every time you update your browser and generally speaking it’s much less likely something in the backend changes than in the front end.
+
+Difficulty depends a lot on the kind of website and authentication you get",3,2022-11-30 10:01:13,<praw.models.comment_forest.CommentForest object at 0x000001BA57DE5AC0>,z7qs7y,Python,t5_2qh0y,,False,False,t3_z7qs7y,t1_iybroql,/r/Python/comments/z7qs7y/python_and_selenium_are_better_for_scraping_data/iycchyt/
+35,inrizos,turtle4499,"The issue is people don't understand how to properly compare the difference.
+
+You CANNOT use a database that is on the same machine as your server. Because that dramatically reduces the latency for DB requests which then requires far less threads to saturate the CPU. The Asyncs performance advantage is entirely from requiring less OS bound thread switching.
+
+The slower and slower your awaiting io time is the faster and faster async will perform relative to sync.
+
+EDIT: Upon reading the code the async side is written incorrectly and has multiple bugs including but not limited to useless async calls clogging the task queue, non locked connection pool creation, and compares multiple independent json to bytes creation methods that have very different runtime. 
+
+Don't write Async code like you write sync code thread safety vs sync saftey has fully independent characteristics. Async has its own locking primitives that need to be used properly.","The issue is people don't understand how to properly compare the difference.
+
+You CANNOT use a database that is on the same machine as your server. Because that dramatically reduces the latency for DB requests which then requires far less threads to saturate the CPU. The Asyncs performance advantage is entirely from requiring less OS bound thread switching.
+
+The slower and slower your awaiting io time is the faster and faster async will perform relative to sync.
+
+EDIT: Upon reading the code the async side is written incorrectly and has multiple bugs including but not limited to useless async calls clogging the task queue, non locked connection pool creation, and compares multiple independent json to bytes creation methods that have very different runtime. 
+
+Don't write Async code like you write sync code thread safety vs sync saftey has fully independent characteristics. Async has its own locking primitives that need to be used properly.",101,2022-09-09 19:19:34,<praw.models.comment_forest.CommentForest object at 0x000001BA57C9AC10>,x9x8pb,Python,t5_2qh0y,,1662761719.0,False,t3_x9x8pb,t3_x9x8pb,/r/Python/comments/x9x8pb/async_python_is_not_faster/inrizos/
+36,ins3cul,AlexMTBDude,The author of this piece doesn't understand the purpose of async. It's not supposed to be faster. It's supposed to be concurrent. Threads should not block each other.,The author of this piece doesn't understand the purpose of async. It's not supposed to be faster. It's supposed to be concurrent. Threads should not block each other.,22,2022-09-09 21:39:49,<praw.models.comment_forest.CommentForest object at 0x000001BA57C9A490>,x9x8pb,Python,t5_2qh0y,,False,False,t3_x9x8pb,t3_x9x8pb,/r/Python/comments/x9x8pb/async_python_is_not_faster/ins3cul/
+37,inqdcpv,runew0lf,"Nobody said it was, the important thing is its non blocking..","Nobody said it was, the important thing is its non blocking..",55,2022-09-09 14:42:30,<praw.models.comment_forest.CommentForest object at 0x000001BA57C9AEB0>,x9x8pb,Python,t5_2qh0y,,False,False,t3_x9x8pb,t3_x9x8pb,/r/Python/comments/x9x8pb/async_python_is_not_faster/inqdcpv/
+38,inqvsi0,rouille,"I think this misses the main appeal of async. It's not about speed but about the programming model. Async makes it much easier to work with and compose concurrency compared to the thread based model. Just the fact that you can cancel tasks makes it trivial to do proper timeouts, which nobody gets right in sync applications, for example.
+
+It also allows things like structured concurrency.","I think this misses the main appeal of async. It's not about speed but about the programming model. Async makes it much easier to work with and compose concurrency compared to the thread based model. Just the fact that you can cancel tasks makes it trivial to do proper timeouts, which nobody gets right in sync applications, for example.
+
+It also allows things like structured concurrency.",22,2022-09-09 16:45:08,<praw.models.comment_forest.CommentForest object at 0x000001BA57C9E460>,x9x8pb,Python,t5_2qh0y,,False,False,t3_x9x8pb,t3_x9x8pb,/r/Python/comments/x9x8pb/async_python_is_not_faster/inqvsi0/
+39,inqggwo,ominous_anonymous,"[Along the lines of your thoughts](https://techblog.bozho.net/why-non-blocking/), just not Python-specific.  
+
+One of the comments was interesting:  
+
+>What async programming tries to solve (at least on the JVM, where threads are available) is issues related to Little’s Law. As long as you’re not hitting Little’s Law’s limits, you really *shoudn’t* see much of a difference between threads and async. But as your machine probably can’t handle 30K threads well, sooner or later you will be hitting those limits.  
+>See a theoretical analysis here: http://blog.paralleluniverse.co/2014/02/04/littles-law/ and a benchmark here: http://blog.paralleluniverse.co/2014/05/29/cascading-failures/ showing some very clear results (the benchmark uses Quasar, so you can keep your simple, blocking, synchronous code, while the library turns that to async code behind the scenes).  
+
+edit:  
+
+Shit, the URLs 404.  Here's wayback links for them both:  
+
+https://web.archive.org/web/20150212021619/http://blog.paralleluniverse.co/2014/02/04/littles-law/  
+https://web.archive.org/web/20160324015922/http://blog.paralleluniverse.co/2014/05/29/cascading-failures/","[Along the lines of your thoughts](https://techblog.bozho.net/why-non-blocking/), just not Python-specific.  
+
+One of the comments was interesting:  
+
+>What async programming tries to solve (at least on the JVM, where threads are available) is issues related to Little’s Law. As long as you’re not hitting Little’s Law’s limits, you really *shoudn’t* see much of a difference between threads and async. But as your machine probably can’t handle 30K threads well, sooner or later you will be hitting those limits.  
+>See a theoretical analysis here: http://blog.paralleluniverse.co/2014/02/04/littles-law/ and a benchmark here: http://blog.paralleluniverse.co/2014/05/29/cascading-failures/ showing some very clear results (the benchmark uses Quasar, so you can keep your simple, blocking, synchronous code, while the library turns that to async code behind the scenes).  
+
+edit:  
+
+Shit, the URLs 404.  Here's wayback links for them both:  
+
+https://web.archive.org/web/20150212021619/http://blog.paralleluniverse.co/2014/02/04/littles-law/  
+https://web.archive.org/web/20160324015922/http://blog.paralleluniverse.co/2014/05/29/cascading-failures/",13,2022-09-09 15:03:39,<praw.models.comment_forest.CommentForest object at 0x000001BA57C9E730>,x9x8pb,Python,t5_2qh0y,,1662736159.0,False,t3_x9x8pb,t3_x9x8pb,/r/Python/comments/x9x8pb/async_python_is_not_faster/inqggwo/
+40,inrmp41,Salfiiii,"Your title is misleading.
+
+Async might not be overwhelmingly faster - or even faster at all - for web frameworks, but definetly has use cases where it shines.
+
+If you have to do a lot of isolated REST calls which you can prepare beforehand, you get major benefits from using async(io).
+
+I’ve reduced a scripts runtime from 30 to 3 minutes by using concurrent, non blocking requests with asyncio. I even used a semaphore to only allow 10 concurrent requests, so there’s still potential left.
+
+It added a little complexity though, but nothing to fancy if one read the python book about asyncio, which I can recommend.","Your title is misleading.
+
+Async might not be overwhelmingly faster - or even faster at all - for web frameworks, but definetly has use cases where it shines.
+
+If you have to do a lot of isolated REST calls which you can prepare beforehand, you get major benefits from using async(io).
+
+I’ve reduced a scripts runtime from 30 to 3 minutes by using concurrent, non blocking requests with asyncio. I even used a semaphore to only allow 10 concurrent requests, so there’s still potential left.
+
+It added a little complexity though, but nothing to fancy if one read the python book about asyncio, which I can recommend.",13,2022-09-09 19:44:47,<praw.models.comment_forest.CommentForest object at 0x000001BA59C77C40>,x9x8pb,Python,t5_2qh0y,,1662794877.0,False,t3_x9x8pb,t3_x9x8pb,/r/Python/comments/x9x8pb/async_python_is_not_faster/inrmp41/
+41,inrnn22,spoonman59,"I can’t get past the title. Faster than what?
+
+Obviously async is father than non-async for certain workloads. If a program doing something completes in less time, it is “faster.”
+
+There’s nuance to the difference between concurrent and parallel, and situations where concurrency without parallelism provides no speed up (e.g., compute heavy async), but such an obviously click-bait headline is off putting.
+
+ETA: If the claim is that async isn’t faster than threads, or something else specific, sure. But not faster than anything…?","I can’t get past the title. Faster than what?
+
+Obviously async is father than non-async for certain workloads. If a program doing something completes in less time, it is “faster.”
+
+There’s nuance to the difference between concurrent and parallel, and situations where concurrency without parallelism provides no speed up (e.g., compute heavy async), but such an obviously click-bait headline is off putting.
+
+ETA: If the claim is that async isn’t faster than threads, or something else specific, sure. But not faster than anything…?",6,2022-09-09 19:51:14,<praw.models.comment_forest.CommentForest object at 0x000001BA5B84A340>,x9x8pb,Python,t5_2qh0y,,False,False,t3_x9x8pb,t3_x9x8pb,/r/Python/comments/x9x8pb/async_python_is_not_faster/inrnn22/
+42,inrp1ow,Human-Helicopter-684,Op learned today 😂,Op learned today 😂,4,2022-09-09 20:00:42,<praw.models.comment_forest.CommentForest object at 0x000001BA5B84A580>,x9x8pb,Python,t5_2qh0y,,False,False,t3_x9x8pb,t3_x9x8pb,/r/Python/comments/x9x8pb/async_python_is_not_faster/inrp1ow/
+43,inrskpp,danthemanvsqz,"Async should not be faster or slower than sync, async allows you to get a better bang for your buck when it comes to hardware costs. Think of a web socket sever like a chat service, you may have a bunch of connections that are mostly idle. Here you can use async to sleep on those sockets until a message arrives.","Async should not be faster or slower than sync, async allows you to get a better bang for your buck when it comes to hardware costs. Think of a web socket sever like a chat service, you may have a bunch of connections that are mostly idle. Here you can use async to sleep on those sockets until a message arrives.",2,2022-09-09 20:24:45,<praw.models.comment_forest.CommentForest object at 0x000001BA5B84A6D0>,x9x8pb,Python,t5_2qh0y,,False,False,t3_x9x8pb,t3_x9x8pb,/r/Python/comments/x9x8pb/async_python_is_not_faster/inrskpp/
+44,inrx3cm,dcbrown73,"lol at some of the crazy excuses being made about Python async.
+
+Async is ***DEFINITELY NOT*** about creating ""A pretty programming model"". 
+
+It's about ***\*efficiently handling of blocking operations\**** which ***\*SOULD\**** enhance throughput and responsiveness of said application.
+
+When people started talking about the asyncio Python module back before it was released, the expectations were sky high given what async programming is capable of.    Python's asyncio never met those expectations related to expected speed improvements, but that doesn't mean it's bad or shouldn't be used.
+
+If I recall, I believe there are supposed to be changes coming (if not already arriving) that should help amp up the efficiency of asyncio.","lol at some of the crazy excuses being made about Python async.
+
+Async is ***DEFINITELY NOT*** about creating ""A pretty programming model"". 
+
+It's about ***\*efficiently handling of blocking operations\**** which ***\*SOULD\**** enhance throughput and responsiveness of said application.
+
+When people started talking about the asyncio Python module back before it was released, the expectations were sky high given what async programming is capable of.    Python's asyncio never met those expectations related to expected speed improvements, but that doesn't mean it's bad or shouldn't be used.
+
+If I recall, I believe there are supposed to be changes coming (if not already arriving) that should help amp up the efficiency of asyncio.",2,2022-09-09 20:55:39,<praw.models.comment_forest.CommentForest object at 0x000001BA5B84AB80>,x9x8pb,Python,t5_2qh0y,,False,False,t3_x9x8pb,t3_x9x8pb,/r/Python/comments/x9x8pb/async_python_is_not_faster/inrx3cm/
+45,int508t,guhcampos,"I was going to bash the hell out of this article, but on a second thought the reason this kind of cluessness exists lies in async evangelists claiming its faster, to begin with.
+
+The concept here should be dead simple to anyone with a CS degree: 
+
+For classic ""sync"" code you rely on the underlying system to schedule CPU time for you. How that time is split between competing computations is up to the system, and will generally be a best effort for the majority of use cases.
+
+When you write async code you are taking back the control of CPU time scheduling from the system to your hands. You choose when to switch between different computations, because you believe you can do a better job than what the generic underlying system is doing. With great power, however, comes the great responsibility of managing that CPU allocation. If you are not carefully and intentionally managing the switch between your concurrent computations, you should not be using `async` at all.
+
+If you don't understand the concept of cooperative concurrency, just use threads to avoid blocking - or go do some reading. Claiming one is ""faster"" than the other just make you sound stupid.","I was going to bash the hell out of this article, but on a second thought the reason this kind of cluessness exists lies in async evangelists claiming its faster, to begin with.
+
+The concept here should be dead simple to anyone with a CS degree: 
+
+For classic ""sync"" code you rely on the underlying system to schedule CPU time for you. How that time is split between competing computations is up to the system, and will generally be a best effort for the majority of use cases.
+
+When you write async code you are taking back the control of CPU time scheduling from the system to your hands. You choose when to switch between different computations, because you believe you can do a better job than what the generic underlying system is doing. With great power, however, comes the great responsibility of managing that CPU allocation. If you are not carefully and intentionally managing the switch between your concurrent computations, you should not be using `async` at all.
+
+If you don't understand the concept of cooperative concurrency, just use threads to avoid blocking - or go do some reading. Claiming one is ""faster"" than the other just make you sound stupid.",0,2022-09-10 02:35:20,<praw.models.comment_forest.CommentForest object at 0x000001BA5B84AD00>,x9x8pb,Python,t5_2qh0y,,False,False,t3_x9x8pb,t3_x9x8pb,/r/Python/comments/x9x8pb/async_python_is_not_faster/int508t/
+46,inrogkh,sanshinron,"Yeah I used to update inventory via different APIs with requests and that would take minutes, rewrote it all with aiohttp and it takes 2.6 seconds.","Yeah I used to update inventory via different APIs with requests and that would take minutes, rewrote it all with aiohttp and it takes 2.6 seconds.",1,2022-09-09 19:56:45,<praw.models.comment_forest.CommentForest object at 0x000001BA581D20D0>,x9x8pb,Python,t5_2qh0y,,False,False,t3_x9x8pb,t3_x9x8pb,/r/Python/comments/x9x8pb/async_python_is_not_faster/inrogkh/
+47,inxlwvm,caleb,"Miguel Grinberg wrote a detailed response to this article: https://blog.miguelgrinberg.com/post/ignore-all-web-performance-benchmarks-including-this-one
+
+If your system has no latency then asyncio is much less useful. But I haven't come across too many backend systems without latency.","Miguel Grinberg wrote a detailed response to this article: https://blog.miguelgrinberg.com/post/ignore-all-web-performance-benchmarks-including-this-one
+
+If your system has no latency then asyncio is much less useful. But I haven't come across too many backend systems without latency.",1,2022-09-11 01:44:28,<praw.models.comment_forest.CommentForest object at 0x000001BA581E3400>,x9x8pb,Python,t5_2qh0y,,False,False,t3_x9x8pb,t3_x9x8pb,/r/Python/comments/x9x8pb/async_python_is_not_faster/inxlwvm/
+48,inrzb2u,spoonman59,"That sounds like a broad brush.
+
+For small data sets, all the database blocks will likely be cached anyway. Who has a large dataset and collocates the DB and the server?
+
+async can provide overlapping of compute and I/O for situations where the I/o and compute are Mixed, that is neither one dominates the runtime.
+
+It is true that async also reduces context switch and memory overhead of threads, but that is not the only (or entire, as you said) potential performance benefit of async.
+
+Some programs will complete in less time using async than blocking operations, depending on workload.","That sounds like a broad brush.
+
+For small data sets, all the database blocks will likely be cached anyway. Who has a large dataset and collocates the DB and the server?
+
+async can provide overlapping of compute and I/O for situations where the I/o and compute are Mixed, that is neither one dominates the runtime.
+
+It is true that async also reduces context switch and memory overhead of threads, but that is not the only (or entire, as you said) potential performance benefit of async.
+
+Some programs will complete in less time using async than blocking operations, depending on workload.",4,2022-09-09 21:11:06,<praw.models.comment_forest.CommentForest object at 0x000001BA57C9AE20>,x9x8pb,Python,t5_2qh0y,,False,False,t3_x9x8pb,t1_inrizos,/r/Python/comments/x9x8pb/async_python_is_not_faster/inrzb2u/
+49,inr31fb,benefit_of_mrkite,"Exactly.  My most common async use case isn’t serving up an api it’s retrieving data via REST api that supports pagination.
+
+For large datasets it takes forever - with pagination and asynch I can set workers and pools and then put the data back together as they (pages) come in.  
+
+Latency and other factors absolutely come into play during these scenarios and async allows me to bring data back with a worker while waiting on another worker.","Exactly.  My most common async use case isn’t serving up an api it’s retrieving data via REST api that supports pagination.
+
+For large datasets it takes forever - with pagination and asynch I can set workers and pools and then put the data back together as they (pages) come in.  
+
+Latency and other factors absolutely come into play during these scenarios and async allows me to bring data back with a worker while waiting on another worker.",19,2022-09-09 17:32:51,<praw.models.comment_forest.CommentForest object at 0x000001BA57C9E850>,x9x8pb,Python,t5_2qh0y,,False,False,t3_x9x8pb,t1_inqdcpv,/r/Python/comments/x9x8pb/async_python_is_not_faster/inr31fb/
+50,inqe5eb,higherorderbebop,What is the purpose of non blocking and the added complexity due to async if it doesn't lead to better peformance?,What is the purpose of non blocking and the added complexity due to async if it doesn't lead to better peformance?,-28,2022-09-09 14:47:57,<praw.models.comment_forest.CommentForest object at 0x000001BA57C9E4C0>,x9x8pb,Python,t5_2qh0y,,False,True,t3_x9x8pb,t1_inqdcpv,/r/Python/comments/x9x8pb/async_python_is_not_faster/inqe5eb/
+51,inr5ymz,rnike879,"Hey, I love your breakdown but could you explain more about the structured concurrency with async?","Hey, I love your breakdown but could you explain more about the structured concurrency with async?",3,2022-09-09 17:51:54,<praw.models.comment_forest.CommentForest object at 0x000001BA5820F490>,x9x8pb,Python,t5_2qh0y,,False,False,t3_x9x8pb,t1_inqvsi0,/r/Python/comments/x9x8pb/async_python_is_not_faster/inr5ymz/
+52,inrhr71,benefit_of_mrkite,"It’s also worth mentioning that not all operations make sense for async - file system ops are are blocking.
+
+The main purpose of asynchronous in python is working around the GIL","It’s also worth mentioning that not all operations make sense for async - file system ops are are blocking.
+
+The main purpose of asynchronous in python is working around the GIL",-6,2022-09-09 19:11:08,<praw.models.comment_forest.CommentForest object at 0x000001BA5820FDF0>,x9x8pb,Python,t5_2qh0y,,False,False,t3_x9x8pb,t1_inqvsi0,/r/Python/comments/x9x8pb/async_python_is_not_faster/inrhr71/
+53,inqi94k,higherorderbebop,"This is not my article. Found the outcome surprising and wanted to know the community's thoughts on this.
+
+Thanks for sharing these articles.","This is not my article. Found the outcome surprising and wanted to know the community's thoughts on this.
+
+Thanks for sharing these articles.",4,2022-09-09 15:15:49,<praw.models.comment_forest.CommentForest object at 0x000001BA59C77820>,x9x8pb,Python,t5_2qh0y,,False,True,t3_x9x8pb,t1_inqggwo,/r/Python/comments/x9x8pb/async_python_is_not_faster/inqi94k/
+54,inrteuc,danthemanvsqz,"That’s not how async works, if you’re waiting for io then the io is the bottleneck. Async allows you to get more out of your hardware for io bound tasks","That’s not how async works, if you’re waiting for io then the io is the bottleneck. Async allows you to get more out of your hardware for io bound tasks",-1,2022-09-09 20:30:26,<praw.models.comment_forest.CommentForest object at 0x000001BA5B84A280>,x9x8pb,Python,t5_2qh0y,,False,False,t3_x9x8pb,t1_inrnn22,/r/Python/comments/x9x8pb/async_python_is_not_faster/inrteuc/
+55,inteni1,bubthegreat,"Given the same cpu capacity and well written code, it IS faster if used in the right contexts at performing the same amount of tasks - you can’t make the request go any faster if it takes 2s for your request to finish.  If I have one thread, and 100 requests to make, async will complete the task faster than sync will because those two seconds of idle time waiting for a query or processing the response can be used to execute another query or process another response - it won’t make the processing any faster, but it CAN make the overall task faster when used appropriately.  The example I’ve outlined, you could finish all 100 requests in slightly more time that a sync system can process the first request because of blocking the thread.  
+
+That is objectively faster - but the definition of faster HAS to be clear, it won’t make processing your request any faster.  It will make it possible to process more requests at once when you’re dealing with externally constrained performance limitations.","Given the same cpu capacity and well written code, it IS faster if used in the right contexts at performing the same amount of tasks - you can’t make the request go any faster if it takes 2s for your request to finish.  If I have one thread, and 100 requests to make, async will complete the task faster than sync will because those two seconds of idle time waiting for a query or processing the response can be used to execute another query or process another response - it won’t make the processing any faster, but it CAN make the overall task faster when used appropriately.  The example I’ve outlined, you could finish all 100 requests in slightly more time that a sync system can process the first request because of blocking the thread.  
+
+That is objectively faster - but the definition of faster HAS to be clear, it won’t make processing your request any faster.  It will make it possible to process more requests at once when you’re dealing with externally constrained performance limitations.",2,2022-09-10 04:01:26,<praw.models.comment_forest.CommentForest object at 0x000001BA581D24F0>,x9x8pb,Python,t5_2qh0y,,False,False,t3_x9x8pb,t1_int508t,/r/Python/comments/x9x8pb/async_python_is_not_faster/inteni1/
+56,ins40yi,turtle4499,"Not really sure what you care about the database blocks being cached for unless you are referring to local caching. The point was round tripping time has a pretty heavy cost. That cost is being hidden by the db being on the same physical machine.
+
+I wasn't talking about all workloads I was talking about the web server workloads being discussed. Async isn't free. So even shaving off a 10th of a milliseconds of response time makes a dramatic difference. On 5000 requests per second that's half a second of dead time that threads need to make up. 
+
+Also reading the actual code there is some serious issues with it. They are getting their pool in every single async request asynchronously. Which doubles the number of events on the loop for no apparent reason. It's pretty easy to screw up async code if you don't understand how it works.","Not really sure what you care about the database blocks being cached for unless you are referring to local caching. The point was round tripping time has a pretty heavy cost. That cost is being hidden by the db being on the same physical machine.
+
+I wasn't talking about all workloads I was talking about the web server workloads being discussed. Async isn't free. So even shaving off a 10th of a milliseconds of response time makes a dramatic difference. On 5000 requests per second that's half a second of dead time that threads need to make up. 
+
+Also reading the actual code there is some serious issues with it. They are getting their pool in every single async request asynchronously. Which doubles the number of events on the loop for no apparent reason. It's pretty easy to screw up async code if you don't understand how it works.",7,2022-09-09 21:44:31,<praw.models.comment_forest.CommentForest object at 0x000001BA57C9AFD0>,x9x8pb,Python,t5_2qh0y,,False,False,t3_x9x8pb,t1_inrzb2u,/r/Python/comments/x9x8pb/async_python_is_not_faster/ins40yi/
+57,inqm8w2,alexs,Lower memory usage. Without async your only option is to just run a ton of processes with a load balancer (e.g. gunicorn) in front of them. Processes have a lot of memory overhead. Threads have less but still not great. Async has the lowest memory per client.,Lower memory usage. Without async your only option is to just run a ton of processes with a load balancer (e.g. gunicorn) in front of them. Processes have a lot of memory overhead. Threads have less but still not great. Async has the lowest memory per client.,25,2022-09-09 15:42:21,<praw.models.comment_forest.CommentForest object at 0x000001BA57C9E370>,x9x8pb,Python,t5_2qh0y,,False,False,t3_x9x8pb,t1_inqe5eb,/r/Python/comments/x9x8pb/async_python_is_not_faster/inqm8w2/
+58,inraqdy,bjorneylol,"> added complexity due to async
+
+This is very arguable - you are just trading the complexity of needing to know when to `await`/yeild for the complexity that comes with managing locks/multithreading hell","> added complexity due to async
+
+This is very arguable - you are just trading the complexity of needing to know when to `await`/yeild for the complexity that comes with managing locks/multithreading hell",16,2022-09-09 18:23:55,<praw.models.comment_forest.CommentForest object at 0x000001BA57C9E580>,x9x8pb,Python,t5_2qh0y,,False,False,t3_x9x8pb,t1_inqe5eb,/r/Python/comments/x9x8pb/async_python_is_not_faster/inraqdy/
+59,inrhbf7,benefit_of_mrkite,If you’ve ever chased down a deadlock problem in threading code you would it necessarily  say async is adding complexity.,If you’ve ever chased down a deadlock problem in threading code you would it necessarily  say async is adding complexity.,11,2022-09-09 19:08:09,<praw.models.comment_forest.CommentForest object at 0x000001BA57C9EB50>,x9x8pb,Python,t5_2qh0y,,False,False,t3_x9x8pb,t1_inqe5eb,/r/Python/comments/x9x8pb/async_python_is_not_faster/inrhbf7/
+60,inqmqag,ZachVorhies,"instead having 10k threads for 10k requests. you have one thread running 10k requests.
+
+It’s a webscale thing. You literally don’t need it unless you are doing massive traffic.","instead having 10k threads for 10k requests. you have one thread running 10k requests.
+
+It’s a webscale thing. You literally don’t need it unless you are doing massive traffic.",11,2022-09-09 15:45:32,<praw.models.comment_forest.CommentForest object at 0x000001BA57C9E9D0>,x9x8pb,Python,t5_2qh0y,,False,False,t3_x9x8pb,t1_inqe5eb,/r/Python/comments/x9x8pb/async_python_is_not_faster/inqmqag/
+61,inqfj9y,samgamschi,"For example, to implement a loading screen for a UI application.","For example, to implement a loading screen for a UI application.",7,2022-09-09 14:57:18,<praw.models.comment_forest.CommentForest object at 0x000001BA57C9ED00>,x9x8pb,Python,t5_2qh0y,,False,False,t3_x9x8pb,t1_inqe5eb,/r/Python/comments/x9x8pb/async_python_is_not_faster/inqfj9y/
+62,inr6m70,,[deleted],[deleted],5,2022-09-09 17:56:13,<praw.models.comment_forest.CommentForest object at 0x000001BA57C9EA60>,x9x8pb,Python,t5_2qh0y,,False,False,t3_x9x8pb,t1_inqe5eb,/r/Python/comments/x9x8pb/async_python_is_not_faster/inr6m70/
+63,inseu29,ManyInterests,"For a beautiful explanation suitable for beginners with simple examples, see [Raymond Hettinger's concurrency keynote](https://www.youtube.com/watch?v=9zinZmE3Ogk). David Beazley also has tons of talks on concurrency if you want to deep-dive.
+
+To give you the two-minute version:
+
+Basically, async is a *cooperative* model. Everybody designs their code to work together and ""yield"" control back to the event loop when you don't need to ""be running"" (like when waiting on OS calls or network for I/O -- that's the `io` in `asyncio`) so everything works in harmony. This ends up being very lighweight/efficient compared to alternatives.
+
+By comparison, in traditional threaded models, you don't have to worry about being cooperative with your concurrent neighbors -- what gets to execute is handled mostly handled the OS thread scheduler. However, this incurs a good deal of overhead from the GIL/thread context switching for every thread. There are synchronization primitives (e.g., locks) when you need them, but they can be costly in terms of performance and those costs rise exponentially as you add more threads.
+
+So the real benefit is not necessarily *speed* \-- you can't crunch prime numbers faster using asyncio -- the real benefit is massive concurrency (usually in I/O-bound work, like web applications).","For a beautiful explanation suitable for beginners with simple examples, see [Raymond Hettinger's concurrency keynote](https://www.youtube.com/watch?v=9zinZmE3Ogk). David Beazley also has tons of talks on concurrency if you want to deep-dive.
+
+To give you the two-minute version:
+
+Basically, async is a *cooperative* model. Everybody designs their code to work together and ""yield"" control back to the event loop when you don't need to ""be running"" (like when waiting on OS calls or network for I/O -- that's the `io` in `asyncio`) so everything works in harmony. This ends up being very lighweight/efficient compared to alternatives.
+
+By comparison, in traditional threaded models, you don't have to worry about being cooperative with your concurrent neighbors -- what gets to execute is handled mostly handled the OS thread scheduler. However, this incurs a good deal of overhead from the GIL/thread context switching for every thread. There are synchronization primitives (e.g., locks) when you need them, but they can be costly in terms of performance and those costs rise exponentially as you add more threads.
+
+So the real benefit is not necessarily *speed* \-- you can't crunch prime numbers faster using asyncio -- the real benefit is massive concurrency (usually in I/O-bound work, like web applications).",2,2022-09-09 23:04:24,<praw.models.comment_forest.CommentForest object at 0x000001BA59C77AC0>,x9x8pb,Python,t5_2qh0y,,1662764932.0,False,t3_x9x8pb,t1_inr5ymz,/r/Python/comments/x9x8pb/async_python_is_not_faster/inseu29/
+64,ins22uj,alkasm,"> The main purpose of asynchronous in python is working around the GIL
+
+No, it isn't. The GIL isn't mentioned at all in any of the async PEPs: 
+* https://peps.python.org/pep-0342/
+* https://peps.python.org/pep-0380/
+* https://peps.python.org/pep-0492/
+
+Threading on a single core (a-la Python's GIL) isn't fundamentally that different from async code; with async, the programmer decides when to context switch (via `await`), whereas in threading, the OS decides when to context switch.
+
+The primary motivation of async programming in Python is that it is an extremely useful, modern paradigm for concurrency, allowing for better event-driven processing than threads do. From PEP 492:
+
+> We believe that the changes proposed here will help keep Python relevant and competitive in a quickly growing area of asynchronous programming, as many other languages have adopted, or are planning to adopt, similar features","> The main purpose of asynchronous in python is working around the GIL
+
+No, it isn't. The GIL isn't mentioned at all in any of the async PEPs: 
+* https://peps.python.org/pep-0342/
+* https://peps.python.org/pep-0380/
+* https://peps.python.org/pep-0492/
+
+Threading on a single core (a-la Python's GIL) isn't fundamentally that different from async code; with async, the programmer decides when to context switch (via `await`), whereas in threading, the OS decides when to context switch.
+
+The primary motivation of async programming in Python is that it is an extremely useful, modern paradigm for concurrency, allowing for better event-driven processing than threads do. From PEP 492:
+
+> We believe that the changes proposed here will help keep Python relevant and competitive in a quickly growing area of asynchronous programming, as many other languages have adopted, or are planning to adopt, similar features",4,2022-09-09 21:30:40,<praw.models.comment_forest.CommentForest object at 0x000001BA59C77DC0>,x9x8pb,Python,t5_2qh0y,,1662760020.0,False,t3_x9x8pb,t1_inrhr71,/r/Python/comments/x9x8pb/async_python_is_not_faster/ins22uj/
+65,inrn654,,[deleted],[deleted],5,2022-09-09 19:48:01,<praw.models.comment_forest.CommentForest object at 0x000001BA59C77F40>,x9x8pb,Python,t5_2qh0y,,False,False,t3_x9x8pb,t1_inrhr71,/r/Python/comments/x9x8pb/async_python_is_not_faster/inrn654/
+66,inrug8b,spoonman59,"Ah, no, that’s not correct.
+
+Imagine you read data for 100 ms and then do compute for 100 ms. In other words, for each 100ms of data read there is 100 ms to compute.
+
+
+Imagine you process two blocks.
+
+With blocking, you read for 100 ms. Then you compute for 100 ms.
+Next you read for 100 ms. Then Compute for 100 ms. Wall clock time? 400 ms.
+
+Now async:
+
+You read 100 ms.
+You start the compute process, which returns immediately.
+You then issue the read the next chunk. Python releases the GIL while it does the read.
+Finally when the first async call is done, the second one can begin as soon as the second read completes.
+
+This example completes in 300 ms. So it is faster than non-async.
+
+Now you are overlapping I/o and compute. The second example will complete in 300 ms instead of 400ms for the first.
+
+Python release the GIL for I/o. So the threads give the exact same speed up as async.
+
+ETA: Your statement is correct when the program execution time is entirely dominated by the i/o.
+
+Async does not help performance when your application is almost all compute or almost all I/o. However, for a more balanced mix, it will allow progress to be made when a blocking program cannot make progress.
+
+This is the difference between concurrency and parallelism.","Ah, no, that’s not correct.
+
+Imagine you read data for 100 ms and then do compute for 100 ms. In other words, for each 100ms of data read there is 100 ms to compute.
+
+
+Imagine you process two blocks.
+
+With blocking, you read for 100 ms. Then you compute for 100 ms.
+Next you read for 100 ms. Then Compute for 100 ms. Wall clock time? 400 ms.
+
+Now async:
+
+You read 100 ms.
+You start the compute process, which returns immediately.
+You then issue the read the next chunk. Python releases the GIL while it does the read.
+Finally when the first async call is done, the second one can begin as soon as the second read completes.
+
+This example completes in 300 ms. So it is faster than non-async.
+
+Now you are overlapping I/o and compute. The second example will complete in 300 ms instead of 400ms for the first.
+
+Python release the GIL for I/o. So the threads give the exact same speed up as async.
+
+ETA: Your statement is correct when the program execution time is entirely dominated by the i/o.
+
+Async does not help performance when your application is almost all compute or almost all I/o. However, for a more balanced mix, it will allow progress to be made when a blocking program cannot make progress.
+
+This is the difference between concurrency and parallelism.",6,2022-09-09 20:37:32,<praw.models.comment_forest.CommentForest object at 0x000001BA5B84A760>,x9x8pb,Python,t5_2qh0y,,False,False,t3_x9x8pb,t1_inrteuc,/r/Python/comments/x9x8pb/async_python_is_not_faster/inrug8b/
+67,inteytc,guhcampos,You can simply spawn 100 threads for the same effect. Since you are waiting for IO the GIL will be likely irrelevant.,You can simply spawn 100 threads for the same effect. Since you are waiting for IO the GIL will be likely irrelevant.,1,2022-09-10 04:04:25,<praw.models.comment_forest.CommentForest object at 0x000001BA581E3D30>,x9x8pb,Python,t5_2qh0y,,False,False,t3_x9x8pb,t1_inteni1,/r/Python/comments/x9x8pb/async_python_is_not_faster/inteytc/
+68,ins4rnh,spoonman59,"I did misunderstand your point… my mistake.
+
+I see what you mean after clarifying and I agree. There are definitely some issues with how the test was conducted. You make an excellent point that by hiding the latency and hosting the DB locally we are not representing a realistic workload, and it taints all of the conclusions as well.
+
+ETA: not just not a realistic workload, but one which specifically portrays async worse than it normally would be.","I did misunderstand your point… my mistake.
+
+I see what you mean after clarifying and I agree. There are definitely some issues with how the test was conducted. You make an excellent point that by hiding the latency and hosting the DB locally we are not representing a realistic workload, and it taints all of the conclusions as well.
+
+ETA: not just not a realistic workload, but one which specifically portrays async worse than it normally would be.",2,2022-09-09 21:49:51,<praw.models.comment_forest.CommentForest object at 0x000001BA57C9E1C0>,x9x8pb,Python,t5_2qh0y,,False,False,t3_x9x8pb,t1_ins40yi,/r/Python/comments/x9x8pb/async_python_is_not_faster/ins4rnh/
+69,intd1w2,bubthegreat,And more scaleable cpu utilization for operations that would have otherwise been blocking for no good reason,And more scaleable cpu utilization for operations that would have otherwise been blocking for no good reason,0,2022-09-10 03:46:22,<praw.models.comment_forest.CommentForest object at 0x000001BA57C9EC10>,x9x8pb,Python,t5_2qh0y,,False,False,t3_x9x8pb,t1_inqm8w2,/r/Python/comments/x9x8pb/async_python_is_not_faster/intd1w2/
+70,inqp9qp,Big_Booty_Pics,"How exactly does a python program scale? If you're at the point of receiving 10s of thousands of requests/minute, do you basically have a ton of python containers or vm's all running that a load balancer evenly divides work to?  
+  
+Edit: I guess curiosity is frowned upon?","How exactly does a python program scale? If you're at the point of receiving 10s of thousands of requests/minute, do you basically have a ton of python containers or vm's all running that a load balancer evenly divides work to?  
+  
+Edit: I guess curiosity is frowned upon?",-5,2022-09-09 16:02:13,<praw.models.comment_forest.CommentForest object at 0x000001BA57C9EB80>,x9x8pb,Python,t5_2qh0y,,1662839489.0,False,t3_x9x8pb,t1_inqmqag,/r/Python/comments/x9x8pb/async_python_is_not_faster/inqp9qp/
+71,inr9jwv,wind_dude,"Exactly, that is the main benefit of async, and where you see the biggest gain. Waiting for responses from other servers.","Exactly, that is the main benefit of async, and where you see the biggest gain. Waiting for responses from other servers.",6,2022-09-09 18:15:55,<praw.models.comment_forest.CommentForest object at 0x000001BA5820FDC0>,x9x8pb,Python,t5_2qh0y,,False,False,t3_x9x8pb,t1_inr6m70,/r/Python/comments/x9x8pb/async_python_is_not_faster/inr9jwv/
+72,insxvve,benefit_of_mrkite,"Go read the old python mailer.
+
+I’m old.","Go read the old python mailer.
+
+I’m old.",-2,2022-09-10 01:36:43,<praw.models.comment_forest.CommentForest object at 0x000001BA59C771F0>,x9x8pb,Python,t5_2qh0y,,False,False,t3_x9x8pb,t1_ins22uj,/r/Python/comments/x9x8pb/async_python_is_not_faster/insxvve/
+73,inrolr3,benefit_of_mrkite,I didn’t say it was the only reason I said it was the main reason.  Don’t twist my words especially when you are quoting them.,I didn’t say it was the only reason I said it was the main reason.  Don’t twist my words especially when you are quoting them.,-1,2022-09-09 19:57:43,<praw.models.comment_forest.CommentForest object at 0x000001BA5B84A100>,x9x8pb,Python,t5_2qh0y,,False,False,t3_x9x8pb,t1_inrn654,/r/Python/comments/x9x8pb/async_python_is_not_faster/inrolr3/
+74,inrv2l4,danthemanvsqz,"You don’t need async to do that, you can use threads and may even be able to speed things up if you fork out sub processes because you can do the computations in parallel","You don’t need async to do that, you can use threads and may even be able to speed things up if you fork out sub processes because you can do the computations in parallel",-1,2022-09-09 20:41:47,<praw.models.comment_forest.CommentForest object at 0x000001BA5B84ACD0>,x9x8pb,Python,t5_2qh0y,,False,False,t3_x9x8pb,t1_inrug8b,/r/Python/comments/x9x8pb/async_python_is_not_faster/inrv2l4/
+75,intfrun,bubthegreat," I think you’re right and I’m confusing what I remember about multiprocess performance vs threading performance compared against async and it’s completely separate and work in parallel.  
+
+I recall something about performance of threading vs asyncio still having the win for asyncio here but I don’t remember where I picked up that impression now that it’s called into question"," I think you’re right and I’m confusing what I remember about multiprocess performance vs threading performance compared against async and it’s completely separate and work in parallel.  
+
+I recall something about performance of threading vs asyncio still having the win for asyncio here but I don’t remember where I picked up that impression now that it’s called into question",1,2022-09-10 04:12:20,<praw.models.comment_forest.CommentForest object at 0x000001BA581E31F0>,x9x8pb,Python,t5_2qh0y,,False,False,t3_x9x8pb,t1_inteytc,/r/Python/comments/x9x8pb/async_python_is_not_faster/intfrun/
+76,ins6cfe,turtle4499,"I also just realized he didn't use a lock on the pool creation. So there is actually a bug in every async program that there is going to be multiple pools created. 
+
+Don't write async code badly is a strong word of advice I have for everyone.","I also just realized he didn't use a lock on the pool creation. So there is actually a bug in every async program that there is going to be multiple pools created. 
+
+Don't write async code badly is a strong word of advice I have for everyone.",10,2022-09-09 22:01:23,<praw.models.comment_forest.CommentForest object at 0x000001BA57C9E640>,x9x8pb,Python,t5_2qh0y,,False,False,t3_x9x8pb,t1_ins4rnh,/r/Python/comments/x9x8pb/async_python_is_not_faster/ins6cfe/
+77,inr6ugb,wrosecrans,"There's no one answer to how to scale an application.  You look at what's the worst part, and focus on that.  You look at code changes, architecture changes, whatever moves the bottleneck somewhere else.
+
+If all your Python containers need to talk to a single database/storage backend instance, adding more containers will only make your problem worse.","There's no one answer to how to scale an application.  You look at what's the worst part, and focus on that.  You look at code changes, architecture changes, whatever moves the bottleneck somewhere else.
+
+If all your Python containers need to talk to a single database/storage backend instance, adding more containers will only make your problem worse.",8,2022-09-09 17:57:43,<praw.models.comment_forest.CommentForest object at 0x000001BA581D4A00>,x9x8pb,Python,t5_2qh0y,,False,False,t3_x9x8pb,t1_inqp9qp,/r/Python/comments/x9x8pb/async_python_is_not_faster/inr6ugb/
+78,inraisi,ZachVorhies,"There’s two ways to scale, you either make what you have faster (vertical scale) so you can handle the load, or you add more machines and load balance them (horizontal scale).
+
+Vertical scale is acceptable as the MUCH cheaper option.
+
+Async adds capacity to the machine (vertical scale) so you can either continue to run everything on one server for longer, or reduce the the number of machines you need to run your high traffic service in the long run.","There’s two ways to scale, you either make what you have faster (vertical scale) so you can handle the load, or you add more machines and load balance them (horizontal scale).
+
+Vertical scale is acceptable as the MUCH cheaper option.
+
+Async adds capacity to the machine (vertical scale) so you can either continue to run everything on one server for longer, or reduce the the number of machines you need to run your high traffic service in the long run.",5,2022-09-09 18:22:28,<praw.models.comment_forest.CommentForest object at 0x000001BA581FA400>,x9x8pb,Python,t5_2qh0y,,False,False,t3_x9x8pb,t1_inqp9qp,/r/Python/comments/x9x8pb/async_python_is_not_faster/inraisi/
+79,intnp0u,ZachVorhies,"Yes, that’s it exactly","Yes, that’s it exactly",1,2022-09-10 05:37:57,<praw.models.comment_forest.CommentForest object at 0x000001BA5820FAC0>,x9x8pb,Python,t5_2qh0y,,False,False,t3_x9x8pb,t1_inqp9qp,/r/Python/comments/x9x8pb/async_python_is_not_faster/intnp0u/
+80,inrdmz4,trilobyte-dev,Which is faster.,Which is faster.,3,2022-09-09 18:43:22,<praw.models.comment_forest.CommentForest object at 0x000001BA59C77940>,x9x8pb,Python,t5_2qh0y,,False,False,t3_x9x8pb,t1_inr9jwv,/r/Python/comments/x9x8pb/async_python_is_not_faster/inrdmz4/
+81,inrwztr,spoonman59,"Your original claim was that’s not how async works and that async can only help you get more out of your hardware for I/o bound tasks. 
+
+I have disproven this claim trough a simple example presented in introductory operating system classes. 
+
+Operating systems like Linux, and others, have had async I/o operations for years. The concept is the same even if the operating mechanisms are different. It’s not something unique or specific to python. It’s a different model of concurrency from the threading model.
+
+Now you are moving the goal posts. If you want to debate whether it is the right design to use for the task at hand, that’s a separate issue. But what you originally stated, that that is not how async works, is incorrect. It works as I described… unless you have evidence to the contrary?","Your original claim was that’s not how async works and that async can only help you get more out of your hardware for I/o bound tasks. 
+
+I have disproven this claim trough a simple example presented in introductory operating system classes. 
+
+Operating systems like Linux, and others, have had async I/o operations for years. The concept is the same even if the operating mechanisms are different. It’s not something unique or specific to python. It’s a different model of concurrency from the threading model.
+
+Now you are moving the goal posts. If you want to debate whether it is the right design to use for the task at hand, that’s a separate issue. But what you originally stated, that that is not how async works, is incorrect. It works as I described… unless you have evidence to the contrary?",5,2022-09-09 20:54:58,<praw.models.comment_forest.CommentForest object at 0x000001BA581D2640>,x9x8pb,Python,t5_2qh0y,,False,False,t3_x9x8pb,t1_inrv2l4,/r/Python/comments/x9x8pb/async_python_is_not_faster/inrwztr/
+82,ins6vtx,spoonman59,I struggled to make it past the title 😅,I struggled to make it past the title 😅,2,2022-09-09 22:05:22,<praw.models.comment_forest.CommentForest object at 0x000001BA57C9E970>,x9x8pb,Python,t5_2qh0y,,False,False,t3_x9x8pb,t1_ins6cfe,/r/Python/comments/x9x8pb/async_python_is_not_faster/ins6vtx/
+83,intdbq3,bubthegreat,This is what differentiates good architects vs bad architects - you HAVE to ARCHITECT for your workload on the extremes of performance - when you’re not at the edge case all of the problematic characteristics of your workload are hidden by the fact that you’re only making ten requests a minute.,This is what differentiates good architects vs bad architects - you HAVE to ARCHITECT for your workload on the extremes of performance - when you’re not at the edge case all of the problematic characteristics of your workload are hidden by the fact that you’re only making ten requests a minute.,1,2022-09-10 03:48:51,<praw.models.comment_forest.CommentForest object at 0x000001BA581FADC0>,x9x8pb,Python,t5_2qh0y,,False,False,t3_x9x8pb,t1_inr6ugb,/r/Python/comments/x9x8pb/async_python_is_not_faster/intdbq3/
