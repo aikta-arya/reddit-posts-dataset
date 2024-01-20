@@ -1,0 +1,896 @@
+,ID,Author,body,Comment,Score,Created On,Replies,Submission,Subreddit,Subreddit_ID,Distinguished,Edited,Is_submitter,link_id,Parent_id,Permalink
+0,k26r7bo,cjameshuff,"Most of it is aluminized kapton, not gold. Kapton is a strong, chemical and heat resistant golden brown polymer that's easily formed into films, and when the back side is coated with aluminum, it looks like gold foil. The other side directly shows the silvery aluminum surface.
+
+Some of it is actual gold. Gold can be formed into extremely thin foils and gold-plating technologies are very well developed, and it's corrosion resistant and very highly reflective in the infrared range.","Most of it is aluminized kapton, not gold. Kapton is a strong, chemical and heat resistant golden brown polymer that's easily formed into films, and when the back side is coated with aluminum, it looks like gold foil. The other side directly shows the silvery aluminum surface.
+
+Some of it is actual gold. Gold can be formed into extremely thin foils and gold-plating technologies are very well developed, and it's corrosion resistant and very highly reflective in the infrared range.",642,2023-09-25 20:27:10,<praw.models.comment_forest.CommentForest object at 0x000002541FF473D0>,16s272u,askscience,t5_2qm4e,,False,False,t3_16s272u,t3_16s272u,/r/askscience/comments/16s272u/why_do_space_programs_pick_a_gold_color_on/k26r7bo/
+1,k26q5l2,electric_ionland,"Gold is great for insulation in space. 
+
+First it's one of the best material at reflecting infrared and pretty good at reflecting visible light. That makes it good at blocking heat transfer in space that happens mostly through radiation in infrared.
+
+It also doesn't tarnish or oxidize easily so you can keep that behavior for a long time even if it's in storage or if it flies where atomic oxygen might be a concern.
+
+It's relatively easy to plate on objects or to make very thin layers through vapor deposition too. So you can get micron thin layers on plastic foil and make super lightweight blankets with that.
+
+It's just a good material overall to put on surfaces and it definitely passes the bling test to make spacecraft look cool!","Gold is great for insulation in space. 
+
+First it's one of the best material at reflecting infrared and pretty good at reflecting visible light. That makes it good at blocking heat transfer in space that happens mostly through radiation in infrared.
+
+It also doesn't tarnish or oxidize easily so you can keep that behavior for a long time even if it's in storage or if it flies where atomic oxygen might be a concern.
+
+It's relatively easy to plate on objects or to make very thin layers through vapor deposition too. So you can get micron thin layers on plastic foil and make super lightweight blankets with that.
+
+It's just a good material overall to put on surfaces and it definitely passes the bling test to make spacecraft look cool!",109,2023-09-25 20:21:05,<praw.models.comment_forest.CommentForest object at 0x000002541FF47550>,16s272u,askscience,t5_2qm4e,,1695673787.0,False,t3_16s272u,t3_16s272u,/r/askscience/comments/16s272u/why_do_space_programs_pick_a_gold_color_on/k26q5l2/
+2,k29nz33,Greatone198,"The “gold” color you see on spacecraft insulation isn’t actually gold. It’s a material called multi-layer insulation (MLI), which is a type of high-performance insulator that uses multiple radiation-heat transfer barriers to restrict the flow of (heat) energy. The gold-yellowish hue of the polyimide on the outside makes it look as if the satellite is wrapped in a golden film.
+
+The color doesn’t have any special meaning or purpose beyond its functional role. The MLI is very light but extremely strong, and it’s used for thermal control to protect the delicate on-board instruments from the extreme temperatures of space.
+
+Most of the insulation is aluminized kapton, not gold. Kapton is a strong, chemical and heat resistant golden brown polymer that’s easily formed into films, and when the back side is coated with aluminum, it looks like gold foil. The other side directly shows the silvery aluminum surface.","The “gold” color you see on spacecraft insulation isn’t actually gold. It’s a material called multi-layer insulation (MLI), which is a type of high-performance insulator that uses multiple radiation-heat transfer barriers to restrict the flow of (heat) energy. The gold-yellowish hue of the polyimide on the outside makes it look as if the satellite is wrapped in a golden film.
+
+The color doesn’t have any special meaning or purpose beyond its functional role. The MLI is very light but extremely strong, and it’s used for thermal control to protect the delicate on-board instruments from the extreme temperatures of space.
+
+Most of the insulation is aluminized kapton, not gold. Kapton is a strong, chemical and heat resistant golden brown polymer that’s easily formed into films, and when the back side is coated with aluminum, it looks like gold foil. The other side directly shows the silvery aluminum surface.",12,2023-09-26 11:22:35,<praw.models.comment_forest.CommentForest object at 0x000002541FF47670>,16s272u,askscience,t5_2qm4e,,1695727644.0,False,t3_16s272u,t3_16s272u,/r/askscience/comments/16s272u/why_do_space_programs_pick_a_gold_color_on/k29nz33/
+3,k27ph2n,PhalanX4012,"It either just is (as in the material they used simply happens to be that colour) or it’s coloured for a specific purpose (like something being painted white because white reflects light and will hold less heat). In this case, the “colour” gold has no practical benefit for this application so the answer will be that the materials they chose happen to be this colour.","It either just is (as in the material they used simply happens to be that colour) or it’s coloured for a specific purpose (like something being painted white because white reflects light and will hold less heat). In this case, the “colour” gold has no practical benefit for this application so the answer will be that the materials they chose happen to be this colour.",-4,2023-09-26 00:08:58,<praw.models.comment_forest.CommentForest object at 0x000002541FF51610>,16s272u,askscience,t5_2qm4e,,False,False,t3_16s272u,t3_16s272u,/r/askscience/comments/16s272u/why_do_space_programs_pick_a_gold_color_on/k27ph2n/
+4,k29hsf2,vish_spider,"i have a follow up question... for most of outer space (where there is no atmosphere to speak of), you couldn't really radiate any heat... so, wont a simpler IR/UV reflective coatings be more useful than thermal insulation?  
+
+&#x200B;
+
+i'd have thought the primary problem with space would be how to effectively dissipate the heat produced so has to not overheat the parts. (and by extension also cool the parts which are in direct sunlight)","i have a follow up question... for most of outer space (where there is no atmosphere to speak of), you couldn't really radiate any heat... so, wont a simpler IR/UV reflective coatings be more useful than thermal insulation?  
+
+&#x200B;
+
+i'd have thought the primary problem with space would be how to effectively dissipate the heat produced so has to not overheat the parts. (and by extension also cool the parts which are in direct sunlight)",1,2023-09-26 10:16:06,<praw.models.comment_forest.CommentForest object at 0x000002541FF51AF0>,16s272u,askscience,t5_2qm4e,,False,False,t3_16s272u,t3_16s272u,/r/askscience/comments/16s272u/why_do_space_programs_pick_a_gold_color_on/k29hsf2/
+5,k26s4o6,DoesEatOatz,"Alright, I get it, thank you sir. I still just wonder if gold ""means something"". IDK I'm a weird art geek who's into color meaning so I just thought it had something to do with gold representing success and inspiration.","Alright, I get it, thank you sir. I still just wonder if gold ""means something"". IDK I'm a weird art geek who's into color meaning so I just thought it had something to do with gold representing success and inspiration.",-499,2023-09-25 20:32:35,<praw.models.comment_forest.CommentForest object at 0x000002541FF47610>,16s272u,askscience,t5_2qm4e,,False,True,t3_16s272u,t1_k26r7bo,/r/askscience/comments/16s272u/why_do_space_programs_pick_a_gold_color_on/k26s4o6/
+6,k279spe,PsychoEngineer,"Yup, there’s a reason why it’s used as heat shield in some car/vehicle engine compartments.","Yup, there’s a reason why it’s used as heat shield in some car/vehicle engine compartments.",8,2023-09-25 22:22:18,<praw.models.comment_forest.CommentForest object at 0x000002541FF51550>,16s272u,askscience,t5_2qm4e,,False,False,t3_16s272u,t1_k26q5l2,/r/askscience/comments/16s272u/why_do_space_programs_pick_a_gold_color_on/k279spe/
+7,k26y2q2,Alfred_The_Sartan,I find it cool that we actually found a non-money use for the stuff after thousands of years.,I find it cool that we actually found a non-money use for the stuff after thousands of years.,2,2023-09-25 21:08:39,<praw.models.comment_forest.CommentForest object at 0x000002541FF515B0>,16s272u,askscience,t5_2qm4e,,False,False,t3_16s272u,t1_k26q5l2,/r/askscience/comments/16s272u/why_do_space_programs_pick_a_gold_color_on/k26y2q2/
+8,k2bf0yo,sjmuller,"Radiation does not require any atmosphere, you're thinking of convection. Thermal radiation is emitted by all matter having any heat energy, even in a vacuum. Radiative cooling is the primary means of thermal control for spacecraft, but many electrical components don't work well at ultra low temperatures, so insulation and sometimes heaters are needed to keep components in their desired operating range.","Radiation does not require any atmosphere, you're thinking of convection. Thermal radiation is emitted by all matter having any heat energy, even in a vacuum. Radiative cooling is the primary means of thermal control for spacecraft, but many electrical components don't work well at ultra low temperatures, so insulation and sometimes heaters are needed to keep components in their desired operating range.",3,2023-09-26 18:14:12,<praw.models.comment_forest.CommentForest object at 0x000002541FF51C70>,16s272u,askscience,t5_2qm4e,,False,False,t3_16s272u,t1_k29hsf2,/r/askscience/comments/16s272u/why_do_space_programs_pick_a_gold_color_on/k2bf0yo/
+9,k26tb12,zz_z,"Very little on spacecraft is representational, it's almost all functional.","Very little on spacecraft is representational, it's almost all functional.",647,2023-09-25 20:39:25,<praw.models.comment_forest.CommentForest object at 0x000002541FF476D0>,16s272u,askscience,t5_2qm4e,,False,False,t3_16s272u,t1_k26s4o6,/r/askscience/comments/16s272u/why_do_space_programs_pick_a_gold_color_on/k26tb12/
+10,k26taza,samadam,"Nope, sorry. Almost never would a scientist or engineer choose a color because of its appearance. It's going to be performance, efficiency, cost, something like that, first and foremost. Even the white you see on most spacecraft is to reflect the incoming radiation, not for a clean look.
+
+edit: see caveats below","Nope, sorry. Almost never would a scientist or engineer choose a color because of its appearance. It's going to be performance, efficiency, cost, something like that, first and foremost. Even the white you see on most spacecraft is to reflect the incoming radiation, not for a clean look.
+
+edit: see caveats below",320,2023-09-25 20:39:25,<praw.models.comment_forest.CommentForest object at 0x000002541FF47730>,16s272u,askscience,t5_2qm4e,,1695712593.0,False,t3_16s272u,t1_k26s4o6,/r/askscience/comments/16s272u/why_do_space_programs_pick_a_gold_color_on/k26taza/
+11,k27jkn5,colechristensen,"No, that’s just what color kapton is.  It’s special because of its material properties at high temperatures.
+
+Some of the kind of design you mention is done but only a little, the actual engineering needs drive most all decisions.","No, that’s just what color kapton is.  It’s special because of its material properties at high temperatures.
+
+Some of the kind of design you mention is done but only a little, the actual engineering needs drive most all decisions.",37,2023-09-25 23:28:50,<praw.models.comment_forest.CommentForest object at 0x000002541FF47790>,16s272u,askscience,t5_2qm4e,,False,False,t3_16s272u,t1_k26s4o6,/r/askscience/comments/16s272u/why_do_space_programs_pick_a_gold_color_on/k27jkn5/
+12,k277jcu,MoiJaimeLesCrepes,wrong field for that type of thinking.,wrong field for that type of thinking.,60,2023-09-25 22:07:29,<praw.models.comment_forest.CommentForest object at 0x000002541FF47DF0>,16s272u,askscience,t5_2qm4e,,False,False,t3_16s272u,t1_k26s4o6,/r/askscience/comments/16s272u/why_do_space_programs_pick_a_gold_color_on/k277jcu/
+13,k27j0yv,DelightfulNihilism,They looked for a material that was efficient at reflecting direct Infrared/heat radiation and also extremely light (but at the same time not get too cold.) Aluminized Gold-colored polymers just so happened to fit the bill. There are other materials for different radiation rejection profiles. The James Web Space Telescope has silicon-coated foil that is pink in color.,They looked for a material that was efficient at reflecting direct Infrared/heat radiation and also extremely light (but at the same time not get too cold.) Aluminized Gold-colored polymers just so happened to fit the bill. There are other materials for different radiation rejection profiles. The James Web Space Telescope has silicon-coated foil that is pink in color.,13,2023-09-25 23:25:09,<praw.models.comment_forest.CommentForest object at 0x000002541FF51130>,16s272u,askscience,t5_2qm4e,,1695684655.0,False,t3_16s272u,t1_k26s4o6,/r/askscience/comments/16s272u/why_do_space_programs_pick_a_gold_color_on/k27j0yv/
+14,k287lp2,kingbane2,"not many things on a spacecraft is representative of anything. because of how expensive it is to send any amount of weight into space, spacecraft are very minimal and only have what they need. everything has a purpose and often times a lot of really cool artistic things about space craft have a purpose.
+
+for instance, how they fold and unfurl things in spacecraft uses origami because it's such an efficient way to fold something and also to unfold things. there are very specific things that they look for. like how even the unfold is so things won't snag, so certain origami folds are better than others.
+
+here's a video showing some of it https://www.youtube.com/watch?v=Imx2VDJpFgo
+
+edit: here's another video showing some other folds https://www.youtube.com/watch?v=Ly3hMBD4h5E","not many things on a spacecraft is representative of anything. because of how expensive it is to send any amount of weight into space, spacecraft are very minimal and only have what they need. everything has a purpose and often times a lot of really cool artistic things about space craft have a purpose.
+
+for instance, how they fold and unfurl things in spacecraft uses origami because it's such an efficient way to fold something and also to unfold things. there are very specific things that they look for. like how even the unfold is so things won't snag, so certain origami folds are better than others.
+
+here's a video showing some of it https://www.youtube.com/watch?v=Imx2VDJpFgo
+
+edit: here's another video showing some other folds https://www.youtube.com/watch?v=Ly3hMBD4h5E",10,2023-09-26 02:11:00,<praw.models.comment_forest.CommentForest object at 0x000002541FF511F0>,16s272u,askscience,t5_2qm4e,,1695694512.0,False,t3_16s272u,t1_k26s4o6,/r/askscience/comments/16s272u/why_do_space_programs_pick_a_gold_color_on/k287lp2/
+15,k28kbfd,tehbored,"That's just the color of kapton. You can buy rolls of it on Amazon, it's all that golden yellow color.","That's just the color of kapton. You can buy rolls of it on Amazon, it's all that golden yellow color.",10,2023-09-26 03:46:40,<praw.models.comment_forest.CommentForest object at 0x000002541FF51250>,16s272u,askscience,t5_2qm4e,,False,False,t3_16s272u,t1_k26s4o6,/r/askscience/comments/16s272u/why_do_space_programs_pick_a_gold_color_on/k28kbfd/
+16,k28ynda,ocelot_piss,"Just because you like to look for meaning in color, you can't have seriously thought that everyone else - particularly spacecraft engineers - likes to think like that too?","Just because you like to look for meaning in color, you can't have seriously thought that everyone else - particularly spacecraft engineers - likes to think like that too?",17,2023-09-26 06:09:38,<praw.models.comment_forest.CommentForest object at 0x000002541FF512B0>,16s272u,askscience,t5_2qm4e,,False,False,t3_16s272u,t1_k26s4o6,/r/askscience/comments/16s272u/why_do_space_programs_pick_a_gold_color_on/k28ynda/
+17,k28xojv,hawkinsst7,"I get your question because I'm the exact opposite. If I look at something *designed*, I consider ""why did they make it that way? What functional advantage does it confer?""
+
+Do I want a white car so that it reflects more light and is cooler in summer, and more visible at night? But what if it snows or is foggy?
+
+Were opposite sides of the same coin.","I get your question because I'm the exact opposite. If I look at something *designed*, I consider ""why did they make it that way? What functional advantage does it confer?""
+
+Do I want a white car so that it reflects more light and is cooler in summer, and more visible at night? But what if it snows or is foggy?
+
+Were opposite sides of the same coin.",6,2023-09-26 05:58:33,<praw.models.comment_forest.CommentForest object at 0x000002541FF51310>,16s272u,askscience,t5_2qm4e,,False,False,t3_16s272u,t1_k26s4o6,/r/askscience/comments/16s272u/why_do_space_programs_pick_a_gold_color_on/k28xojv/
+18,k279gdi,muskytortoise,"You might be interested to know that plenty of colours in industry do have meaning! For example, equipment colour is often consistent for some manufacturers serving as a subtle advertisement. Another example of meaningful colours is visual information of things like danger, or specific types of hazards informing people what kind of safety precautions they need to take. Colours are full of meaning, for example the gold on spacecraft you asked about means that it was practical to use materials that have gold colour.","You might be interested to know that plenty of colours in industry do have meaning! For example, equipment colour is often consistent for some manufacturers serving as a subtle advertisement. Another example of meaningful colours is visual information of things like danger, or specific types of hazards informing people what kind of safety precautions they need to take. Colours are full of meaning, for example the gold on spacecraft you asked about means that it was practical to use materials that have gold colour.",10,2023-09-25 22:20:04,<praw.models.comment_forest.CommentForest object at 0x000002541FF51370>,16s272u,askscience,t5_2qm4e,,False,False,t3_16s272u,t1_k26s4o6,/r/askscience/comments/16s272u/why_do_space_programs_pick_a_gold_color_on/k279gdi/
+19,k293vnh,Trixxr,"Yeah, let’s slam on a bunch of extremely heavy material on this aerocraft","Yeah, let’s slam on a bunch of extremely heavy material on this aerocraft",3,2023-09-26 07:13:24,<praw.models.comment_forest.CommentForest object at 0x000002541FF513D0>,16s272u,askscience,t5_2qm4e,,False,False,t3_16s272u,t1_k26s4o6,/r/askscience/comments/16s272u/why_do_space_programs_pick_a_gold_color_on/k293vnh/
+20,k27om51,LurkerFailsLurking,"Meaning is generated in the mind of one who perceives the object of meaning. If it means something to you, then it means something even if there wasn't any meaning beyond functionality in the minds of the designers.","Meaning is generated in the mind of one who perceives the object of meaning. If it means something to you, then it means something even if there wasn't any meaning beyond functionality in the minds of the designers.",-15,2023-09-26 00:03:03,<praw.models.comment_forest.CommentForest object at 0x000002541FF51430>,16s272u,askscience,t5_2qm4e,,False,False,t3_16s272u,t1_k26s4o6,/r/askscience/comments/16s272u/why_do_space_programs_pick_a_gold_color_on/k27om51/
+21,k2do55r,silvarium,"Very rarely would an engineer choose a color for something as abstract as that outside of patriotism if it's a government funded project (which most space programs are). The reasons for a certain color boil down to: materials used, the function it would serve, and because it looks cool.","Very rarely would an engineer choose a color for something as abstract as that outside of patriotism if it's a government funded project (which most space programs are). The reasons for a certain color boil down to: materials used, the function it would serve, and because it looks cool.",1,2023-09-27 02:50:21,<praw.models.comment_forest.CommentForest object at 0x000002541FF51490>,16s272u,askscience,t5_2qm4e,,False,False,t3_16s272u,t1_k26s4o6,/r/askscience/comments/16s272u/why_do_space_programs_pick_a_gold_color_on/k2do55r/
+22,k2fis3x,That0neSummoner,Could they have made it a different color? Yes. Would it have added additional cost? Also yes.,Could they have made it a different color? Yes. Would it have added additional cost? Also yes.,1,2023-09-27 13:51:57,<praw.models.comment_forest.CommentForest object at 0x000002541FF514F0>,16s272u,askscience,t5_2qm4e,,False,False,t3_16s272u,t1_k26s4o6,/r/askscience/comments/16s272u/why_do_space_programs_pick_a_gold_color_on/k2fis3x/
+23,k278tme,seaworthy-sieve,"The reason gold has always been so valuable has always had to do with its usefulness. There's no other metal that doesn't rust or tarnish. No other metal is malleable enough to be woven into fabric or beaten into paper-thin sheets. You can make stuff out of gold that it would be impossible to make out of any other metal. We didn't just arbitrarily decide it was valuable and start using it for money. It's extremely useful stuff. It's in your phone too, it's an excellent conductor.","The reason gold has always been so valuable has always had to do with its usefulness. There's no other metal that doesn't rust or tarnish. No other metal is malleable enough to be woven into fabric or beaten into paper-thin sheets. You can make stuff out of gold that it would be impossible to make out of any other metal. We didn't just arbitrarily decide it was valuable and start using it for money. It's extremely useful stuff. It's in your phone too, it's an excellent conductor.",69,2023-09-25 22:15:52,<praw.models.comment_forest.CommentForest object at 0x000002541FF51670>,16s272u,askscience,t5_2qm4e,,1695680699.0,False,t3_16s272u,t1_k26y2q2,/r/askscience/comments/16s272u/why_do_space_programs_pick_a_gold_color_on/k278tme/
+24,k2ab9ro,phred14,"Might some of the reason gold holds such a place for denoting ""Wealth"" be because of primitive metallurgy?  As many have said, gold doesn't oxidize, nor does it combine readily with much.
+
+In other words, it's a ""shiny rock"" that you can find in its native state, separate, melt, and form into things.  No modern skills, no modern chemistry.  I don't know that there is any other metal that could have been turned into adornments so early in history.  Even for stone adornments, you need something to mount and attach, and gold fills that bill too.  (edit - ""attach"", not ""attack"")","Might some of the reason gold holds such a place for denoting ""Wealth"" be because of primitive metallurgy?  As many have said, gold doesn't oxidize, nor does it combine readily with much.
+
+In other words, it's a ""shiny rock"" that you can find in its native state, separate, melt, and form into things.  No modern skills, no modern chemistry.  I don't know that there is any other metal that could have been turned into adornments so early in history.  Even for stone adornments, you need something to mount and attach, and gold fills that bill too.  (edit - ""attach"", not ""attack"")",5,2023-09-26 14:19:10,<praw.models.comment_forest.CommentForest object at 0x000002541FF516D0>,16s272u,askscience,t5_2qm4e,,False,False,t3_16s272u,t1_k26y2q2,/r/askscience/comments/16s272u/why_do_space_programs_pick_a_gold_color_on/k2ab9ro/
+25,k28065f,goj1ra,"> I find it cool that we actually found a non-money use for the stuff after thousands of years.
+
+That's a misunderstanding of how gold gained the prominence that it did.
+
+Multiple cultures have independently found gold to be an important material, because of its usefulness. Its use as currency was a consequence of that, not the other way around.
+
+Gold is one of the most versatile metals - we'd probably use it a lot more if it was more common. It conducts electricity, it doesn't corrode, it's easy to work, it can be drawn into wire, hammered into thin sheets, it alloys with many other metals, and it can be melted and cast into intricate shapes. And of course, it has a pretty color and shine.
+
+All that, combined with its rarity, is what made gold a common choice for money.","> I find it cool that we actually found a non-money use for the stuff after thousands of years.
+
+That's a misunderstanding of how gold gained the prominence that it did.
+
+Multiple cultures have independently found gold to be an important material, because of its usefulness. Its use as currency was a consequence of that, not the other way around.
+
+Gold is one of the most versatile metals - we'd probably use it a lot more if it was more common. It conducts electricity, it doesn't corrode, it's easy to work, it can be drawn into wire, hammered into thin sheets, it alloys with many other metals, and it can be melted and cast into intricate shapes. And of course, it has a pretty color and shine.
+
+All that, combined with its rarity, is what made gold a common choice for money.",5,2023-09-26 01:20:46,<praw.models.comment_forest.CommentForest object at 0x000002541FF51A30>,16s272u,askscience,t5_2qm4e,,False,False,t3_16s272u,t1_k26y2q2,/r/askscience/comments/16s272u/why_do_space_programs_pick_a_gold_color_on/k28065f/
+26,k28bt5y,brickmaster32000,"> Almost never would a scientist or engineer choose a color because of its appearance.
+
+Only if picking the color actually constrains the designs. Engineers definitely have no problem making something cool for the sake of being cool if they can get away with it.","> Almost never would a scientist or engineer choose a color because of its appearance.
+
+Only if picking the color actually constrains the designs. Engineers definitely have no problem making something cool for the sake of being cool if they can get away with it.",102,2023-09-26 02:40:34,<praw.models.comment_forest.CommentForest object at 0x000002541FF477F0>,16s272u,askscience,t5_2qm4e,,False,False,t3_16s272u,t1_k26taza,/r/askscience/comments/16s272u/why_do_space_programs_pick_a_gold_color_on/k28bt5y/
+27,k28xuiv,oracle989,"You say that, but having worked in aerospace manufacturing there's still plenty of ""can we get that in x color instead of y? It looks better and our management wants all the parts on this internal-to-the-vehicle subsystem to be in the company colors.""
+
+People like the shiny colors that make the system look like it ""should."". They're just usually less willing to accept functional tradeoffs for the ""right"" color in some fields than others.","You say that, but having worked in aerospace manufacturing there's still plenty of ""can we get that in x color instead of y? It looks better and our management wants all the parts on this internal-to-the-vehicle subsystem to be in the company colors.""
+
+People like the shiny colors that make the system look like it ""should."". They're just usually less willing to accept functional tradeoffs for the ""right"" color in some fields than others.",10,2023-09-26 06:00:25,<praw.models.comment_forest.CommentForest object at 0x000002541FF47850>,16s272u,askscience,t5_2qm4e,,False,False,t3_16s272u,t1_k26taza,/r/askscience/comments/16s272u/why_do_space_programs_pick_a_gold_color_on/k28xuiv/
+28,k27gc00,krisalyssa,"That’s true for most engineers, but the civil engineers who design flagship bridges (think Golden Gate or Mackinac) often choose a signature color for the bridge. They’re a special case at the intersection of engineering and architecture.
+
+Edit: I may have a faulty memory. I thought I’d seen that David Steinman had chosen the colors for the Mackinac Bridge, but [this listicle from the Detroit Free Press](https://www.freep.com/story/news/local/michigan/2017/11/01/mackinac-bridge-facts/793165001/#) says that an ad agency made up colors for a print ad, and the bridge authority liked them enough that they became reality.","That’s true for most engineers, but the civil engineers who design flagship bridges (think Golden Gate or Mackinac) often choose a signature color for the bridge. They’re a special case at the intersection of engineering and architecture.
+
+Edit: I may have a faulty memory. I thought I’d seen that David Steinman had chosen the colors for the Mackinac Bridge, but [this listicle from the Detroit Free Press](https://www.freep.com/story/news/local/michigan/2017/11/01/mackinac-bridge-facts/793165001/#) says that an ad agency made up colors for a print ad, and the bridge authority liked them enough that they became reality.",22,2023-09-25 23:06:41,<praw.models.comment_forest.CommentForest object at 0x000002541FF47BB0>,16s272u,askscience,t5_2qm4e,,1695694060.0,False,t3_16s272u,t1_k26taza,/r/askscience/comments/16s272u/why_do_space_programs_pick_a_gold_color_on/k27gc00/
+29,k28z7mj,PyroDesu,"> There's no other metal that doesn't rust or tarnish.
+
+Platinum, iridium, palladium, rhodium, ruthenium, antimony, germanium, tungsten...
+
+Technically, pure silver won't tarnish just in air, either. Normal silver tarnish is from sulfur compounds.
+
+If you include ""forms a hard, impermeable oxidation layer that sticks to it and prevents corrosion"", aluminium, titanium, magnesium, cobalt, vanadium, nickel...","> There's no other metal that doesn't rust or tarnish.
+
+Platinum, iridium, palladium, rhodium, ruthenium, antimony, germanium, tungsten...
+
+Technically, pure silver won't tarnish just in air, either. Normal silver tarnish is from sulfur compounds.
+
+If you include ""forms a hard, impermeable oxidation layer that sticks to it and prevents corrosion"", aluminium, titanium, magnesium, cobalt, vanadium, nickel...",16,2023-09-26 06:16:16,<praw.models.comment_forest.CommentForest object at 0x000002541FF51730>,16s272u,askscience,t5_2qm4e,,False,False,t3_16s272u,t1_k278tme,/r/askscience/comments/16s272u/why_do_space_programs_pick_a_gold_color_on/k28z7mj/
+30,k27ieyo,gnorty,"> it's an excellent conductor.
+
+gold is actually not that great of a conductor. Copper is better, silver is better still and both are a lot cheaper than gold.
+
+Gold is used in electronics for connectors because it does not oxidise, so the connections stay clean. but it is only a thin layer of cold plate on top of (usually) copper.","> it's an excellent conductor.
+
+gold is actually not that great of a conductor. Copper is better, silver is better still and both are a lot cheaper than gold.
+
+Gold is used in electronics for connectors because it does not oxidise, so the connections stay clean. but it is only a thin layer of cold plate on top of (usually) copper.",35,2023-09-25 23:20:59,<praw.models.comment_forest.CommentForest object at 0x000002541FF51790>,16s272u,askscience,t5_2qm4e,,False,False,t3_16s272u,t1_k278tme,/r/askscience/comments/16s272u/why_do_space_programs_pick_a_gold_color_on/k27ieyo/
+31,k27f63f,Bluemofia,"That's a justification for the modern day after metallurgy was refined as a science, and we developed technologies that have very specific requirements that is best met by Gold.
+
+If it were truly for its function over aesthetics historically, we would see ancient artifacts with gold primarily in something functional, rather than decorative like jewelry, as they would be far more valuable for their functionality and not be wasted on decoration.
+
+Weaving metal into fabric like Samite is cool and all, but ignoring the aesthetics, why would you do so? Gold being so malleable does little to protect the wearer from attacks. Wool or cotton doesn't corrode, and even if it did, having small sections of it not corrode doesn't change anything. And wearable tech needing the conductivity of Gold isn't even a thing today, let alone the pre-electricity 1700s.
+
+And finally, from a different angle, look onto other metals that are valuable today. The Spanish dumped tons of Platinum into the ocean because it was being used to counterfeit Silver and Gold, even though Platinum is far more valuable than Gold today because of its industrial applications, especially as a catalyst. But because it looked so similar to Silver, was harder to process, it was considerably less valuable. Its only practical use back then was to be good at counterfeiting the more valuable Gold because it was very similar in density. Only after more modern techniques of processing it was developed, did it, once again, be used as jewelry because it has a different type of shiny than Silver that activates the crow brain.","That's a justification for the modern day after metallurgy was refined as a science, and we developed technologies that have very specific requirements that is best met by Gold.
+
+If it were truly for its function over aesthetics historically, we would see ancient artifacts with gold primarily in something functional, rather than decorative like jewelry, as they would be far more valuable for their functionality and not be wasted on decoration.
+
+Weaving metal into fabric like Samite is cool and all, but ignoring the aesthetics, why would you do so? Gold being so malleable does little to protect the wearer from attacks. Wool or cotton doesn't corrode, and even if it did, having small sections of it not corrode doesn't change anything. And wearable tech needing the conductivity of Gold isn't even a thing today, let alone the pre-electricity 1700s.
+
+And finally, from a different angle, look onto other metals that are valuable today. The Spanish dumped tons of Platinum into the ocean because it was being used to counterfeit Silver and Gold, even though Platinum is far more valuable than Gold today because of its industrial applications, especially as a catalyst. But because it looked so similar to Silver, was harder to process, it was considerably less valuable. Its only practical use back then was to be good at counterfeiting the more valuable Gold because it was very similar in density. Only after more modern techniques of processing it was developed, did it, once again, be used as jewelry because it has a different type of shiny than Silver that activates the crow brain.",15,2023-09-25 22:58:38,<praw.models.comment_forest.CommentForest object at 0x000002541FF517F0>,16s272u,askscience,t5_2qm4e,,False,False,t3_16s272u,t1_k278tme,/r/askscience/comments/16s272u/why_do_space_programs_pick_a_gold_color_on/k27f63f/
+32,k281lrp,salamander_salad,">The reason gold has always been so valuable has always had to do with its usefulness.
+
+The opposite, in fact. As a visually appealing metal with few practical uses, it could be viewed entirely as a store of value.",">The reason gold has always been so valuable has always had to do with its usefulness.
+
+The opposite, in fact. As a visually appealing metal with few practical uses, it could be viewed entirely as a store of value.",2,2023-09-26 01:30:08,<praw.models.comment_forest.CommentForest object at 0x000002541FF51910>,16s272u,askscience,t5_2qm4e,,False,False,t3_16s272u,t1_k278tme,/r/askscience/comments/16s272u/why_do_space_programs_pick_a_gold_color_on/k281lrp/
+33,k2ax9c5,OlympusMons94,"Copper is also found in its native form, and was worked as far back as ~9500 years ago [in the Great Lakes region](https://en.wikipedia.org/wiki/Old_Copper_complex).
+
+The [earliest discovered gold artifacts/jewelry](https://en.wikipedia.org/wiki/Varna_Necropolis) is at most ~6600 years old. Smelting of ore to produce [copper](https://en.wikipedia.org/wiki/Chalcolithic) and [lead](https://en.wikipedia.org/wiki/Yarim_Tepe) predates this.","Copper is also found in its native form, and was worked as far back as ~9500 years ago [in the Great Lakes region](https://en.wikipedia.org/wiki/Old_Copper_complex).
+
+The [earliest discovered gold artifacts/jewelry](https://en.wikipedia.org/wiki/Varna_Necropolis) is at most ~6600 years old. Smelting of ore to produce [copper](https://en.wikipedia.org/wiki/Chalcolithic) and [lead](https://en.wikipedia.org/wiki/Yarim_Tepe) predates this.",3,2023-09-26 16:30:46,<praw.models.comment_forest.CommentForest object at 0x000002541FF51A90>,16s272u,askscience,t5_2qm4e,,False,False,t3_16s272u,t1_k2ab9ro,/r/askscience/comments/16s272u/why_do_space_programs_pick_a_gold_color_on/k2ax9c5/
+34,k29rj2o,PM_ME_YOUR_ANYTHNG,"The only example I can come up with something done ""because it's cool"" was the code in the pattern of the mars rover parachute by JPL","The only example I can come up with something done ""because it's cool"" was the code in the pattern of the mars rover parachute by JPL",15,2023-09-26 11:54:47,<praw.models.comment_forest.CommentForest object at 0x000002541FF478B0>,16s272u,askscience,t5_2qm4e,,False,False,t3_16s272u,t1_k28bt5y,/r/askscience/comments/16s272u/why_do_space_programs_pick_a_gold_color_on/k29rj2o/
+35,k2bs1gt,Protomeathian,"Design Engineer here. For the last product I designed, I made it resemble a spaceship from a game I like. Did it have to be that shape? No. Do I get a chuckle every time I see it? Yes.","Design Engineer here. For the last product I designed, I made it resemble a spaceship from a game I like. Did it have to be that shape? No. Do I get a chuckle every time I see it? Yes.",11,2023-09-26 19:29:17,<praw.models.comment_forest.CommentForest object at 0x000002541FF47910>,16s272u,askscience,t5_2qm4e,,False,False,t3_16s272u,t1_k28bt5y,/r/askscience/comments/16s272u/why_do_space_programs_pick_a_gold_color_on/k2bs1gt/
+36,k299xf2,scottcmu,"A good example is painting ""United States of America"" on the side of a rocket. Not functional at all, but definitely necessary.","A good example is painting ""United States of America"" on the side of a rocket. Not functional at all, but definitely necessary.",9,2023-09-26 08:33:51,<praw.models.comment_forest.CommentForest object at 0x000002541FF479D0>,16s272u,askscience,t5_2qm4e,,False,False,t3_16s272u,t1_k28bt5y,/r/askscience/comments/16s272u/why_do_space_programs_pick_a_gold_color_on/k299xf2/
+37,k2c3gvi,manassassinman,Airplanes are white because white has less pigment. Less pigment over a whole plane saves 8 passengers of weight. I’d imagine less pigment on a space shuttle is about the same importance and scale.,Airplanes are white because white has less pigment. Less pigment over a whole plane saves 8 passengers of weight. I’d imagine less pigment on a space shuttle is about the same importance and scale.,1,2023-09-26 20:34:09,<praw.models.comment_forest.CommentForest object at 0x000002541FF47CD0>,16s272u,askscience,t5_2qm4e,,False,False,t3_16s272u,t1_k28xuiv,/r/askscience/comments/16s272u/why_do_space_programs_pick_a_gold_color_on/k2c3gvi/
+38,k27xmzm,Lotharofthepotatoppl,"IIRC they hadn’t decided on a color for Golden Gate Bridge and decided to just keep it red, as all the parts had been painted red before delivery as a corrosion preventative","IIRC they hadn’t decided on a color for Golden Gate Bridge and decided to just keep it red, as all the parts had been painted red before delivery as a corrosion preventative",22,2023-09-26 01:03:55,<praw.models.comment_forest.CommentForest object at 0x000002541FF47EB0>,16s272u,askscience,t5_2qm4e,,False,False,t3_16s272u,t1_k27gc00,/r/askscience/comments/16s272u/why_do_space_programs_pick_a_gold_color_on/k27xmzm/
+39,k27ii7u,Just4TehLulz,"Yeah but a lot of the time large infrastructure projects that are highly visible and could become iconic to the location are voted on by the public, so in a way its non-engineers deciding that","Yeah but a lot of the time large infrastructure projects that are highly visible and could become iconic to the location are voted on by the public, so in a way its non-engineers deciding that",25,2023-09-25 23:21:36,<praw.models.comment_forest.CommentForest object at 0x000002541FF47F10>,16s272u,askscience,t5_2qm4e,,False,False,t3_16s272u,t1_k27gc00,/r/askscience/comments/16s272u/why_do_space_programs_pick_a_gold_color_on/k27ii7u/
+40,k27ps9m,samadam,"You're right. There are some engineers that integrate a lot of design for an audience or consumers, and have to balance those aspects. Deep space craft engineers, whose work will never be seen my humans outside of promotional images, do not.","You're right. There are some engineers that integrate a lot of design for an audience or consumers, and have to balance those aspects. Deep space craft engineers, whose work will never be seen my humans outside of promotional images, do not.",9,2023-09-26 00:11:05,<praw.models.comment_forest.CommentForest object at 0x000002541FF47FD0>,16s272u,askscience,t5_2qm4e,,False,False,t3_16s272u,t1_k27gc00,/r/askscience/comments/16s272u/why_do_space_programs_pick_a_gold_color_on/k27ps9m/
+41,k27z50d,goj1ra,"""Often""? Really?","""Often""? Really?",1,2023-09-26 01:13:59,<praw.models.comment_forest.CommentForest object at 0x000002541FF510D0>,16s272u,askscience,t5_2qm4e,,False,False,t3_16s272u,t1_k27gc00,/r/askscience/comments/16s272u/why_do_space_programs_pick_a_gold_color_on/k27z50d/
+42,k28bxbv,hwillis,"> Gold is used in electronics for connectors
+
+In a phone, almost all the gold is in wire bonds and maybe a very small amount in certain MEMS devices.  Gold is good for connecting between a silicon die and the external pins, because its ductility makes it easier to smush down a good connection.  Copper is replacing it gradually because of technical improvements.
+
+In some connectors gold doesn't even look like gold, which is kind of neat.  It's usually alloyed for hardness and wear resistance, which can make it look like copper or even silver.  Doesn't take that much to overcome the yellow color.","> Gold is used in electronics for connectors
+
+In a phone, almost all the gold is in wire bonds and maybe a very small amount in certain MEMS devices.  Gold is good for connecting between a silicon die and the external pins, because its ductility makes it easier to smush down a good connection.  Copper is replacing it gradually because of technical improvements.
+
+In some connectors gold doesn't even look like gold, which is kind of neat.  It's usually alloyed for hardness and wear resistance, which can make it look like copper or even silver.  Doesn't take that much to overcome the yellow color.",17,2023-09-26 02:41:24,<praw.models.comment_forest.CommentForest object at 0x000002541FF51850>,16s272u,askscience,t5_2qm4e,,False,False,t3_16s272u,t1_k27ieyo,/r/askscience/comments/16s272u/why_do_space_programs_pick_a_gold_color_on/k28bxbv/
+43,k284nhq,Can-DontAttitude,"""not that great""
+
+It's still regarded as an excellent conductor. No, it's not #1, but it's still far better than most","""not that great""
+
+It's still regarded as an excellent conductor. No, it's not #1, but it's still far better than most",27,2023-09-26 01:50:40,<praw.models.comment_forest.CommentForest object at 0x000002541FF518B0>,16s272u,askscience,t5_2qm4e,,False,False,t3_16s272u,t1_k27ieyo,/r/askscience/comments/16s272u/why_do_space_programs_pick_a_gold_color_on/k284nhq/
+44,k27xv7a,seaworthy-sieve,Being functional because it allows a smith to make finer jewelry in less time is still functional. Things that are useful for creating valuable art are useful.,Being functional because it allows a smith to make finer jewelry in less time is still functional. Things that are useful for creating valuable art are useful.,13,2023-09-26 01:05:27,<praw.models.comment_forest.CommentForest object at 0x000002541FF51970>,16s272u,askscience,t5_2qm4e,,False,False,t3_16s272u,t1_k27f63f,/r/askscience/comments/16s272u/why_do_space_programs_pick_a_gold_color_on/k27xv7a/
+45,k27kr24,hawklost,"> Wool or cotton doesn't corrode, and even if it did, having small sections of it not corrode doesn't change anything
+
+Lets see
+
+A rarer object that is shiny, doesn't wear down like wool or cotton, can hold its shape, can be used for many different things, is actually *easy* to work with compared to many other metals and has a color that stays with it even after working it.
+
+Yeah, absolutely no reason to use it for decorative purposes at all, even though gold was mostly valued For its decorative purposes and unique properties over things that any (relatively) person could get.
+
+Oh yeah, and it can be plated onto things too and have them look pretty.","> Wool or cotton doesn't corrode, and even if it did, having small sections of it not corrode doesn't change anything
+
+Lets see
+
+A rarer object that is shiny, doesn't wear down like wool or cotton, can hold its shape, can be used for many different things, is actually *easy* to work with compared to many other metals and has a color that stays with it even after working it.
+
+Yeah, absolutely no reason to use it for decorative purposes at all, even though gold was mostly valued For its decorative purposes and unique properties over things that any (relatively) person could get.
+
+Oh yeah, and it can be plated onto things too and have them look pretty.",10,2023-09-25 23:36:47,<praw.models.comment_forest.CommentForest object at 0x000002541FF519D0>,16s272u,askscience,t5_2qm4e,,False,False,t3_16s272u,t1_k27f63f,/r/askscience/comments/16s272u/why_do_space_programs_pick_a_gold_color_on/k27kr24/
+46,k2b1zrf,phred14,"And I guess I've seen things about early copper jewelry, now that you mention it.  I wasn't sure about native copper, since I'm at least familiar with the name ""cinnabar"" and once read about the number of metals they eventually got from the flue gas of refining copper.  What were early uses of lead?  I know Romans had (sometimes horrible) uses for it, but am not familiar with earlier uses.
+
+But as for jewelry, copper tarnishes or at least changes appearance with time, and gold doesn't.","And I guess I've seen things about early copper jewelry, now that you mention it.  I wasn't sure about native copper, since I'm at least familiar with the name ""cinnabar"" and once read about the number of metals they eventually got from the flue gas of refining copper.  What were early uses of lead?  I know Romans had (sometimes horrible) uses for it, but am not familiar with earlier uses.
+
+But as for jewelry, copper tarnishes or at least changes appearance with time, and gold doesn't.",1,2023-09-26 16:58:26,<praw.models.comment_forest.CommentForest object at 0x000002541FF51B50>,16s272u,askscience,t5_2qm4e,,False,False,t3_16s272u,t1_k2ax9c5,/r/askscience/comments/16s272u/why_do_space_programs_pick_a_gold_color_on/k2b1zrf/
+47,k2be7xr,brickmaster32000,"Engineers don't build robots that fight to the death in arenas because it is necessary, they do it because it is cool.","Engineers don't build robots that fight to the death in arenas because it is necessary, they do it because it is cool.",3,2023-09-26 18:09:31,<praw.models.comment_forest.CommentForest object at 0x000002541FF47970>,16s272u,askscience,t5_2qm4e,,False,False,t3_16s272u,t1_k29rj2o,/r/askscience/comments/16s272u/why_do_space_programs_pick_a_gold_color_on/k2be7xr/
+48,k2eski2,Schlag96,What was the product and what was the spaceship?,What was the product and what was the spaceship?,2,2023-09-27 10:09:45,<praw.models.comment_forest.CommentForest object at 0x000002541FF47A90>,16s272u,askscience,t5_2qm4e,,False,False,t3_16s272u,t1_k2bs1gt,/r/askscience/comments/16s272u/why_do_space_programs_pick_a_gold_color_on/k2eski2/
+49,k29c10q,Isthereanyuniquename,"I'm curious as to why you say it's ""definitely necessary."" Isn't it more of a patriotic thing as opposed to it being necessary to identify which country the space craft belongs to?","I'm curious as to why you say it's ""definitely necessary."" Isn't it more of a patriotic thing as opposed to it being necessary to identify which country the space craft belongs to?",7,2023-09-26 09:02:03,<praw.models.comment_forest.CommentForest object at 0x000002541FF47C70>,16s272u,askscience,t5_2qm4e,,False,False,t3_16s272u,t1_k299xf2,/r/askscience/comments/16s272u/why_do_space_programs_pick_a_gold_color_on/k29c10q/
+50,k2c7v69,oracle989,"That's correct, and because white reduces fuel use to provide cooling.  But we still see, for example, Southwest using blue or Air New Zealand in black for the branding. And on hardware within the aircraft, you have plenty of companies who want components to be in recognizable company colors as a marketing and brand-identity effort.  I don't think anyone's using gold-metallized insulation on satellites for the bling, but plenty of engineered parts are designed around branding and image, even in systems that you'd think would be purely function over form.  Happens all the time, even where it involves functional tradeoffs.
+
+As a particularly extreme example, Musk had his engineers at SpaceX make Starship pointier because he liked a joke from a movie and wanted the rocket to match it.","That's correct, and because white reduces fuel use to provide cooling.  But we still see, for example, Southwest using blue or Air New Zealand in black for the branding. And on hardware within the aircraft, you have plenty of companies who want components to be in recognizable company colors as a marketing and brand-identity effort.  I don't think anyone's using gold-metallized insulation on satellites for the bling, but plenty of engineered parts are designed around branding and image, even in systems that you'd think would be purely function over form.  Happens all the time, even where it involves functional tradeoffs.
+
+As a particularly extreme example, Musk had his engineers at SpaceX make Starship pointier because he liked a joke from a movie and wanted the rocket to match it.",1,2023-09-26 20:59:10,<praw.models.comment_forest.CommentForest object at 0x000002541FF47E50>,16s272u,askscience,t5_2qm4e,,False,False,t3_16s272u,t1_k2c3gvi,/r/askscience/comments/16s272u/why_do_space_programs_pick_a_gold_color_on/k2c7v69/
+51,k28eame,wolfie379,"Two iconic shades of red: barn red and boxcar red. Boxcar red is the actual shade that boxcars (and a lot of barns) were painted, barn red is Hollywood fancying things up.
+
+One of the cheapest paints to protect wood (and metal) from the elements was hydrated iron oxide pigment in a linseed oil binder. That’s right - powdered rust. Farmers and railroads don’t like spending more money than they have to.","Two iconic shades of red: barn red and boxcar red. Boxcar red is the actual shade that boxcars (and a lot of barns) were painted, barn red is Hollywood fancying things up.
+
+One of the cheapest paints to protect wood (and metal) from the elements was hydrated iron oxide pigment in a linseed oil binder. That’s right - powdered rust. Farmers and railroads don’t like spending more money than they have to.",12,2023-09-26 02:58:45,<praw.models.comment_forest.CommentForest object at 0x000002541FF47F70>,16s272u,askscience,t5_2qm4e,,False,False,t3_16s272u,t1_k27xmzm,/r/askscience/comments/16s272u/why_do_space_programs_pick_a_gold_color_on/k28eame/
+52,k284ixv,samadam,"""flagship bridges"" is the statement, so yes, they definitely have color design consideration. Not all bridges, or most, just the flagship ones.","""flagship bridges"" is the statement, so yes, they definitely have color design consideration. Not all bridges, or most, just the flagship ones.",2,2023-09-26 01:49:50,<praw.models.comment_forest.CommentForest object at 0x000002541FF51190>,16s272u,askscience,t5_2qm4e,,False,False,t3_16s272u,t1_k27z50d,/r/askscience/comments/16s272u/why_do_space_programs_pick_a_gold_color_on/k284ixv/
+53,k2bdjz0,OlympusMons94,">What were early uses of lead?
+
+It was too soft to be terribly useful, but it was well known in the Near East and Mediterranean long before the Romans (e.g. [Waldron, 1973](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1081502/pdf)).
+
+Some of the earliest examples include:
+
+* In 6th millenium BCE Mesopotamia: a ""conical lump"" and a bracelet ([Campbell, 2000](https://www.researchgate.net/publication/271790553_The_Burnt_House_at_Arpachiyah_A_Reexamination)).
+
+* In Anatolia c. 6500 BCE, beads ([Gale and Stos-Gale, 1981](https://journals.sagepub.com/doi/abs/10.1177/030751338106700110)).
+
+* In the late 5th millenium BCE Levant, a ""bi-conical lead object""--possibly a ceremonial macehead or a part of a spindle ([Yahalom-Mack, 2015](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4667931/)).
+
+* In Egypt, a [female statuette](https://www.flickr.com/photos/86012097@N08/14682546158) from the temple of Osiris, variously dated as 3100-3800 BCE. In addition to the statuette(s), lead ornaments and lead inlays of wood are also known from this period (Waldrom, 1973).",">What were early uses of lead?
+
+It was too soft to be terribly useful, but it was well known in the Near East and Mediterranean long before the Romans (e.g. [Waldron, 1973](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1081502/pdf)).
+
+Some of the earliest examples include:
+
+* In 6th millenium BCE Mesopotamia: a ""conical lump"" and a bracelet ([Campbell, 2000](https://www.researchgate.net/publication/271790553_The_Burnt_House_at_Arpachiyah_A_Reexamination)).
+
+* In Anatolia c. 6500 BCE, beads ([Gale and Stos-Gale, 1981](https://journals.sagepub.com/doi/abs/10.1177/030751338106700110)).
+
+* In the late 5th millenium BCE Levant, a ""bi-conical lead object""--possibly a ceremonial macehead or a part of a spindle ([Yahalom-Mack, 2015](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4667931/)).
+
+* In Egypt, a [female statuette](https://www.flickr.com/photos/86012097@N08/14682546158) from the temple of Osiris, variously dated as 3100-3800 BCE. In addition to the statuette(s), lead ornaments and lead inlays of wood are also known from this period (Waldrom, 1973).",2,2023-09-26 18:05:38,<praw.models.comment_forest.CommentForest object at 0x000002541FF51C10>,16s272u,askscience,t5_2qm4e,,False,False,t3_16s272u,t1_k2b1zrf,/r/askscience/comments/16s272u/why_do_space_programs_pick_a_gold_color_on/k2bdjz0/
+54,k2biq6c,ottoottootto,One could argue those engineers to be of a different caliber than the ones working on spacecraft.,One could argue those engineers to be of a different caliber than the ones working on spacecraft.,3,2023-09-26 18:35:45,<praw.models.comment_forest.CommentForest object at 0x000002541FF47A30>,16s272u,askscience,t5_2qm4e,,False,False,t3_16s272u,t1_k2be7xr,/r/askscience/comments/16s272u/why_do_space_programs_pick_a_gold_color_on/k2biq6c/
+55,k2ex6f2,Protomeathian,"The spaceship was the Anaconda from Elite Dangerous, and any information about the product would be enough to dox myself 😅","The spaceship was the Anaconda from Elite Dangerous, and any information about the product would be enough to dox myself 😅",5,2023-09-27 11:00:27,<praw.models.comment_forest.CommentForest object at 0x000002541FF47C10>,16s272u,askscience,t5_2qm4e,,False,False,t3_16s272u,t1_k2eski2,/r/askscience/comments/16s272u/why_do_space_programs_pick_a_gold_color_on/k2ex6f2/
+56,k29ouvw,External-Ferret-9013,Space programs are primarily propaganda tools for the governments that fund them. Giving the politicians a photo opp with the country's flag on the rocket is one of the most important parts of the mission (to secure funding for subsequent missions),Space programs are primarily propaganda tools for the governments that fund them. Giving the politicians a photo opp with the country's flag on the rocket is one of the most important parts of the mission (to secure funding for subsequent missions),16,2023-09-26 11:30:56,<praw.models.comment_forest.CommentForest object at 0x000002541FF47D30>,16s272u,askscience,t5_2qm4e,,False,False,t3_16s272u,t1_k29c10q,/r/askscience/comments/16s272u/why_do_space_programs_pick_a_gold_color_on/k29ouvw/
+57,k2c2xth,manassassinman,"When something that big is penis shaped, you’re gonna wanna slap your name on it so that other people can’t put their name on your big penis.","When something that big is penis shaped, you’re gonna wanna slap your name on it so that other people can’t put their name on your big penis.",3,2023-09-26 20:31:08,<praw.models.comment_forest.CommentForest object at 0x000002541FF47D90>,16s272u,askscience,t5_2qm4e,,False,False,t3_16s272u,t1_k29c10q,/r/askscience/comments/16s272u/why_do_space_programs_pick_a_gold_color_on/k2c2xth/
+58,k28hkyy,Lotharofthepotatoppl,"IIRC it’s called Falu Red (Falu Rödfärg) in Sweden. Named for the town Falun, where copper has been mined for probably a millennium. People figured out a pretty good paint could be made from the giant piles of mine tailings. What could be cheaper than huge piles of mining waste?","IIRC it’s called Falu Red (Falu Rödfärg) in Sweden. Named for the town Falun, where copper has been mined for probably a millennium. People figured out a pretty good paint could be made from the giant piles of mine tailings. What could be cheaper than huge piles of mining waste?",8,2023-09-26 03:24:03,<praw.models.comment_forest.CommentForest object at 0x000002541FF51070>,16s272u,askscience,t5_2qm4e,,False,False,t3_16s272u,t1_k28eame,/r/askscience/comments/16s272u/why_do_space_programs_pick_a_gold_color_on/k28hkyy/
+59,k2bjqyg,brickmaster32000,Do you really think working at NASA just sucks all the joy from your soul and you stop enjoying things? Engineers at NASA happily approved using a bunched-up sock as a shock absorber and added it to their specs because it makes for a pretty good joke and still works. They are not above having fun.,Do you really think working at NASA just sucks all the joy from your soul and you stop enjoying things? Engineers at NASA happily approved using a bunched-up sock as a shock absorber and added it to their specs because it makes for a pretty good joke and still works. They are not above having fun.,6,2023-09-26 18:41:42,<praw.models.comment_forest.CommentForest object at 0x000002541FF47AF0>,16s272u,askscience,t5_2qm4e,,False,False,t3_16s272u,t1_k2biq6c,/r/askscience/comments/16s272u/why_do_space_programs_pick_a_gold_color_on/k2bjqyg/
+60,k2fijnk,That0neSummoner,All the dudes I knew doing that sort of stuff worked for Lockheed/boeing/GD to fund their death traps,All the dudes I knew doing that sort of stuff worked for Lockheed/boeing/GD to fund their death traps,1,2023-09-27 13:50:25,<praw.models.comment_forest.CommentForest object at 0x000002541FF47B50>,16s272u,askscience,t5_2qm4e,,False,False,t3_16s272u,t1_k2biq6c,/r/askscience/comments/16s272u/why_do_space_programs_pick_a_gold_color_on/k2fijnk/
+61,h8lc7h4,,"There's no strong evidence yet that it *is* less successful.
+
+There is a currently non-peer reviewed study *suggesting* this, but the margins of error quoted in the study are more than sufficient to nullify the claim - i.e. the difference observed could simply be down to chance. And given that nobody has yet proposed a reasonable biological mechanism for a major difference between the two, at this point in time we need to avoid paying too much attention to what may turn out to be an outlier study.
+
+Paper concerned is here:
+
+[https://www.medrxiv.org/content/10.1101/2021.08.06.21261707v2](https://www.medrxiv.org/content/10.1101/2021.08.06.21261707v2)","There's no strong evidence yet that it *is* less successful.
+
+There is a currently non-peer reviewed study *suggesting* this, but the margins of error quoted in the study are more than sufficient to nullify the claim - i.e. the difference observed could simply be down to chance. And given that nobody has yet proposed a reasonable biological mechanism for a major difference between the two, at this point in time we need to avoid paying too much attention to what may turn out to be an outlier study.
+
+Paper concerned is here:
+
+[https://www.medrxiv.org/content/10.1101/2021.08.06.21261707v2](https://www.medrxiv.org/content/10.1101/2021.08.06.21261707v2)",165,2021-08-11 22:45:19,<praw.models.comment_forest.CommentForest object at 0x000002547AEB1910>,p2nn36,askscience,t5_2qm4e,,False,False,t3_p2nn36,t3_p2nn36,/r/askscience/comments/p2nn36/why_is_the_pfizer_vaccine_less_successful_against/h8lc7h4/
+62,h8ldjwn,,[removed],[removed],-6,2021-08-11 22:55:14,<praw.models.comment_forest.CommentForest object at 0x000002541AE43370>,p2nn36,askscience,t5_2qm4e,,False,False,t3_p2nn36,t3_p2nn36,/r/askscience/comments/p2nn36/why_is_the_pfizer_vaccine_less_successful_against/h8ldjwn/
+63,h8lrvi1,iayork,"Fully agree with this, but it’s worth noting that several studies have found slightly higher antibody titers following Moderna than Pfizer (for example, Figure 1 in  [Molecular basis of immune evasion by the delta and kappa SARS-CoV-2 variants](https://www.biorxiv.org/content/10.1101/2021.08.11.455956v1)), consistent with the idea that the slightly higher dose in Moderna may give a little more antibody response. 
+
+That said the differences are very slight, possibly not statistically significant, and very unlikely to be significant on an individual basis (many Pfizer recipients have higher antibody titers than many Moderna recipients), and (very important) antibody titers don’t translate directly into protective immunity.","Fully agree with this, but it’s worth noting that several studies have found slightly higher antibody titers following Moderna than Pfizer (for example, Figure 1 in  [Molecular basis of immune evasion by the delta and kappa SARS-CoV-2 variants](https://www.biorxiv.org/content/10.1101/2021.08.11.455956v1)), consistent with the idea that the slightly higher dose in Moderna may give a little more antibody response. 
+
+That said the differences are very slight, possibly not statistically significant, and very unlikely to be significant on an individual basis (many Pfizer recipients have higher antibody titers than many Moderna recipients), and (very important) antibody titers don’t translate directly into protective immunity.",40,2021-08-12 00:46:07,<praw.models.comment_forest.CommentForest object at 0x000002541AE433A0>,p2nn36,askscience,t5_2qm4e,,False,False,t3_p2nn36,t1_h8lc7h4,/r/askscience/comments/p2nn36/why_is_the_pfizer_vaccine_less_successful_against/h8lrvi1/
+64,h8lqz0v,,[removed],[removed],10,2021-08-12 00:39:01,<praw.models.comment_forest.CommentForest object at 0x000002541AE434C0>,p2nn36,askscience,t5_2qm4e,,False,False,t3_p2nn36,t1_h8ldjwn,/r/askscience/comments/p2nn36/why_is_the_pfizer_vaccine_less_successful_against/h8lqz0v/
+65,h8lecgh,,[removed],[removed],13,2021-08-11 23:01:11,<praw.models.comment_forest.CommentForest object at 0x000002541AE43520>,p2nn36,askscience,t5_2qm4e,,False,False,t3_p2nn36,t1_h8ldjwn,/r/askscience/comments/p2nn36/why_is_the_pfizer_vaccine_less_successful_against/h8lecgh/
+66,h8leq95,,[removed],[removed],13,2021-08-11 23:04:05,<praw.models.comment_forest.CommentForest object at 0x000002541AE43580>,p2nn36,askscience,t5_2qm4e,,False,False,t3_p2nn36,t1_h8ldjwn,/r/askscience/comments/p2nn36/why_is_the_pfizer_vaccine_less_successful_against/h8leq95/
+67,h8zzvmj,slinkysuki,Thank you for the balanced points.,Thank you for the balanced points.,1,2021-08-15 05:29:47,<praw.models.comment_forest.CommentForest object at 0x000002541AE43460>,p2nn36,askscience,t5_2qm4e,,False,False,t3_p2nn36,t1_h8lrvi1,/r/askscience/comments/p2nn36/why_is_the_pfizer_vaccine_less_successful_against/h8zzvmj/
+68,jri5tnv,Rannasha,"So what you're basically asking is: How do we know what the speed of light is?
+
+And the core answer is simple, but perhaps a bit unsatisfying: We measure it.
+
+Because light is so fast, it was unclear for quite a long time whether light traveled instantaneously (with infinite speed) or whether it had some finite, but very large speed.
+
+But in the 17th century, measurements were performed on the eclipses of Io that answered this question. Io is a moon of Jupiter which orbits close to the planet and with a short period (42.5 hours). That means that it undergoes an eclipse (where the moon is fully in the shadow of Jupiter) very frequently. At the time, it was suggested that the regular eclipses of Io could be used as some sort of clock for ships out at sea.
+
+However, a Danish scientist, Ole Rømer, found that the period between eclipses was not constant. When the distance between Earth and Jupiter was decreasing, the time between eclipses was less than what it was when the distance between Earth and Jupiter was increasing. From this he concluded that light must take some time to travel from Jupiter to Earth and that when Jupiter was getting closer to us, the time it took for light from an eclipse to reach us would be less than the time it took for the light from the previous eclipse, making it appear that there was less time between eclipses.
+
+Later measurements were performed in different ways but with the same conclusion. One intuitively simple way that the speed of light can be measured is by pointing a light at a distant mirror and measuring the time it takes for the reflection to return to the source.
+
+From such measurements we know how fast light is and, more importantly, that it doesn't have infinite speed. So any light we see has taken some time to get to us. About 1 nanosecond per 30 centimeters of distance. So by knowing the distance between the Earth and the Sun (about 150 million kilometer), we can calculate that it takes light 8 minutes to reach us from the Sun.","So what you're basically asking is: How do we know what the speed of light is?
+
+And the core answer is simple, but perhaps a bit unsatisfying: We measure it.
+
+Because light is so fast, it was unclear for quite a long time whether light traveled instantaneously (with infinite speed) or whether it had some finite, but very large speed.
+
+But in the 17th century, measurements were performed on the eclipses of Io that answered this question. Io is a moon of Jupiter which orbits close to the planet and with a short period (42.5 hours). That means that it undergoes an eclipse (where the moon is fully in the shadow of Jupiter) very frequently. At the time, it was suggested that the regular eclipses of Io could be used as some sort of clock for ships out at sea.
+
+However, a Danish scientist, Ole Rømer, found that the period between eclipses was not constant. When the distance between Earth and Jupiter was decreasing, the time between eclipses was less than what it was when the distance between Earth and Jupiter was increasing. From this he concluded that light must take some time to travel from Jupiter to Earth and that when Jupiter was getting closer to us, the time it took for light from an eclipse to reach us would be less than the time it took for the light from the previous eclipse, making it appear that there was less time between eclipses.
+
+Later measurements were performed in different ways but with the same conclusion. One intuitively simple way that the speed of light can be measured is by pointing a light at a distant mirror and measuring the time it takes for the reflection to return to the source.
+
+From such measurements we know how fast light is and, more importantly, that it doesn't have infinite speed. So any light we see has taken some time to get to us. About 1 nanosecond per 30 centimeters of distance. So by knowing the distance between the Earth and the Sun (about 150 million kilometer), we can calculate that it takes light 8 minutes to reach us from the Sun.",183,2023-07-11 06:08:28,<praw.models.comment_forest.CommentForest object at 0x000002541FF2FB50>,14wh8jy,askscience,t5_2qm4e,,1689058554.0,False,t3_14wh8jy,t3_14wh8jy,/r/askscience/comments/14wh8jy/i_know_we_see_the_suns_light_8_minutes_late_but/jri5tnv/
+69,jrjl3bf,,[removed],[removed],1,2023-07-11 15:08:12,<praw.models.comment_forest.CommentForest object at 0x000002541FF2FBB0>,14wh8jy,askscience,t5_2qm4e,,False,False,t3_14wh8jy,t3_14wh8jy,/r/askscience/comments/14wh8jy/i_know_we_see_the_suns_light_8_minutes_late_but/jrjl3bf/
+70,jrq2wlo,MrBeneficialBad9321,"Einsten proved in the special theory of relativity that, c is the upper limit for the speed at which conventional matter or energy can travel through space. Its not instant, as believed before 1676, its approximately 300,000 kilometres per second.
+
+The galaxies distance and hence age of the light, are known because of the cosmological redshift effect.
+
+So, there it is...","Einsten proved in the special theory of relativity that, c is the upper limit for the speed at which conventional matter or energy can travel through space. Its not instant, as believed before 1676, its approximately 300,000 kilometres per second.
+
+The galaxies distance and hence age of the light, are known because of the cosmological redshift effect.
+
+So, there it is...",-1,2023-07-12 21:35:59,<praw.models.comment_forest.CommentForest object at 0x000002541FF5F3D0>,14wh8jy,askscience,t5_2qm4e,,False,False,t3_14wh8jy,t3_14wh8jy,/r/askscience/comments/14wh8jy/i_know_we_see_the_suns_light_8_minutes_late_but/jrq2wlo/
+71,jrige1n,rootofallworlds,"To add. The ""classic"" method is the Fizeau experiment, a light source and a mirror a few miles apart, with a spinning cogwheel between. (near the source I think)
+
+If the wheel isn't moving the light passes from the source, through a notch in the wheel, hits the mirror, back through the same notch, and is seen. Spin the wheel up and now the light that passes through the notch on the way out misses it on the way back. Spin it up even more and the light passes through one notch on the way out and the *next* one on the way back. This enables calculating the speed of light based on the time the wheel takes to rotate one position.
+
+https://en.wikipedia.org/wiki/Fizeau%27s_measurement_of_the_speed_of_light_in_air","To add. The ""classic"" method is the Fizeau experiment, a light source and a mirror a few miles apart, with a spinning cogwheel between. (near the source I think)
+
+If the wheel isn't moving the light passes from the source, through a notch in the wheel, hits the mirror, back through the same notch, and is seen. Spin the wheel up and now the light that passes through the notch on the way out misses it on the way back. Spin it up even more and the light passes through one notch on the way out and the *next* one on the way back. This enables calculating the speed of light based on the time the wheel takes to rotate one position.
+
+https://en.wikipedia.org/wiki/Fizeau%27s_measurement_of_the_speed_of_light_in_air",40,2023-07-11 08:30:19,<praw.models.comment_forest.CommentForest object at 0x000002541FF2FC10>,14wh8jy,askscience,t5_2qm4e,,False,False,t3_14wh8jy,t1_jri5tnv,/r/askscience/comments/14wh8jy/i_know_we_see_the_suns_light_8_minutes_late_but/jrige1n/
+72,jrk0b3u,envysatan,thank you!!!!!,thank you!!!!!,9,2023-07-11 16:50:03,<praw.models.comment_forest.CommentForest object at 0x000002541FF2FC70>,14wh8jy,askscience,t5_2qm4e,,False,True,t3_14wh8jy,t1_jri5tnv,/r/askscience/comments/14wh8jy/i_know_we_see_the_suns_light_8_minutes_late_but/jrk0b3u/
+73,jricxq3,Polluticorn-wishes,"[Here's](https://youtu.be/kpB1wezpJeE) a fun way to measure the speed of light at home. Light as we see it is just the visible part of the emf spectrum. You can measure the propagation speed of any wave by multiplying the frequency and wavelength of the wave (meters/cycle x cycles/sec cancels out to meters/sec). So we can measure the speed of the light from the sun from any other emf wave, like microwaves.
+
+Take a chocolate bar and barely melt it in a microwave without letting the bar rotate. Then measure one full wavelength in the chocolate bar and multiply it by the listed frequency in the microwave specifications. That should give you a pretty good approximation of the speed of light at home!","[Here's](https://youtu.be/kpB1wezpJeE) a fun way to measure the speed of light at home. Light as we see it is just the visible part of the emf spectrum. You can measure the propagation speed of any wave by multiplying the frequency and wavelength of the wave (meters/cycle x cycles/sec cancels out to meters/sec). So we can measure the speed of the light from the sun from any other emf wave, like microwaves.
+
+Take a chocolate bar and barely melt it in a microwave without letting the bar rotate. Then measure one full wavelength in the chocolate bar and multiply it by the listed frequency in the microwave specifications. That should give you a pretty good approximation of the speed of light at home!",13,2023-07-11 07:41:20,<praw.models.comment_forest.CommentForest object at 0x000002541FF2FCD0>,14wh8jy,askscience,t5_2qm4e,,False,False,t3_14wh8jy,t1_jri5tnv,/r/askscience/comments/14wh8jy/i_know_we_see_the_suns_light_8_minutes_late_but/jricxq3/
+74,jri8spb,WhiskeyOutABizoot,"Excellent answer. For a more intuitive understanding. Think about it's easy to understand the speed of sound, when you hear a firework a few seconds after seeing it explode. Light works the same way, but it's much faster so it requires a longer distance to measure, or more sensitive instruments to measure the timing.","Excellent answer. For a more intuitive understanding. Think about it's easy to understand the speed of sound, when you hear a firework a few seconds after seeing it explode. Light works the same way, but it's much faster so it requires a longer distance to measure, or more sensitive instruments to measure the timing.",15,2023-07-11 06:46:02,<praw.models.comment_forest.CommentForest object at 0x000002541FF2FD30>,14wh8jy,askscience,t5_2qm4e,,False,False,t3_14wh8jy,t1_jri5tnv,/r/askscience/comments/14wh8jy/i_know_we_see_the_suns_light_8_minutes_late_but/jri8spb/
+75,jrktcyh,marozsas,"At university, at physics class, they demonstrate to our class (and any subsequent class I guess) that they fire a laser (in a somewhat broad funnel shape) pointed to the moon around the area where an Apollo mission leave a mirror with this specific purpose, in hope to catch the reflected beam back and measure the time it took. Some calculations after we get a rough estimation of speed of light, or in other way, using the precise speed of light, the somehow precise distance between earth-moon at that time/position. The atmosphere distortion effects were not take in the account, after all, it was just a demonstration class.
+
+The purpose of my post is to testimony that this task is feasible using college equipment in a 3rd world country. I live in Brazil. It was in 1986 and I was there. So, for sure, it is not bs.","At university, at physics class, they demonstrate to our class (and any subsequent class I guess) that they fire a laser (in a somewhat broad funnel shape) pointed to the moon around the area where an Apollo mission leave a mirror with this specific purpose, in hope to catch the reflected beam back and measure the time it took. Some calculations after we get a rough estimation of speed of light, or in other way, using the precise speed of light, the somehow precise distance between earth-moon at that time/position. The atmosphere distortion effects were not take in the account, after all, it was just a demonstration class.
+
+The purpose of my post is to testimony that this task is feasible using college equipment in a 3rd world country. I live in Brazil. It was in 1986 and I was there. So, for sure, it is not bs.",2,2023-07-11 19:57:32,<praw.models.comment_forest.CommentForest object at 0x000002541FF2FE50>,14wh8jy,askscience,t5_2qm4e,,False,False,t3_14wh8jy,t1_jri5tnv,/r/askscience/comments/14wh8jy/i_know_we_see_the_suns_light_8_minutes_late_but/jrktcyh/
+76,jrief08,,[deleted],[deleted],2,2023-07-11 08:02:04,<praw.models.comment_forest.CommentForest object at 0x000002541FF2FF10>,14wh8jy,askscience,t5_2qm4e,,False,False,t3_14wh8jy,t1_jri5tnv,/r/askscience/comments/14wh8jy/i_know_we_see_the_suns_light_8_minutes_late_but/jrief08/
+77,jrrb47q,Ausoge,"Interestingly, it is actually impossible to measure the one-way speed of light - we can only reliably measure the time it takes for light to complete a round trip.  For instance, it is theoretically possible that light travels in one direction *instantaneously*, but coming back the other way, it travels half as quickly as we think it does.  Ultimately, the equation is balanced and we're none the wiser.
+
+Or, you could take two clocks, and sync them perfectly - but how can you perfectly synchronize two distant clocks without using something to communicate between them?  If you used light itself to synchronize them, you end up with the same problem.
+
+Ok, so what if you synchronized the two clocks in the same place, and then moved one of the clocks to a distant location?  Relativity tells us that objects in different motion reference frames experience time differently - so the clocks would, theoretically, be de-synchronized by the act of separating them, creating a margin for error that would render invalid any experiment intending to measure something as precise as the speed of light.
+
+So, we're stuck.  We physically cannot measure the time it takes light to travel in one direction - we can only measure the time it takes light to complete a round-trip.
+
+The simplest and most likely conclusion we can make is that light spends half its time going towards the reflector, and the other half coming back to the source where the timing is measured - but there's actually no way we can be certain that this is the case.
+
+Veritasium did an excellent video on this.","Interestingly, it is actually impossible to measure the one-way speed of light - we can only reliably measure the time it takes for light to complete a round trip.  For instance, it is theoretically possible that light travels in one direction *instantaneously*, but coming back the other way, it travels half as quickly as we think it does.  Ultimately, the equation is balanced and we're none the wiser.
+
+Or, you could take two clocks, and sync them perfectly - but how can you perfectly synchronize two distant clocks without using something to communicate between them?  If you used light itself to synchronize them, you end up with the same problem.
+
+Ok, so what if you synchronized the two clocks in the same place, and then moved one of the clocks to a distant location?  Relativity tells us that objects in different motion reference frames experience time differently - so the clocks would, theoretically, be de-synchronized by the act of separating them, creating a margin for error that would render invalid any experiment intending to measure something as precise as the speed of light.
+
+So, we're stuck.  We physically cannot measure the time it takes light to travel in one direction - we can only measure the time it takes light to complete a round-trip.
+
+The simplest and most likely conclusion we can make is that light spends half its time going towards the reflector, and the other half coming back to the source where the timing is measured - but there's actually no way we can be certain that this is the case.
+
+Veritasium did an excellent video on this.",1,2023-07-13 03:19:58,<praw.models.comment_forest.CommentForest object at 0x000002541FF2FFD0>,14wh8jy,askscience,t5_2qm4e,,False,False,t3_14wh8jy,t1_jri5tnv,/r/askscience/comments/14wh8jy/i_know_we_see_the_suns_light_8_minutes_late_but/jrrb47q/
+78,jribxty,,[removed],[removed],-12,2023-07-11 07:27:38,<praw.models.comment_forest.CommentForest object at 0x000002541FF5F130>,14wh8jy,askscience,t5_2qm4e,,False,False,t3_14wh8jy,t1_jri5tnv,/r/askscience/comments/14wh8jy/i_know_we_see_the_suns_light_8_minutes_late_but/jribxty/
+79,k1pwjcj,Abject_Pay_2836,"I just had a conversation with someone on another page about this topic. The question is, we know it takes 8 and 1/3 minutes for the light from the sun to reach Earth. What we don't know, is how long has that light been traveling within that 8 minutes that we're looking at.","I just had a conversation with someone on another page about this topic. The question is, we know it takes 8 and 1/3 minutes for the light from the sun to reach Earth. What we don't know, is how long has that light been traveling within that 8 minutes that we're looking at.",1,2023-09-22 14:45:20,<praw.models.comment_forest.CommentForest object at 0x000002541FF5F190>,14wh8jy,askscience,t5_2qm4e,,False,False,t3_14wh8jy,t1_jri5tnv,/r/askscience/comments/14wh8jy/i_know_we_see_the_suns_light_8_minutes_late_but/k1pwjcj/
+80,jrk4iqc,,[removed],[removed],3,2023-07-11 17:16:54,<praw.models.comment_forest.CommentForest object at 0x000002541FF5F490>,14wh8jy,askscience,t5_2qm4e,,False,False,t3_14wh8jy,t1_jrjl3bf,/r/askscience/comments/14wh8jy/i_know_we_see_the_suns_light_8_minutes_late_but/jrk4iqc/
+81,jrkr9u9,BaldBear_13,"very nice experiment, and a lot easier to understand with a video of the melting bar. 
+
+but it kinda requires knowing that: 
+(A) microwaves are same kind of waves as (visible) light       
+(B) speed of light waves is same regardless of frequency
+
+So might not be very convincing to a novice/skeptic.","very nice experiment, and a lot easier to understand with a video of the melting bar. 
+
+but it kinda requires knowing that: 
+(A) microwaves are same kind of waves as (visible) light       
+(B) speed of light waves is same regardless of frequency
+
+So might not be very convincing to a novice/skeptic.",6,2023-07-11 19:43:57,<praw.models.comment_forest.CommentForest object at 0x000002541FF2FD90>,14wh8jy,askscience,t5_2qm4e,,False,False,t3_14wh8jy,t1_jricxq3,/r/askscience/comments/14wh8jy/i_know_we_see_the_suns_light_8_minutes_late_but/jrkr9u9/
+82,jrifwjp,,[removed],[removed],-4,2023-07-11 08:23:23,<praw.models.comment_forest.CommentForest object at 0x000002541FF2FDF0>,14wh8jy,askscience,t5_2qm4e,,False,False,t3_14wh8jy,t1_jricxq3,/r/askscience/comments/14wh8jy/i_know_we_see_the_suns_light_8_minutes_late_but/jrifwjp/
+83,jrimyb6,voice_of_reason_61,"Or drilling deeper, the fireworks experiment illuminates the *difference* between the speed of light and the speed of sound.
+
+Because sound is SO much slower, we perceive the speed of light as being instantaneous.","Or drilling deeper, the fireworks experiment illuminates the *difference* between the speed of light and the speed of sound.
+
+Because sound is SO much slower, we perceive the speed of light as being instantaneous.",7,2023-07-11 10:02:54,<praw.models.comment_forest.CommentForest object at 0x000002541FF2FEB0>,14wh8jy,askscience,t5_2qm4e,,False,False,t3_14wh8jy,t1_jri8spb,/r/askscience/comments/14wh8jy/i_know_we_see_the_suns_light_8_minutes_late_but/jrimyb6/
+84,jricdgi,,[removed],[removed],1,2023-07-11 07:33:34,<praw.models.comment_forest.CommentForest object at 0x000002541FF5F1F0>,14wh8jy,askscience,t5_2qm4e,,False,False,t3_14wh8jy,t1_jribxty,/r/askscience/comments/14wh8jy/i_know_we_see_the_suns_light_8_minutes_late_but/jricdgi/
+85,jridc4g,Rannasha,"> Therefore it can be twice as fast as we think one way, and instantaneous the other?
+
+You can check for this by using a triangular setup with 2 mirrors angled in such a way that mirror 1 reflects the beam to mirror 2 and mirror 2 reflects it back to the source location. You then divide the total distance by the time elapsed to obtain the average speed.
+
+If the speed of light depends on whether it is ""fresh"" or ""bounced"", the measured average speed of the 2 mirror setup will be different from the 1 mirror setup.
+
+If needed, you can extend the experiment with more and more mirrors.
+
+In addition, there are methods that measure the speed of light without relying on reflection, such as the eclipses of Io method I outlined in my original post.","> Therefore it can be twice as fast as we think one way, and instantaneous the other?
+
+You can check for this by using a triangular setup with 2 mirrors angled in such a way that mirror 1 reflects the beam to mirror 2 and mirror 2 reflects it back to the source location. You then divide the total distance by the time elapsed to obtain the average speed.
+
+If the speed of light depends on whether it is ""fresh"" or ""bounced"", the measured average speed of the 2 mirror setup will be different from the 1 mirror setup.
+
+If needed, you can extend the experiment with more and more mirrors.
+
+In addition, there are methods that measure the speed of light without relying on reflection, such as the eclipses of Io method I outlined in my original post.",1,2023-07-11 07:46:57,<praw.models.comment_forest.CommentForest object at 0x000002541FF5F250>,14wh8jy,askscience,t5_2qm4e,,False,False,t3_14wh8jy,t1_jribxty,/r/askscience/comments/14wh8jy/i_know_we_see_the_suns_light_8_minutes_late_but/jridc4g/
+86,jrids16,mfb-,"You could choose a time convention where the speed of light is faster in one direction than in the other, but that does nothing besides making all calculations needlessly complicated. It would be like measuring length in meters, width in miles and height in cubits. Sure, you can do it, but why would you?","You could choose a time convention where the speed of light is faster in one direction than in the other, but that does nothing besides making all calculations needlessly complicated. It would be like measuring length in meters, width in miles and height in cubits. Sure, you can do it, but why would you?",1,2023-07-11 07:53:08,<praw.models.comment_forest.CommentForest object at 0x000002541FF5F2B0>,14wh8jy,askscience,t5_2qm4e,,False,False,t3_14wh8jy,t1_jribxty,/r/askscience/comments/14wh8jy/i_know_we_see_the_suns_light_8_minutes_late_but/jrids16/
+87,jriczd5,,[removed],[removed],0,2023-07-11 07:41:58,<praw.models.comment_forest.CommentForest object at 0x000002541FF5F310>,14wh8jy,askscience,t5_2qm4e,,1689061501.0,False,t3_14wh8jy,t1_jribxty,/r/askscience/comments/14wh8jy/i_know_we_see_the_suns_light_8_minutes_late_but/jriczd5/
+88,jricm65,,[removed],[removed],-3,2023-07-11 07:36:57,<praw.models.comment_forest.CommentForest object at 0x000002541FF5F370>,14wh8jy,askscience,t5_2qm4e,,False,False,t3_14wh8jy,t1_jribxty,/r/askscience/comments/14wh8jy/i_know_we_see_the_suns_light_8_minutes_late_but/jricm65/
+89,jrjcdfn,Fluid_Variation_3086,How does the atmospheric density affect the velocity of sound?,How does the atmospheric density affect the velocity of sound?,1,2023-07-11 14:05:25,<praw.models.comment_forest.CommentForest object at 0x000002541FF2FF70>,14wh8jy,askscience,t5_2qm4e,,False,False,t3_14wh8jy,t1_jrimyb6,/r/askscience/comments/14wh8jy/i_know_we_see_the_suns_light_8_minutes_late_but/jrjcdfn/
+90,jrigy6a,,[removed],[removed],1,2023-07-11 08:38:33,<praw.models.comment_forest.CommentForest object at 0x000002541FF5F430>,14wh8jy,askscience,t5_2qm4e,,False,False,t3_14wh8jy,t1_jricm65,/r/askscience/comments/14wh8jy/i_know_we_see_the_suns_light_8_minutes_late_but/jrigy6a/
+91,jrke8hz,OlympusMons94,"By itself, a higher density *decreases* the speed of sound. But there are other factors and you generally can't just change density without changing other properties, so that doesn't give a complete picture. The speed of sound in a medium is the square root of the quantity bulk modulus K divided by density rho.
+
+c = sqrt( K / rho)
+
+The bulk modulus quantifies the medium's resistance to compression. That is, relatively incompressible materials such as liquids have a high bulk modulus, while relatively compressible materials such as gases have a lpw bulk modukus. The speed of sound is faster in water than air, in spite of the higher density, because water is so much less compressible.
+
+For an (ideal) gas, applying the ideal gas law and some variable subsitutions, this formula transforms to
+
+c = sqrt(gamma * R * T / M)
+
+where gamma is something called the [adiabatic index or heat capacoty ratio](https://en.m.wikipedia.org/wiki/Heat_capacity_ratio), R is the ideal gas constant, T is the absolute temperature (i.e., in Kelvins), and M is the molar mass of the gas.  (The precise value of gamma varies with the specific gas and temperature.)
+
+Therefore, for a given gas or mixture of gases, the speed of sound is, to a very good approximation, solely dependent on its temperature. The speed of sound in the lower atmosphere generally decreases with altitude, not because of lower pressure (let alone lower density), but because within the troposphere the temperature tends to drop with altitude.
+
+See https://en.wikipedia.org/wiki/Speed_of_sound for more details.
+
+u/Alas7ymedia","By itself, a higher density *decreases* the speed of sound. But there are other factors and you generally can't just change density without changing other properties, so that doesn't give a complete picture. The speed of sound in a medium is the square root of the quantity bulk modulus K divided by density rho.
+
+c = sqrt( K / rho)
+
+The bulk modulus quantifies the medium's resistance to compression. That is, relatively incompressible materials such as liquids have a high bulk modulus, while relatively compressible materials such as gases have a lpw bulk modukus. The speed of sound is faster in water than air, in spite of the higher density, because water is so much less compressible.
+
+For an (ideal) gas, applying the ideal gas law and some variable subsitutions, this formula transforms to
+
+c = sqrt(gamma * R * T / M)
+
+where gamma is something called the [adiabatic index or heat capacoty ratio](https://en.m.wikipedia.org/wiki/Heat_capacity_ratio), R is the ideal gas constant, T is the absolute temperature (i.e., in Kelvins), and M is the molar mass of the gas.  (The precise value of gamma varies with the specific gas and temperature.)
+
+Therefore, for a given gas or mixture of gases, the speed of sound is, to a very good approximation, solely dependent on its temperature. The speed of sound in the lower atmosphere generally decreases with altitude, not because of lower pressure (let alone lower density), but because within the troposphere the temperature tends to drop with altitude.
+
+See https://en.wikipedia.org/wiki/Speed_of_sound for more details.
+
+u/Alas7ymedia",3,2023-07-11 18:19:17,<praw.models.comment_forest.CommentForest object at 0x000002541FF5F070>,14wh8jy,askscience,t5_2qm4e,,False,False,t3_14wh8jy,t1_jrjcdfn,/r/askscience/comments/14wh8jy/i_know_we_see_the_suns_light_8_minutes_late_but/jrke8hz/
+92,jrk47c1,Alas7ymedia,"Sound moves as molecules hit each other and the net direction of the movement is away from the source. The denser the medium, the closer the molecules and the faster the impact, so the net speed of propagation is higher.","Sound moves as molecules hit each other and the net direction of the movement is away from the source. The denser the medium, the closer the molecules and the faster the impact, so the net speed of propagation is higher.",4,2023-07-11 17:14:53,<praw.models.comment_forest.CommentForest object at 0x000002541FF5F0D0>,14wh8jy,askscience,t5_2qm4e,,False,False,t3_14wh8jy,t1_jrjcdfn,/r/askscience/comments/14wh8jy/i_know_we_see_the_suns_light_8_minutes_late_but/jrk47c1/
+93,j9dtray,SlingyRopert,"Unblurring an image is conceptually similar to the following story problem:
+
+Bob says he has three numbers you don’t know. He tells you the sum of the numbers is thirty-four and that all of the numbers are positive. Your job is to figure out what those the numbers are based on the given information. You can’t really. You can make clever guesses about what the numbers might be based on assumptions, but there isn’t a way to know for sure unless you get additional information. In this example, thirty four represents the image your camera gives you and the unknown numbers represent the unblurred image.
+
+In practice, there is a continuum of situations between images that can’t be unblurred and images that can be usefully improved.  The determining factor is usually the “transfer function” or Linear translation invariant representation of the blurring operator applied to the image. If the transfer function is zero or less than 5% of unity at some spatial frequencies, the portions of the image information at these spatial frequencies and above is probably not salvageable unless you make big assumptions. 
+
+An equation called the Wiener filter can help you figure out which spatial frequencies of an image are salvageable and can be unblurred in a minimum squared error sense. The key to whether a spatial frequency can be salvaged is the ratio of the amount of signal (after being cut by the transfer function of the blur) to the amount of noise at that same spatial frequency. 
+
+When the signal to noise approaches one to one, you have to give up on unblurring that spatial frequency in the Wiener filter / unbiased mean squared error sense because there is no information left. This loss of information is what prevents unbiased deblurring.
+
+If you are ok with having “biased” solutions and making some “big assumptions” you can often do magic though. For instance, you could assume that the image is of something that you have seen before and search a dictionary of potential images to see which one would (after blurring) look the most like the image you received from the camera. If you find something whose blurred image matches you could assume that the unblurred corresponding image is what you imaged and nobody could prove you wrong given the blurry picture you have. This is similar to what machine learning algorithms do to unblur an image by relying on statistical priors and training. You run the risk with this sort of extrapolation that the resulting unblurred image is a bit fictitious.
+
+I personally recommend being cautious with unblurring using biased estimators due to the risk of fictitious imagery output.
+
+It is always best to address the blur directly and make sure that you don’t apply a blur so strong that the transfer function goes to near zero.","Unblurring an image is conceptually similar to the following story problem:
+
+Bob says he has three numbers you don’t know. He tells you the sum of the numbers is thirty-four and that all of the numbers are positive. Your job is to figure out what those the numbers are based on the given information. You can’t really. You can make clever guesses about what the numbers might be based on assumptions, but there isn’t a way to know for sure unless you get additional information. In this example, thirty four represents the image your camera gives you and the unknown numbers represent the unblurred image.
+
+In practice, there is a continuum of situations between images that can’t be unblurred and images that can be usefully improved.  The determining factor is usually the “transfer function” or Linear translation invariant representation of the blurring operator applied to the image. If the transfer function is zero or less than 5% of unity at some spatial frequencies, the portions of the image information at these spatial frequencies and above is probably not salvageable unless you make big assumptions. 
+
+An equation called the Wiener filter can help you figure out which spatial frequencies of an image are salvageable and can be unblurred in a minimum squared error sense. The key to whether a spatial frequency can be salvaged is the ratio of the amount of signal (after being cut by the transfer function of the blur) to the amount of noise at that same spatial frequency. 
+
+When the signal to noise approaches one to one, you have to give up on unblurring that spatial frequency in the Wiener filter / unbiased mean squared error sense because there is no information left. This loss of information is what prevents unbiased deblurring.
+
+If you are ok with having “biased” solutions and making some “big assumptions” you can often do magic though. For instance, you could assume that the image is of something that you have seen before and search a dictionary of potential images to see which one would (after blurring) look the most like the image you received from the camera. If you find something whose blurred image matches you could assume that the unblurred corresponding image is what you imaged and nobody could prove you wrong given the blurry picture you have. This is similar to what machine learning algorithms do to unblur an image by relying on statistical priors and training. You run the risk with this sort of extrapolation that the resulting unblurred image is a bit fictitious.
+
+I personally recommend being cautious with unblurring using biased estimators due to the risk of fictitious imagery output.
+
+It is always best to address the blur directly and make sure that you don’t apply a blur so strong that the transfer function goes to near zero.",80,2023-02-21 04:43:20,<praw.models.comment_forest.CommentForest object at 0x000002541FF22E20>,117npc4,askscience,t5_2qm4e,,False,False,t3_117npc4,t3_117npc4,/r/askscience/comments/117npc4/why_cant_you_unblur_a_blurred_image/j9dtray/
+94,j9du3dw,dmmaus,"> Let’s say you take a photo and then digitally blur it in photoshop. The only possible image that could’ve created the new blurred image is your original photo right?
+
+No, that's not correct. Many different images could give you the same blurred image.
+
+When you blur an image, fine detail below a certain scale is *lost*. If two images are the same at large scales, but different in the fine details below the scale where the blur filter removes them, and you blur them, you won't be able to tell the difference. So you can't decide which of the two images you started with. You can make a guess, but given there are infinitely many images that will blur to the same blurred result, you are likely to be wrong.","> Let’s say you take a photo and then digitally blur it in photoshop. The only possible image that could’ve created the new blurred image is your original photo right?
+
+No, that's not correct. Many different images could give you the same blurred image.
+
+When you blur an image, fine detail below a certain scale is *lost*. If two images are the same at large scales, but different in the fine details below the scale where the blur filter removes them, and you blur them, you won't be able to tell the difference. So you can't decide which of the two images you started with. You can make a guess, but given there are infinitely many images that will blur to the same blurred result, you are likely to be wrong.",84,2023-02-21 04:46:33,<praw.models.comment_forest.CommentForest object at 0x000002541FF22E50>,117npc4,askscience,t5_2qm4e,,False,False,t3_117npc4,t3_117npc4,/r/askscience/comments/117npc4/why_cant_you_unblur_a_blurred_image/j9du3dw/
+95,j9dq9hc,,[removed],[removed],25,2023-02-21 04:10:59,<praw.models.comment_forest.CommentForest object at 0x000002541FF50040>,117npc4,askscience,t5_2qm4e,,False,False,t3_117npc4,t3_117npc4,/r/askscience/comments/117npc4/why_cant_you_unblur_a_blurred_image/j9dq9hc/
+96,j9e5yr0,,[removed],[removed],17,2023-02-21 06:56:10,<praw.models.comment_forest.CommentForest object at 0x000002541FF504F0>,117npc4,askscience,t5_2qm4e,,False,False,t3_117npc4,t3_117npc4,/r/askscience/comments/117npc4/why_cant_you_unblur_a_blurred_image/j9e5yr0/
+97,j9e3k3x,Bewaretheicespiders,"Hi, I have a master in computer vision, let me explain.
+
+If you put it in terms of signal processing, bluring is what we call a ""low-pass"" filter. It conserves low-frequencies, but *deletes* high frequences. Looking at the image in the frequency domain using a fourier transform makes that obvious. So thats why you can't unblur them. The information is gone. Its like erasing part of an image, except in frequency space.
+
+Some machine learning methods can sharpen an image. Understands that they do not *recover* the information that was lost. Instead they make an ""educated guess"" of what the lost information might have been.
+
+> The only possible image that could’ve created the new blurred image is your original photo right
+
+No, its not, and hence the problem.","Hi, I have a master in computer vision, let me explain.
+
+If you put it in terms of signal processing, bluring is what we call a ""low-pass"" filter. It conserves low-frequencies, but *deletes* high frequences. Looking at the image in the frequency domain using a fourier transform makes that obvious. So thats why you can't unblur them. The information is gone. Its like erasing part of an image, except in frequency space.
+
+Some machine learning methods can sharpen an image. Understands that they do not *recover* the information that was lost. Instead they make an ""educated guess"" of what the lost information might have been.
+
+> The only possible image that could’ve created the new blurred image is your original photo right
+
+No, its not, and hence the problem.",5,2023-02-21 06:27:09,<praw.models.comment_forest.CommentForest object at 0x000002541FF505B0>,117npc4,askscience,t5_2qm4e,,False,False,t3_117npc4,t3_117npc4,/r/askscience/comments/117npc4/why_cant_you_unblur_a_blurred_image/j9e3k3x/
+98,j9eksfl,,[removed],[removed],2,2023-02-21 10:18:04,<praw.models.comment_forest.CommentForest object at 0x000002541FF50670>,117npc4,askscience,t5_2qm4e,,False,False,t3_117npc4,t3_117npc4,/r/askscience/comments/117npc4/why_cant_you_unblur_a_blurred_image/j9eksfl/
+99,j9g1qa5,guitarhead,"What you're describing is 'deconvolution' and there exists algorithms designed to do exactly this (see for example, [Richardson-Lucy deconvolution](https://en.wikipedia.org/wiki/Richardson%E2%80%93Lucy_deconvolution)). However, you need to either know or make some assumptions about the 'blur' for it to work. 
+
+There is software that Canon releases for high-end cameras and lenses that does something similar. Becuase they know exactly the type of blur that their lenses create at different points on the frame for different focal distances, they use this information to remove some of that lens blur from the digital image. Canon call this 'digital lens optimizer'. See [here](https://photo.stackexchange.com/questions/112004/what-does-canon-digital-lens-optimizer-dlo-do-exactly) and [here](https://snapshot.canon-asia.com/article/eng/digital-lens-optimizer-taking-image-quality-to-greater-heights) for more info.","What you're describing is 'deconvolution' and there exists algorithms designed to do exactly this (see for example, [Richardson-Lucy deconvolution](https://en.wikipedia.org/wiki/Richardson%E2%80%93Lucy_deconvolution)). However, you need to either know or make some assumptions about the 'blur' for it to work. 
+
+There is software that Canon releases for high-end cameras and lenses that does something similar. Becuase they know exactly the type of blur that their lenses create at different points on the frame for different focal distances, they use this information to remove some of that lens blur from the digital image. Canon call this 'digital lens optimizer'. See [here](https://photo.stackexchange.com/questions/112004/what-does-canon-digital-lens-optimizer-dlo-do-exactly) and [here](https://snapshot.canon-asia.com/article/eng/digital-lens-optimizer-taking-image-quality-to-greater-heights) for more info.",3,2023-02-21 17:41:31,<praw.models.comment_forest.CommentForest object at 0x000002541FF506D0>,117npc4,askscience,t5_2qm4e,,False,False,t3_117npc4,t3_117npc4,/r/askscience/comments/117npc4/why_cant_you_unblur_a_blurred_image/j9g1qa5/
+100,j9dtlsb,paleblueyedot,"> The only possible image that could’ve created the new blurred image is your original photo right?
+
+Is this true? It seems counterintuitive that a gaussian blurred image A' couldn't be created by both A and B.
+
+Maybe you're right though. See [this](https://photo.stackexchange.com/questions/38435/how-can-i-undo-an-intentional-gaussian-blur-when-i-dont-have-the-originals).","> The only possible image that could’ve created the new blurred image is your original photo right?
+
+Is this true? It seems counterintuitive that a gaussian blurred image A' couldn't be created by both A and B.
+
+Maybe you're right though. See [this](https://photo.stackexchange.com/questions/38435/how-can-i-undo-an-intentional-gaussian-blur-when-i-dont-have-the-originals).",1,2023-02-21 04:41:52,<praw.models.comment_forest.CommentForest object at 0x000002541FF50790>,117npc4,askscience,t5_2qm4e,,False,False,t3_117npc4,t3_117npc4,/r/askscience/comments/117npc4/why_cant_you_unblur_a_blurred_image/j9dtlsb/
+101,j9gimkz,rjolivet,"Bluring is not a bijective function. Meaning two different images could give the same blurred one. Some information is lost. 
+
+This said, some IA models are specifically trained to unblur images : they don't get back the lost information but only make up a possible sharp images that could have resulted to the blurred one, based on what it saw before. 
+
+The results are quite impressive. 
+
+https://ai.smartmine.net/service/computer-vision/image-deblurring","Bluring is not a bijective function. Meaning two different images could give the same blurred one. Some information is lost. 
+
+This said, some IA models are specifically trained to unblur images : they don't get back the lost information but only make up a possible sharp images that could have resulted to the blurred one, based on what it saw before. 
+
+The results are quite impressive. 
+
+https://ai.smartmine.net/service/computer-vision/image-deblurring",1,2023-02-21 20:00:32,<praw.models.comment_forest.CommentForest object at 0x000002541FF50850>,117npc4,askscience,t5_2qm4e,,False,False,t3_117npc4,t3_117npc4,/r/askscience/comments/117npc4/why_cant_you_unblur_a_blurred_image/j9gimkz/
+102,j9owuz6,hatsune_aru,"Most of the people here are wrong. It is possible to un-blur an image within reasonable fidelity, provided that you know how the blur was done (i.e. which method, what the parameters for the method were, etc).
+
+The naive way of blurring an image basically averages the input pixels from its neighbors and outputs it on the output. This is a reversible process, provided you know how the averaging window was created. 
+
+The averaging window can also be estimated to potentially get a ""good enough"" reproduction of the image before it was blurred.","Most of the people here are wrong. It is possible to un-blur an image within reasonable fidelity, provided that you know how the blur was done (i.e. which method, what the parameters for the method were, etc).
+
+The naive way of blurring an image basically averages the input pixels from its neighbors and outputs it on the output. This is a reversible process, provided you know how the averaging window was created. 
+
+The averaging window can also be estimated to potentially get a ""good enough"" reproduction of the image before it was blurred.",0,2023-02-23 15:12:50,<praw.models.comment_forest.CommentForest object at 0x000002541FF50970>,117npc4,askscience,t5_2qm4e,,False,False,t3_117npc4,t3_117npc4,/r/askscience/comments/117npc4/why_cant_you_unblur_a_blurred_image/j9owuz6/
+103,j9ppo31,S-Markt,"it depends on how it is blurred. if they used the same procedure for every pixel, it can be reversed, it is even possible to write a program that finds out, how it is blurred.
+
+but if you tell the program to use a random seed (0-5 for example, every time it blurrs one pixel, this new pixel has got a different base.","it depends on how it is blurred. if they used the same procedure for every pixel, it can be reversed, it is even possible to write a program that finds out, how it is blurred.
+
+but if you tell the program to use a random seed (0-5 for example, every time it blurrs one pixel, this new pixel has got a different base.",1,2023-02-23 18:13:58,<praw.models.comment_forest.CommentForest object at 0x000002541FF509D0>,117npc4,askscience,t5_2qm4e,,False,False,t3_117npc4,t3_117npc4,/r/askscience/comments/117npc4/why_cant_you_unblur_a_blurred_image/j9ppo31/
+104,j9g9qhy,Bax_Cadarn,"\>lets assume you already know how much it’s been blurred.
+
+the poster seemed to consider a situation when they know precisely how the image was blurred lol. Is it possible then?
+
+&#x200B;
+
+Like x+y=3, if You know y =1, can You know x if x is the blurred image?","\>lets assume you already know how much it’s been blurred.
+
+the poster seemed to consider a situation when they know precisely how the image was blurred lol. Is it possible then?
+
+&#x200B;
+
+Like x+y=3, if You know y =1, can You know x if x is the blurred image?",3,2023-02-21 18:32:14,<praw.models.comment_forest.CommentForest object at 0x000002541FF22F70>,117npc4,askscience,t5_2qm4e,,False,False,t3_117npc4,t1_j9dtray,/r/askscience/comments/117npc4/why_cant_you_unblur_a_blurred_image/j9g9qhy/
+105,j9e26wm,,[removed],[removed],8,2023-02-21 06:11:08,<praw.models.comment_forest.CommentForest object at 0x000002541FF502B0>,117npc4,askscience,t5_2qm4e,,False,False,t3_117npc4,t1_j9du3dw,/r/askscience/comments/117npc4/why_cant_you_unblur_a_blurred_image/j9e26wm/
+106,j9o8gj1,Krillin113,"Isn’t a blur filter just a predetermined set of vectors where each pixel is moved according to the corresponding vector? I assume if I blur the same picture twice I’d end up with two pictures that are identical, ie the same blurring effect occurred. 
+
+If I know what was moved in which direction, u should be able to inverse that and end up with the original picture no? So unless blurring filters aren’t deterministic or I don’t have the ‘key’ to what happened I should be able to do it right?","Isn’t a blur filter just a predetermined set of vectors where each pixel is moved according to the corresponding vector? I assume if I blur the same picture twice I’d end up with two pictures that are identical, ie the same blurring effect occurred. 
+
+If I know what was moved in which direction, u should be able to inverse that and end up with the original picture no? So unless blurring filters aren’t deterministic or I don’t have the ‘key’ to what happened I should be able to do it right?",3,2023-02-23 11:43:24,<praw.models.comment_forest.CommentForest object at 0x000002541FF50430>,117npc4,askscience,t5_2qm4e,,False,False,t3_117npc4,t1_j9du3dw,/r/askscience/comments/117npc4/why_cant_you_unblur_a_blurred_image/j9o8gj1/
+107,j9gv1jm,,[removed],[removed],1,2023-02-21 21:56:24,<praw.models.comment_forest.CommentForest object at 0x000002541FF50610>,117npc4,askscience,t5_2qm4e,,False,False,t3_117npc4,t1_j9e5yr0,/r/askscience/comments/117npc4/why_cant_you_unblur_a_blurred_image/j9gv1jm/
+108,j9ezu7t,,[removed],[removed],3,2023-02-21 13:13:41,<praw.models.comment_forest.CommentForest object at 0x000002541FF50730>,117npc4,askscience,t5_2qm4e,,False,False,t3_117npc4,t1_j9eksfl,/r/askscience/comments/117npc4/why_cant_you_unblur_a_blurred_image/j9ezu7t/
+109,j9e1hrp,mfb-,It's not true for real images (with a finite number of pixels and colors).,It's not true for real images (with a finite number of pixels and colors).,5,2023-02-21 06:03:14,<praw.models.comment_forest.CommentForest object at 0x000002541FF508B0>,117npc4,askscience,t5_2qm4e,,False,False,t3_117npc4,t1_j9dtlsb,/r/askscience/comments/117npc4/why_cant_you_unblur_a_blurred_image/j9e1hrp/
+110,j9e4c45,slashdave,">The only possible image that could’ve created the new blurred image is your original photo right?
+
+No. Just consider the extreme. What if you blurred an image so much that it turned into a solid color?",">The only possible image that could’ve created the new blurred image is your original photo right?
+
+No. Just consider the extreme. What if you blurred an image so much that it turned into a solid color?",5,2023-02-21 06:36:25,<praw.models.comment_forest.CommentForest object at 0x000002541FF50910>,117npc4,askscience,t5_2qm4e,,False,False,t3_117npc4,t1_j9dtlsb,/r/askscience/comments/117npc4/why_cant_you_unblur_a_blurred_image/j9e4c45/
+111,j9qm08v,loki130,"In the extreme case, if you take an entire image and average it to a single color, clearly you can't reconstruct any detail from that no matter how clearly you know the algorithm. I think a similar argument could be made that a large image split into 4 quadrants that are each completely averaged would also be unrecoverable. Perhaps there is some floor of smaller blur radius where the image becomes recoverable, but I don't think it's obvious that knowing the blur process always allows reversal.","In the extreme case, if you take an entire image and average it to a single color, clearly you can't reconstruct any detail from that no matter how clearly you know the algorithm. I think a similar argument could be made that a large image split into 4 quadrants that are each completely averaged would also be unrecoverable. Perhaps there is some floor of smaller blur radius where the image becomes recoverable, but I don't think it's obvious that knowing the blur process always allows reversal.",1,2023-02-23 21:33:12,<praw.models.comment_forest.CommentForest object at 0x000002541FF50A30>,117npc4,askscience,t5_2qm4e,,False,False,t3_117npc4,t1_j9owuz6,/r/askscience/comments/117npc4/why_cant_you_unblur_a_blurred_image/j9qm08v/
+112,j9gfmf5,Training_Ad_2086,"Likely not if every pixel is blurred.
+
+In that case all original pixel values are lost and replaced by blur pixel values. 
+
+Since every original pixel is blurred there is no information to extrapolate from for a undo and so knowing the method is useless. 
+
+
+Its like listening to music on a old telephone, you can make out the sound but all the details of the sound can't be recovered from the audio you are listening to","Likely not if every pixel is blurred.
+
+In that case all original pixel values are lost and replaced by blur pixel values. 
+
+Since every original pixel is blurred there is no information to extrapolate from for a undo and so knowing the method is useless. 
+
+
+Its like listening to music on a old telephone, you can make out the sound but all the details of the sound can't be recovered from the audio you are listening to",4,2023-02-21 19:34:49,<praw.models.comment_forest.CommentForest object at 0x000002541FF50070>,117npc4,askscience,t5_2qm4e,,False,False,t3_117npc4,t1_j9g9qhy,/r/askscience/comments/117npc4/why_cant_you_unblur_a_blurred_image/j9gfmf5/
+113,j9ghtzw,SlingyRopert,"There’s a whole bunch of special cases but I tried to target the case where you know exactly how it is blurred but the blurred version you have has additional noise. It is this additional noise that does you in. My example also could if explicitly brought in the blurring into the equation example and brought in the convolution nature:
+
+Let’s think about a one dimensional deblurring problem where we measure just two blurred pixels. The left one is 34 and the right one is 27. Suppose we exactly know the blur (in kernel form) is three pixels wide and the blur has values A, B, C. If w,x,y,z is the unblurred image then
+
+A*w + B*x + C*y + N= 34
+and
+
+A*x + B*y + C*z + M = 27
+
+where N and M are small random numbers (noise in the pixel measurement).
+
+To estimate the middle two pixels of the unblurred image, you have to solve the above equations for x and y. You only know A B and C but you (often) can assume that w, x,y,z are zero or positive and that N and M are fairly small. Even if you are really good at linear algebra, solving the above two equations for the two to six unknowns is il-posed.
+
+If you get enough pixels (say more than the width of the blur), you can get away from having to solve for edge pixels like w and z and you can get approximate solutions like using the Wiener filter.
+
+I have been assuming you know the blur and that the blur is the same everywhere in the image. If the blur is not the same over the image, the linear algebra tricks that make the Wiener filter don’t work and you have to selectively apply them over small enough patches that they still sort of work. 
+
+If you do not know the blur, it’s strong assumption time (also called “blind deconvolution”) and you need to consult a professional with details about your inverse problem to see how well it can be solved.","There’s a whole bunch of special cases but I tried to target the case where you know exactly how it is blurred but the blurred version you have has additional noise. It is this additional noise that does you in. My example also could if explicitly brought in the blurring into the equation example and brought in the convolution nature:
+
+Let’s think about a one dimensional deblurring problem where we measure just two blurred pixels. The left one is 34 and the right one is 27. Suppose we exactly know the blur (in kernel form) is three pixels wide and the blur has values A, B, C. If w,x,y,z is the unblurred image then
+
+A*w + B*x + C*y + N= 34
+and
+
+A*x + B*y + C*z + M = 27
+
+where N and M are small random numbers (noise in the pixel measurement).
+
+To estimate the middle two pixels of the unblurred image, you have to solve the above equations for x and y. You only know A B and C but you (often) can assume that w, x,y,z are zero or positive and that N and M are fairly small. Even if you are really good at linear algebra, solving the above two equations for the two to six unknowns is il-posed.
+
+If you get enough pixels (say more than the width of the blur), you can get away from having to solve for edge pixels like w and z and you can get approximate solutions like using the Wiener filter.
+
+I have been assuming you know the blur and that the blur is the same everywhere in the image. If the blur is not the same over the image, the linear algebra tricks that make the Wiener filter don’t work and you have to selectively apply them over small enough patches that they still sort of work. 
+
+If you do not know the blur, it’s strong assumption time (also called “blind deconvolution”) and you need to consult a professional with details about your inverse problem to see how well it can be solved.",2,2023-02-21 19:54:21,<praw.models.comment_forest.CommentForest object at 0x000002541FF501F0>,117npc4,askscience,t5_2qm4e,,1677017115.0,False,t3_117npc4,t1_j9g9qhy,/r/askscience/comments/117npc4/why_cant_you_unblur_a_blurred_image/j9ghtzw/
+114,j9qji0l,dmmaus,"No, that's not quite right. If you blur the same picture twice using the same blur filter, then yes, you end up with the same final image. But that's not the same as saying that if you blur two different pictures you end up with two different images. Two different pictures blurred with the same filter can end up being identical blurred images.
+
+You can think of a blur filter as a set of vectors that move pixel information around, but the step you're missing is that the pixel information isn't moved to just one other pixel. It's spread around over several neighbouring pixels, and then added together with the information spread from other pixels that overlaps it. That adding together operation muddies the waters, so to speak - once the blurred pixel info is added together to form the final blurred image, you can't work out how to un-add them to separate them again. There will be multiple possible solutions to the problem of going backwards to an unblurred image, and no way to decide which is the correct solution.","No, that's not quite right. If you blur the same picture twice using the same blur filter, then yes, you end up with the same final image. But that's not the same as saying that if you blur two different pictures you end up with two different images. Two different pictures blurred with the same filter can end up being identical blurred images.
+
+You can think of a blur filter as a set of vectors that move pixel information around, but the step you're missing is that the pixel information isn't moved to just one other pixel. It's spread around over several neighbouring pixels, and then added together with the information spread from other pixels that overlaps it. That adding together operation muddies the waters, so to speak - once the blurred pixel info is added together to form the final blurred image, you can't work out how to un-add them to separate them again. There will be multiple possible solutions to the problem of going backwards to an unblurred image, and no way to decide which is the correct solution.",3,2023-02-23 21:17:59,<praw.models.comment_forest.CommentForest object at 0x000002541FF50550>,117npc4,askscience,t5_2qm4e,,False,False,t3_117npc4,t1_j9o8gj1,/r/askscience/comments/117npc4/why_cant_you_unblur_a_blurred_image/j9qji0l/
+115,j9goxz5,,[removed],[removed],5,2023-02-21 21:12:20,<praw.models.comment_forest.CommentForest object at 0x000002541FF507F0>,117npc4,askscience,t5_2qm4e,,False,False,t3_117npc4,t1_j9ezu7t,/r/askscience/comments/117npc4/why_cant_you_unblur_a_blurred_image/j9goxz5/
+116,j9qmunn,hatsune_aru,"I like to think of that extreme example as ""edge effects"". Obviously there are limitations to the recovery technique, but ""deblurring"" is absolutely a thing both in imaging and similarly in non-imaging applications.
+
+https://en.wikipedia.org/wiki/Blind_deconvolution
+
+In a sense, electronic engineering (which I can say I'm a specialist in) concepts like emphasis, equalization, etc are just compensations for channel effects, which one could think as time varying signal equivalents for blurring in imaging. 
+
+In that sense, recovery of a ""blurred"" signal via equalization is absolutely used everywhere that uses high speed digital signals like USB, DDR, PCIe, etc.","I like to think of that extreme example as ""edge effects"". Obviously there are limitations to the recovery technique, but ""deblurring"" is absolutely a thing both in imaging and similarly in non-imaging applications.
+
+https://en.wikipedia.org/wiki/Blind_deconvolution
+
+In a sense, electronic engineering (which I can say I'm a specialist in) concepts like emphasis, equalization, etc are just compensations for channel effects, which one could think as time varying signal equivalents for blurring in imaging. 
+
+In that sense, recovery of a ""blurred"" signal via equalization is absolutely used everywhere that uses high speed digital signals like USB, DDR, PCIe, etc.",1,2023-02-23 21:38:24,<praw.models.comment_forest.CommentForest object at 0x000002541FF50AF0>,117npc4,askscience,t5_2qm4e,,False,False,t3_117npc4,t1_j9qm08v,/r/askscience/comments/117npc4/why_cant_you_unblur_a_blurred_image/j9qmunn/
+117,j9ggwpb,Bax_Cadarn,"Um, maybe this will explain what I think they mean.
+
+Say the picture is one dimensional. There are also only 10 colours. Blurring is moving the colour in some way.
+
+Picture:0137156297
+Blurring:11111(-1)(-1)(-1)(-1)(-1)
+
+Blurred:1248245286
+
+Now lnowing both bottom lines, can You figure the top?","Um, maybe this will explain what I think they mean.
+
+Say the picture is one dimensional. There are also only 10 colours. Blurring is moving the colour in some way.
+
+Picture:0137156297
+Blurring:11111(-1)(-1)(-1)(-1)(-1)
+
+Blurred:1248245286
+
+Now lnowing both bottom lines, can You figure the top?",1,2023-02-21 19:46:27,<praw.models.comment_forest.CommentForest object at 0x000002541FF50250>,117npc4,askscience,t5_2qm4e,,False,False,t3_117npc4,t1_j9gfmf5,/r/askscience/comments/117npc4/why_cant_you_unblur_a_blurred_image/j9ggwpb/
+118,j9gj0ei,,[removed],[removed],1,2023-02-21 20:03:27,<praw.models.comment_forest.CommentForest object at 0x000002541FF50370>,117npc4,askscience,t5_2qm4e,,False,False,t3_117npc4,t1_j9ghtzw,/r/askscience/comments/117npc4/why_cant_you_unblur_a_blurred_image/j9gj0ei/
+119,j9ri1xj,loki130,Then why are you saying everyone is wrong when they're pretty much all mentioning that deblurring methods exist but don't amount to perfect image recovery?,Then why are you saying everyone is wrong when they're pretty much all mentioning that deblurring methods exist but don't amount to perfect image recovery?,2,2023-02-24 01:09:21,<praw.models.comment_forest.CommentForest object at 0x000002541FF50BB0>,117npc4,askscience,t5_2qm4e,,False,False,t3_117npc4,t1_j9qmunn,/r/askscience/comments/117npc4/why_cant_you_unblur_a_blurred_image/j9ri1xj/
+120,j9gi7c1,Training_Ad_2086,"Well what you described isn't really a blur function (it'd be a brightness shift). But if we want to call it that then yes it is reversible there. 
+
+There are several other mathematical operations you can do that are just reversible like that. However none of them are anywhere close to actual blur functions.","Well what you described isn't really a blur function (it'd be a brightness shift). But if we want to call it that then yes it is reversible there. 
+
+There are several other mathematical operations you can do that are just reversible like that. However none of them are anywhere close to actual blur functions.",6,2023-02-21 19:57:21,<praw.models.comment_forest.CommentForest object at 0x000002541FF50310>,117npc4,askscience,t5_2qm4e,,False,False,t3_117npc4,t1_j9ggwpb,/r/askscience/comments/117npc4/why_cant_you_unblur_a_blurred_image/j9gi7c1/
+121,j9i7uwt,The_Hunster,"Given 1 dimensional images again. Is blurry more like taking the image ""2,3,4"" and turning them all to the average ""3,3,3""? Which could of course be ""1,3,5"" or ""4,3,2"". Meaning you lose the original information. Would that be a good example of a blur function?","Given 1 dimensional images again. Is blurry more like taking the image ""2,3,4"" and turning them all to the average ""3,3,3""? Which could of course be ""1,3,5"" or ""4,3,2"". Meaning you lose the original information. Would that be a good example of a blur function?",2,2023-02-22 03:43:35,<praw.models.comment_forest.CommentForest object at 0x000002541FF503D0>,117npc4,askscience,t5_2qm4e,,False,False,t3_117npc4,t1_j9gi7c1,/r/askscience/comments/117npc4/why_cant_you_unblur_a_blurred_image/j9i7uwt/
+122,j9j8gtn,MagiMas,"Yes, but it's usually done with a moving average.
+
+So if you have the pixel values 1,3,2,4,3,1,5,2 you could always average in groups of three 
+
+    1,3,2 => 2
+    3,2,4 => 3
+    2,4,3 => 3
+    4,3,1 => 2.66
+    3,1,5 => 3
+    1,5,2 => 2.66
+
+so the blurred image is
+
+2,3,3,2.66,3,2.66
+
+An actual blur filter is usually a bit more complex, a gaussian blur for example weights the original pixels in different amounts (according to a gaussian curve). So instead of just taking the average of 1,3,2 you'd calculate
+
+0.25 \* 1 + 0.5 \* 3 + 0.25 \* 2 = 2.25
+
+And you can choose how broad you want to make the window of values that you consider in the operation etc.
+
+Crucially, if we write the simple blurring operation from the top as a set of equations with the original pixel values unknown and named as x\_i:
+
+    (x_1 + x_2 + x_3) / 3 = 2
+    (x_2 + x_3 + x_4) / 3 = 3
+    (x_3 + x_4 + x_5) / 3 = 3
+    (x_4 + x_5 + x_6) / 3 = 2.66
+    (x_5 + x_6 + x_7) / 3 = 3
+    (x_6 + x_7 + x_8) / 3 = 2.66
+
+you can see that we have 8 unknown values but only 6 equations. If you remember the maths of systems of equations from school we need 8 equations to fully determine 8 unknowns. So this problem is under-determined even in a case of such a simple blurring operation where we know exactly which kind of operation was done to the original image. In a more realistic scenario, where we don't know the exact type of blurring operation done to an image, it gets even less feasible to reverse the operation without somehow using prior knowledge of how unblurred content usually looks like (which is what neural networks are doing when they are used to scale up and unblur small images).","Yes, but it's usually done with a moving average.
+
+So if you have the pixel values 1,3,2,4,3,1,5,2 you could always average in groups of three 
+
+    1,3,2 => 2
+    3,2,4 => 3
+    2,4,3 => 3
+    4,3,1 => 2.66
+    3,1,5 => 3
+    1,5,2 => 2.66
+
+so the blurred image is
+
+2,3,3,2.66,3,2.66
+
+An actual blur filter is usually a bit more complex, a gaussian blur for example weights the original pixels in different amounts (according to a gaussian curve). So instead of just taking the average of 1,3,2 you'd calculate
+
+0.25 \* 1 + 0.5 \* 3 + 0.25 \* 2 = 2.25
+
+And you can choose how broad you want to make the window of values that you consider in the operation etc.
+
+Crucially, if we write the simple blurring operation from the top as a set of equations with the original pixel values unknown and named as x\_i:
+
+    (x_1 + x_2 + x_3) / 3 = 2
+    (x_2 + x_3 + x_4) / 3 = 3
+    (x_3 + x_4 + x_5) / 3 = 3
+    (x_4 + x_5 + x_6) / 3 = 2.66
+    (x_5 + x_6 + x_7) / 3 = 3
+    (x_6 + x_7 + x_8) / 3 = 2.66
+
+you can see that we have 8 unknown values but only 6 equations. If you remember the maths of systems of equations from school we need 8 equations to fully determine 8 unknowns. So this problem is under-determined even in a case of such a simple blurring operation where we know exactly which kind of operation was done to the original image. In a more realistic scenario, where we don't know the exact type of blurring operation done to an image, it gets even less feasible to reverse the operation without somehow using prior knowledge of how unblurred content usually looks like (which is what neural networks are doing when they are used to scale up and unblur small images).",3,2023-02-22 10:46:40,<praw.models.comment_forest.CommentForest object at 0x000002541FF50490>,117npc4,askscience,t5_2qm4e,,1677063351.0,False,t3_117npc4,t1_j9i7uwt,/r/askscience/comments/117npc4/why_cant_you_unblur_a_blurred_image/j9j8gtn/
+123,jzu7t11,CrustalTrudger,"This largely becomes a formal terminology/units thing vs the way we use words/units colloquially thing. Specifically, both [kilograms (kg)](https://en.wikipedia.org/wiki/Kilogram) and [pounds (lb)](https://en.wikipedia.org/wiki/Pound_%28mass%29) are units of mass, where 1 lb = 0.45359237 kg. More correctly, we should refer to a ""pound"" (as a unit of mass) as ""pound-mass"" to differentiate it from [pound-force (lbf)](https://en.wikipedia.org/wiki/Pound_%28force%29), i.e., mass x acceleration, but usually we just shorten ""pound-mass"" to ""pound."" [Weight](https://en.wikipedia.org/wiki/Weight) on the other hand is a special type of force where the acceleration is that of the relevant gravitational acceleration, so if we're talking about weight, formally we should be reporting those in Newtons (N) or pounds-force.
+
+Part of the confusion comes in that typically when we ""weigh"" something, we're using a scale (EDIT: and assuming we're using a spring scale or equivalent as opposed to a balance scale) that is calibrated for use in Earth's gravity so the conversion between force and mass is baked into the scale, i.e., when we put a 10 kg mass on a scale, you can think about it effectively measuring a 98 N force, but the scale is calibrated to read 10 kg, i.e., the mass, because we assume gravity is ~9.8 m/s^(2). Whether that scale reports units of pound(-mass) or kg, it's reporting a mass, which assuming we're on Earth, will be accurate. If we used that same scale on the Moon, it would report the wrong mass. In common usage, the terms ""mass"" and ""weight"" get used interchangeably, even though they shouldn't be. Similarly, most of the time, when we discuss ""weighing"" something, we should actually be talking about ""massing"" something (or determining the mass, etc.) unless we're actually using a scale that reports units of weight (force) (but again, typically we *are* actually measuring a weight, but it's being converted to and reported in mass units).
+
+Another source of confusion is when you see things like ""What would you weigh on the Moon?"" and the answer is reported in kg (or lb). Here, what is usually being reported is actually the answer to a different question, specifically, ""What mass (e.g., in kg) on Earth would have the same weight (e.g., in N) on Earth as the weight your mass would have on the Moon?""","This largely becomes a formal terminology/units thing vs the way we use words/units colloquially thing. Specifically, both [kilograms (kg)](https://en.wikipedia.org/wiki/Kilogram) and [pounds (lb)](https://en.wikipedia.org/wiki/Pound_%28mass%29) are units of mass, where 1 lb = 0.45359237 kg. More correctly, we should refer to a ""pound"" (as a unit of mass) as ""pound-mass"" to differentiate it from [pound-force (lbf)](https://en.wikipedia.org/wiki/Pound_%28force%29), i.e., mass x acceleration, but usually we just shorten ""pound-mass"" to ""pound."" [Weight](https://en.wikipedia.org/wiki/Weight) on the other hand is a special type of force where the acceleration is that of the relevant gravitational acceleration, so if we're talking about weight, formally we should be reporting those in Newtons (N) or pounds-force.
+
+Part of the confusion comes in that typically when we ""weigh"" something, we're using a scale (EDIT: and assuming we're using a spring scale or equivalent as opposed to a balance scale) that is calibrated for use in Earth's gravity so the conversion between force and mass is baked into the scale, i.e., when we put a 10 kg mass on a scale, you can think about it effectively measuring a 98 N force, but the scale is calibrated to read 10 kg, i.e., the mass, because we assume gravity is ~9.8 m/s^(2). Whether that scale reports units of pound(-mass) or kg, it's reporting a mass, which assuming we're on Earth, will be accurate. If we used that same scale on the Moon, it would report the wrong mass. In common usage, the terms ""mass"" and ""weight"" get used interchangeably, even though they shouldn't be. Similarly, most of the time, when we discuss ""weighing"" something, we should actually be talking about ""massing"" something (or determining the mass, etc.) unless we're actually using a scale that reports units of weight (force) (but again, typically we *are* actually measuring a weight, but it's being converted to and reported in mass units).
+
+Another source of confusion is when you see things like ""What would you weigh on the Moon?"" and the answer is reported in kg (or lb). Here, what is usually being reported is actually the answer to a different question, specifically, ""What mass (e.g., in kg) on Earth would have the same weight (e.g., in N) on Earth as the weight your mass would have on the Moon?""",109,2023-09-09 17:18:52,<praw.models.comment_forest.CommentForest object at 0x000002541FF2AFD0>,16e8rky,askscience,t5_2qm4e,,1694281838.0,False,t3_16e8rky,t3_16e8rky,/r/askscience/comments/16e8rky/kilograms_measure_mass_and_pounds_measure_weight/jzu7t11/
+124,jzuj8lz,pavilionaire2022,"If NASA really needs to talk about weight on the moon, for example if discussing the load capacity of a lander strut or something, they would use Newtons (N), which are the SI unit of force, including weight. Most of the time, they're just going to talk about mass, though, which is an intrinsic property of things. They would first figure out the maximum mass the lander can have based on the load capacity of the struts and average lunar surface gravity. Then, they can just weigh the components on Earth to determine their mass and check if they come in under the limit.","If NASA really needs to talk about weight on the moon, for example if discussing the load capacity of a lander strut or something, they would use Newtons (N), which are the SI unit of force, including weight. Most of the time, they're just going to talk about mass, though, which is an intrinsic property of things. They would first figure out the maximum mass the lander can have based on the load capacity of the struts and average lunar surface gravity. Then, they can just weigh the components on Earth to determine their mass and check if they come in under the limit.",22,2023-09-09 18:29:53,<praw.models.comment_forest.CommentForest object at 0x000002541A924040>,16e8rky,askscience,t5_2qm4e,,False,False,t3_16e8rky,t3_16e8rky,/r/askscience/comments/16e8rky/kilograms_measure_mass_and_pounds_measure_weight/jzuj8lz/
+125,jzui2nc,Dunbaratu,"Pretty much the same thing that happens in countries outside the US that use metric.  There is this colloquially common ""error"":  When asked ""What is your weight?"" or ""How much do you weigh?"", they answer in Kilograms, which is wrong.  Kilograms is mass.  Weight questions in metric should be answered in Newtons, but nobody ever does that.
+
+Using ""kilograms"" colloquially to measure a person's ""weight"" works.  Because what's really being ""mangled"" by the answer here is NOT ""let's pretend kilograms is weight"".  What's actually being ""mangled"" is ""Let's pretend the question asked about mass even though it said weight"".  That makes a lot of sense because you're not really asking about the force when you ask that.  You're really asking about the properties of their body itself.  The question ""How much is your mass?"" would actually be a better question to be asking for that, so the answer in kilograms is actually pretending the better question was asked, rather than pretending kilograms are weight.","Pretty much the same thing that happens in countries outside the US that use metric.  There is this colloquially common ""error"":  When asked ""What is your weight?"" or ""How much do you weigh?"", they answer in Kilograms, which is wrong.  Kilograms is mass.  Weight questions in metric should be answered in Newtons, but nobody ever does that.
+
+Using ""kilograms"" colloquially to measure a person's ""weight"" works.  Because what's really being ""mangled"" by the answer here is NOT ""let's pretend kilograms is weight"".  What's actually being ""mangled"" is ""Let's pretend the question asked about mass even though it said weight"".  That makes a lot of sense because you're not really asking about the force when you ask that.  You're really asking about the properties of their body itself.  The question ""How much is your mass?"" would actually be a better question to be asking for that, so the answer in kilograms is actually pretending the better question was asked, rather than pretending kilograms are weight.",15,2023-09-09 18:22:48,<praw.models.comment_forest.CommentForest object at 0x000002541A9243A0>,16e8rky,askscience,t5_2qm4e,,False,False,t3_16e8rky,t3_16e8rky,/r/askscience/comments/16e8rky/kilograms_measure_mass_and_pounds_measure_weight/jzui2nc/
+126,jzuw75v,diogenesNY,"I recall that my high school physics textbook (mid 1980s) quite correctly cited mass in g/kg, but whenever it discussed weight, it did so in terms of newtons.  I knew this was correct, but it was somewhat counter-intuitive and slightly disorienting.  However, kudos to them for being correct in their terminology and units.  I recall it being a pretty good overall textbook.... not a thing I can say for many textbooks of any category.","I recall that my high school physics textbook (mid 1980s) quite correctly cited mass in g/kg, but whenever it discussed weight, it did so in terms of newtons.  I knew this was correct, but it was somewhat counter-intuitive and slightly disorienting.  However, kudos to them for being correct in their terminology and units.  I recall it being a pretty good overall textbook.... not a thing I can say for many textbooks of any category.",4,2023-09-09 19:50:50,<praw.models.comment_forest.CommentForest object at 0x000002541A9246A0>,16e8rky,askscience,t5_2qm4e,,False,False,t3_16e8rky,t3_16e8rky,/r/askscience/comments/16e8rky/kilograms_measure_mass_and_pounds_measure_weight/jzuw75v/
+127,jzw9sfl,BDT81,"A gram (which is 1/1,000 kilograms) is a measurement of mass. There is no ""Earth Kilogram."" Special tools and techniques measuring interia are used to determine mass in little to no gravity.
+
+Weight is a product of mass and gravity. It's a measurement of force applied towards the larger body. Newtons are used to describe force.","A gram (which is 1/1,000 kilograms) is a measurement of mass. There is no ""Earth Kilogram."" Special tools and techniques measuring interia are used to determine mass in little to no gravity.
+
+Weight is a product of mass and gravity. It's a measurement of force applied towards the larger body. Newtons are used to describe force.",4,2023-09-10 01:20:45,<praw.models.comment_forest.CommentForest object at 0x000002541A924760>,16e8rky,askscience,t5_2qm4e,,1694426577.0,False,t3_16e8rky,t3_16e8rky,/r/askscience/comments/16e8rky/kilograms_measure_mass_and_pounds_measure_weight/jzw9sfl/
+128,k1wbnrf,BarneyLaurance,Nasa is a big organisation that has people doing many different jobs. So I would expect the real answer will vary a bit between different people at NASA and between different types of conversations and documents and between different topics.,Nasa is a big organisation that has people doing many different jobs. So I would expect the real answer will vary a bit between different people at NASA and between different types of conversations and documents and between different topics.,1,2023-09-23 20:00:58,<praw.models.comment_forest.CommentForest object at 0x000002541A9247C0>,16e8rky,askscience,t5_2qm4e,,False,False,t3_16e8rky,t3_16e8rky,/r/askscience/comments/16e8rky/kilograms_measure_mass_and_pounds_measure_weight/k1wbnrf/
+129,jzucfam,afseraph,"I think it's also worth mentioning that balance scales actually measure mass, not weight, at least in the following sense: if some object is in balance with a set of weights, it will also be in balance with the same set on the Moon.","I think it's also worth mentioning that balance scales actually measure mass, not weight, at least in the following sense: if some object is in balance with a set of weights, it will also be in balance with the same set on the Moon.",43,2023-09-09 17:47:28,<praw.models.comment_forest.CommentForest object at 0x000002541A9241C0>,16e8rky,askscience,t5_2qm4e,,False,False,t3_16e8rky,t1_jzu7t11,/r/askscience/comments/16e8rky/kilograms_measure_mass_and_pounds_measure_weight/jzucfam/
+130,jzuldq7,Durris,Is pound-mass actually used anywhere in the US? I was always taught it was pound and slug when using imperial units?,Is pound-mass actually used anywhere in the US? I was always taught it was pound and slug when using imperial units?,3,2023-09-09 18:43:09,<praw.models.comment_forest.CommentForest object at 0x000002541A924220>,16e8rky,askscience,t5_2qm4e,,False,False,t3_16e8rky,t1_jzu7t11,/r/askscience/comments/16e8rky/kilograms_measure_mass_and_pounds_measure_weight/jzuldq7/
+131,jzumqrp,half_integer,"I wonder, except for things that are stowed differently than they are used, how often it even matters.  Because even though a component will experience less stress from weight of attached components when on the moon (mars, etc.), it still has to withstand loads during launch which are several time Earth gravity anyway.  Plus, of course, not collapse while being stored in the factory before being put on a spacecraft.","I wonder, except for things that are stowed differently than they are used, how often it even matters.  Because even though a component will experience less stress from weight of attached components when on the moon (mars, etc.), it still has to withstand loads during launch which are several time Earth gravity anyway.  Plus, of course, not collapse while being stored in the factory before being put on a spacecraft.",2,2023-09-09 18:51:38,<praw.models.comment_forest.CommentForest object at 0x000002541A924640>,16e8rky,askscience,t5_2qm4e,,False,False,t3_16e8rky,t1_jzuj8lz,/r/askscience/comments/16e8rky/kilograms_measure_mass_and_pounds_measure_weight/jzumqrp/
+132,k02lf0p,plexinvise,Ah? A gram is 1/1000 kilogram. 1000 kilograms is a ton.,Ah? A gram is 1/1000 kilogram. 1000 kilograms is a ton.,1,2023-09-11 05:01:51,<praw.models.comment_forest.CommentForest object at 0x000002541A924820>,16e8rky,askscience,t5_2qm4e,,False,False,t3_16e8rky,t1_jzw9sfl,/r/askscience/comments/16e8rky/kilograms_measure_mass_and_pounds_measure_weight/k02lf0p/
+133,jzucqjo,CrustalTrudger,"Yes, this is an important clarification and my discussion of scales was assuming it was a form of spring scale or equivalent, I've added that clarification to my answer.","Yes, this is an important clarification and my discussion of scales was assuming it was a form of spring scale or equivalent, I've added that clarification to my answer.",17,2023-09-09 17:49:28,<praw.models.comment_forest.CommentForest object at 0x000002541A924280>,16e8rky,askscience,t5_2qm4e,,False,False,t3_16e8rky,t1_jzucfam,/r/askscience/comments/16e8rky/kilograms_measure_mass_and_pounds_measure_weight/jzucqjo/
+134,jzugnu4,temp722,Couldn't the lack of atmosphere on the moon affect the balance slightly if the objects have different volumes?,Couldn't the lack of atmosphere on the moon affect the balance slightly if the objects have different volumes?,1,2023-09-09 18:13:51,<praw.models.comment_forest.CommentForest object at 0x000002541A9242E0>,16e8rky,askscience,t5_2qm4e,,False,False,t3_16e8rky,t1_jzucfam,/r/askscience/comments/16e8rky/kilograms_measure_mass_and_pounds_measure_weight/jzugnu4/
+135,jzumbgt,half_integer,"Same.  I hear pound-force or see lb-f so I assume that plain pounds are mass, but would still consider slugs to be the correct term to be precise.","Same.  I hear pound-force or see lb-f so I assume that plain pounds are mass, but would still consider slugs to be the correct term to be precise.",1,2023-09-09 18:49:02,<praw.models.comment_forest.CommentForest object at 0x000002541A924580>,16e8rky,askscience,t5_2qm4e,,False,False,t3_16e8rky,t1_jzuldq7,/r/askscience/comments/16e8rky/kilograms_measure_mass_and_pounds_measure_weight/jzumbgt/
+136,k0lor6b,Coomb,"Pound mass is routinely used in engineering when it's convenient, which is pretty often. (How much load does a 1,000 lbm load exert on its vertical support? 1 kip.)  Generally if you're dealing with statics it's relatively common to just use lbm and lbf. It's dynamics when you have to be careful.","Pound mass is routinely used in engineering when it's convenient, which is pretty often. (How much load does a 1,000 lbm load exert on its vertical support? 1 kip.)  Generally if you're dealing with statics it's relatively common to just use lbm and lbf. It's dynamics when you have to be careful.",1,2023-09-14 20:27:19,<praw.models.comment_forest.CommentForest object at 0x000002541A9245E0>,16e8rky,askscience,t5_2qm4e,,False,False,t3_16e8rky,t1_jzuldq7,/r/askscience/comments/16e8rky/kilograms_measure_mass_and_pounds_measure_weight/k0lor6b/
+137,jzy0eu8,flight_recorder,"Lunar lander legs are likely never used on earth, and are likely not what supports the lander during launch and space travel.  They are a great example of something that would only need to be built to a lunar spec","Lunar lander legs are likely never used on earth, and are likely not what supports the lander during launch and space travel.  They are a great example of something that would only need to be built to a lunar spec",7,2023-09-10 10:32:14,<praw.models.comment_forest.CommentForest object at 0x000002541A924700>,16e8rky,askscience,t5_2qm4e,,False,False,t3_16e8rky,t1_jzumqrp,/r/askscience/comments/16e8rky/kilograms_measure_mass_and_pounds_measure_weight/jzy0eu8/
+138,k039oxm,BDT81,"Thanks 
+edited","Thanks 
+edited",2,2023-09-11 10:03:11,<praw.models.comment_forest.CommentForest object at 0x000002541A9248E0>,16e8rky,askscience,t5_2qm4e,,False,False,t3_16e8rky,t1_k02lf0p,/r/askscience/comments/16e8rky/kilograms_measure_mass_and_pounds_measure_weight/k039oxm/
+139,jzupwps,TheMrCeeJ,"Is it not subject to the exact same problem though? If I stand on one side, and put a 'weight' with 100kg marked on it and it balances on earth, I would say I weigh (mass) 100 kg. 
+
+If I took those scales to the moon it would still balance, but would also still have 100kg written on the side so would be just as wrong as any other mechanism..
+
+Edit: ignore me, I'm wrong :)","Is it not subject to the exact same problem though? If I stand on one side, and put a 'weight' with 100kg marked on it and it balances on earth, I would say I weigh (mass) 100 kg. 
+
+If I took those scales to the moon it would still balance, but would also still have 100kg written on the side so would be just as wrong as any other mechanism..
+
+Edit: ignore me, I'm wrong :)",0,2023-09-09 19:11:14,<praw.models.comment_forest.CommentForest object at 0x000002541A924340>,16e8rky,askscience,t5_2qm4e,,1694295598.0,False,t3_16e8rky,t1_jzucqjo,/r/askscience/comments/16e8rky/kilograms_measure_mass_and_pounds_measure_weight/jzupwps/
+140,jzvhmaw,speculatrix,"There will be a slight loss of weight on earth due to the displaced air, ie buoyancy, which won't be seen when measuring weight on the moon.
+
+So yes, if the things getting measured using a balance have different densities you'll see a different point of balance.","There will be a slight loss of weight on earth due to the displaced air, ie buoyancy, which won't be seen when measuring weight on the moon.
+
+So yes, if the things getting measured using a balance have different densities you'll see a different point of balance.",5,2023-09-09 22:07:35,<praw.models.comment_forest.CommentForest object at 0x000002541A924460>,16e8rky,askscience,t5_2qm4e,,False,False,t3_16e8rky,t1_jzugnu4,/r/askscience/comments/16e8rky/kilograms_measure_mass_and_pounds_measure_weight/jzvhmaw/
+141,jzvhuqv,morphick,"Yes, of course it would. Actually, the measurement made on the Moon would be more accurate since the  measurement made on Earth is being offset by the difference in buoyancy of the two bodies on the balance (due to the different densities).","Yes, of course it would. Actually, the measurement made on the Moon would be more accurate since the  measurement made on Earth is being offset by the difference in buoyancy of the two bodies on the balance (due to the different densities).",3,2023-09-09 22:09:09,<praw.models.comment_forest.CommentForest object at 0x000002541A9244C0>,16e8rky,askscience,t5_2qm4e,,False,False,t3_16e8rky,t1_jzugnu4,/r/askscience/comments/16e8rky/kilograms_measure_mass_and_pounds_measure_weight/jzvhuqv/
+142,jzv18pn,Talismancer_Ric,"No, the 100kg mass still has the same mass on the moon. It hasn't had anything added or removed from it to change that. As a balance scale is a relative measure (comparing A with B), then (assuming the local gravity has the same pull on both ends) the effects of gravity are ""cancelled out"", and the scale is measuring mass.
+
+I think what you're missing here is while that the balance scale will still report your mass to be 100 kg (correctly, not wrong), the spring scales will report around 16.5 kg, very wrong.
+
+Even better, put the 100 kg mass onto the spring scales. Again 16.5 not the 100 kg will read out. 
+
+(I am happy to keep debating this if my explanation didn't clarify. I am trying to help, not dismiss you)","No, the 100kg mass still has the same mass on the moon. It hasn't had anything added or removed from it to change that. As a balance scale is a relative measure (comparing A with B), then (assuming the local gravity has the same pull on both ends) the effects of gravity are ""cancelled out"", and the scale is measuring mass.
+
+I think what you're missing here is while that the balance scale will still report your mass to be 100 kg (correctly, not wrong), the spring scales will report around 16.5 kg, very wrong.
+
+Even better, put the 100 kg mass onto the spring scales. Again 16.5 not the 100 kg will read out. 
+
+(I am happy to keep debating this if my explanation didn't clarify. I am trying to help, not dismiss you)",7,2023-09-09 20:22:53,<praw.models.comment_forest.CommentForest object at 0x000002541A924400>,16e8rky,askscience,t5_2qm4e,,False,False,t3_16e8rky,t1_jzupwps,/r/askscience/comments/16e8rky/kilograms_measure_mass_and_pounds_measure_weight/jzv18pn/
+143,jzydz5g,SirBarkabit,"Additionally, Earth's relatively fast spin tries to 'carousel you off' at any given moment, so an additional upwards force is created, that subtracts a little from your weight on your scale, biggest effect on equator. Since moon rotates 30 times slower, the effect is less pronounced there.","Additionally, Earth's relatively fast spin tries to 'carousel you off' at any given moment, so an additional upwards force is created, that subtracts a little from your weight on your scale, biggest effect on equator. Since moon rotates 30 times slower, the effect is less pronounced there.",1,2023-09-10 12:31:03,<praw.models.comment_forest.CommentForest object at 0x000002541A924520>,16e8rky,askscience,t5_2qm4e,,False,False,t3_16e8rky,t1_jzvhmaw,/r/askscience/comments/16e8rky/kilograms_measure_mass_and_pounds_measure_weight/jzydz5g/
+144,j23vhg6,BackStrict977,"Some perspective you might need here:
+
+1- It's not feasible to screen all the virus present in a bat population. If you tried you'd likely find many new virus no one ever described and still only know a small subset of the viral population within the bat population.
+
+2- Vírus won't stay still and remain the same. The sars-cov-2 we have today is different from the one we first described and that would also apply  to it's ancestors. Even if we find this ancestor it wouldn't be a 100% match. Parasites adapt to their hosts and sars-cov-2 jumped the species barrier at least once and maybe twice. The simple fact that a virus is in different hosts put new selective pressures on them.
+
+3- We have find similar virus in the wild. The RaTG13 has around 96% identity to sars-cov-2 genome.  This is not enough to say that one came from the other but shows that we can find some similar things if we look closely to betacoronavirus populations in bats.","Some perspective you might need here:
+
+1- It's not feasible to screen all the virus present in a bat population. If you tried you'd likely find many new virus no one ever described and still only know a small subset of the viral population within the bat population.
+
+2- Vírus won't stay still and remain the same. The sars-cov-2 we have today is different from the one we first described and that would also apply  to it's ancestors. Even if we find this ancestor it wouldn't be a 100% match. Parasites adapt to their hosts and sars-cov-2 jumped the species barrier at least once and maybe twice. The simple fact that a virus is in different hosts put new selective pressures on them.
+
+3- We have find similar virus in the wild. The RaTG13 has around 96% identity to sars-cov-2 genome.  This is not enough to say that one came from the other but shows that we can find some similar things if we look closely to betacoronavirus populations in bats.",55,2022-12-29 13:50:38,<praw.models.comment_forest.CommentForest object at 0x000002541A91E6A0>,zy43wl,askscience,t5_2qm4e,,False,False,t3_zy43wl,t3_zy43wl,/r/askscience/comments/zy43wl/why_havent_we_found_natural_reservoirs_of_covid19/j23vhg6/
+145,j245zvl,iayork,"Many coronaviruses that are extremely closely related to SARS-CoV-2 have been found in bats - both before the COVID outbreak, and after. 
+
+Coronaviruses in bats don’t tend to exist as clear, unambiguous, stable populations. There’s extensive recombination and rapid evolution, and the many small semi-distinct populations of bats means that there are many small, transient populations of coronaviruses in these populations. 
+
+On top of that, it’s probable that SARS-CoV-2 isn’t strictly a bat virus - coronaviruses recombine rapidly and readily, and recombination with a non-bat coronavirus is likely for both SARS and SARS-CoV-2 (pangolins, in the case of SARS-CoV-2). So there’s no reason to believe that SARS-CoV-2 exactly ever circulated in bats. 
+
+So the notion that it should be easy, or even possible, to identify exactly the same virus in bats over many years is obviously mistaken. Nevertheless, many very close relatives of SARS-CoV-2 have been found in Asian bats, including several that seem to be very capable of replicating in humans and that share the receptor specificity of SARS-CoV-2. 
+
+>	We found that the receptor-binding domains of these viruses differ from that of SARS-CoV-2 by only one or two residues at the interface with ACE2, bind more efficiently to the hACE2 protein than that of the SARS-CoV-2 strain isolated in Wuhan from early human cases, and mediate hACE2-dependent entry and replication in human cells, which is inhibited by antibodies that neutralize SARS-CoV-2. … Our findings therefore indicate that bat-borne SARS-CoV-2-like viruses that are potentially infectious for humans circulate in Rhinolophus spp. in the Indochinese peninsula.
+
+-[Bat coronaviruses related to SARS-CoV-2 and infectious for human cells](https://www.nature.com/articles/s41586-022-04532-4)
+
+It’s important to remember that there are vast numbers of bats, and that they have been very superficially sampled. In spite of this, it’s been very easy to find these close hits, showing that these very dangerous, human-preadapted viruses are very common in bats. 
+
+Virologists have been warning about this for decades, specifically calling out that the next pandemic was likely to arise from bat coronaviruses. It shouldn’t be surprising that the prediction actually came true.","Many coronaviruses that are extremely closely related to SARS-CoV-2 have been found in bats - both before the COVID outbreak, and after. 
+
+Coronaviruses in bats don’t tend to exist as clear, unambiguous, stable populations. There’s extensive recombination and rapid evolution, and the many small semi-distinct populations of bats means that there are many small, transient populations of coronaviruses in these populations. 
+
+On top of that, it’s probable that SARS-CoV-2 isn’t strictly a bat virus - coronaviruses recombine rapidly and readily, and recombination with a non-bat coronavirus is likely for both SARS and SARS-CoV-2 (pangolins, in the case of SARS-CoV-2). So there’s no reason to believe that SARS-CoV-2 exactly ever circulated in bats. 
+
+So the notion that it should be easy, or even possible, to identify exactly the same virus in bats over many years is obviously mistaken. Nevertheless, many very close relatives of SARS-CoV-2 have been found in Asian bats, including several that seem to be very capable of replicating in humans and that share the receptor specificity of SARS-CoV-2. 
+
+>	We found that the receptor-binding domains of these viruses differ from that of SARS-CoV-2 by only one or two residues at the interface with ACE2, bind more efficiently to the hACE2 protein than that of the SARS-CoV-2 strain isolated in Wuhan from early human cases, and mediate hACE2-dependent entry and replication in human cells, which is inhibited by antibodies that neutralize SARS-CoV-2. … Our findings therefore indicate that bat-borne SARS-CoV-2-like viruses that are potentially infectious for humans circulate in Rhinolophus spp. in the Indochinese peninsula.
+
+-[Bat coronaviruses related to SARS-CoV-2 and infectious for human cells](https://www.nature.com/articles/s41586-022-04532-4)
+
+It’s important to remember that there are vast numbers of bats, and that they have been very superficially sampled. In spite of this, it’s been very easy to find these close hits, showing that these very dangerous, human-preadapted viruses are very common in bats. 
+
+Virologists have been warning about this for decades, specifically calling out that the next pandemic was likely to arise from bat coronaviruses. It shouldn’t be surprising that the prediction actually came true.",24,2022-12-29 15:12:02,<praw.models.comment_forest.CommentForest object at 0x000002541A91E790>,zy43wl,askscience,t5_2qm4e,,1672365455.0,False,t3_zy43wl,t3_zy43wl,/r/askscience/comments/zy43wl/why_havent_we_found_natural_reservoirs_of_covid19/j245zvl/
+146,j23s5yy,gravi-tea,"Bat origin is an unproven theory.  One possibility is that the virus originated in bats and was passed to another animal where it evolved to become SARS-CoV-2.
+
+Bats have really interesting immune systems which are really good at combating viruses.  For this reason they may make a good candidate for viruses to evolve and jump to another species. 
+
+And since bats are so good at fighting off viruses the original virus would no longer exist. 
+
+Technical sidenote: keep in mind that COVID-19 is the *disease* associated with the virus which is called severe acute respiratory syndrome coronavirus-2 or SARS-Cov-2.
+
+Edit: added ""severe acute respiratory syndrome""","Bat origin is an unproven theory.  One possibility is that the virus originated in bats and was passed to another animal where it evolved to become SARS-CoV-2.
+
+Bats have really interesting immune systems which are really good at combating viruses.  For this reason they may make a good candidate for viruses to evolve and jump to another species. 
+
+And since bats are so good at fighting off viruses the original virus would no longer exist. 
+
+Technical sidenote: keep in mind that COVID-19 is the *disease* associated with the virus which is called severe acute respiratory syndrome coronavirus-2 or SARS-Cov-2.
+
+Edit: added ""severe acute respiratory syndrome""",11,2022-12-29 13:20:55,<praw.models.comment_forest.CommentForest object at 0x000002541A91E7F0>,zy43wl,askscience,t5_2qm4e,,1672438109.0,False,t3_zy43wl,t3_zy43wl,/r/askscience/comments/zy43wl/why_havent_we_found_natural_reservoirs_of_covid19/j23s5yy/
+147,j254hhe,atomfullerene,"It's very tricky to find a natural reservoir of a coronavirus like this.  You might want to compare with SARS 1, where a very similar virus was found in palm civets being sold for food at the time of the outbreak.  But that was a combination of luck and extensive testing.  The civets are likely to have been an intermediate step, hosting the virus after it left bats and before it entered humans.  But remember, viruses are constantly mutating, so the virus in the civets wouldn't necessarily be the same as the virus in the bats or the people.
+
+Anyway, why can't we do this with SARS 2?  Because when the outbreak happened, China locked down their wet markets and killed most of the animals, which means there was very little sampling done.  This probably means we'll never know exactly what path the virus took to  get from bats to people.","It's very tricky to find a natural reservoir of a coronavirus like this.  You might want to compare with SARS 1, where a very similar virus was found in palm civets being sold for food at the time of the outbreak.  But that was a combination of luck and extensive testing.  The civets are likely to have been an intermediate step, hosting the virus after it left bats and before it entered humans.  But remember, viruses are constantly mutating, so the virus in the civets wouldn't necessarily be the same as the virus in the bats or the people.
+
+Anyway, why can't we do this with SARS 2?  Because when the outbreak happened, China locked down their wet markets and killed most of the animals, which means there was very little sampling done.  This probably means we'll never know exactly what path the virus took to  get from bats to people.",2,2022-12-29 18:57:06,<praw.models.comment_forest.CommentForest object at 0x000002541A91E9A0>,zy43wl,askscience,t5_2qm4e,,False,False,t3_zy43wl,t3_zy43wl,/r/askscience/comments/zy43wl/why_havent_we_found_natural_reservoirs_of_covid19/j254hhe/
+148,j23sfk8,,[removed],[removed],1,2022-12-29 13:23:23,<praw.models.comment_forest.CommentForest object at 0x000002541A91EB50>,zy43wl,askscience,t5_2qm4e,,False,False,t3_zy43wl,t3_zy43wl,/r/askscience/comments/zy43wl/why_havent_we_found_natural_reservoirs_of_covid19/j23sfk8/
+149,j2510c2,thaw4188,"Several studies over the past two years have found deer to be a covid reservoir
+
+https://scholar.google.com/scholar?q=covid+deer+reservoir
+
+There are plain english explainers on the NPR website but not sure if non-study links are allowed in this sub","Several studies over the past two years have found deer to be a covid reservoir
+
+https://scholar.google.com/scholar?q=covid+deer+reservoir
+
+There are plain english explainers on the NPR website but not sure if non-study links are allowed in this sub",1,2022-12-29 18:34:55,<praw.models.comment_forest.CommentForest object at 0x000002541A91EC70>,zy43wl,askscience,t5_2qm4e,,False,False,t3_zy43wl,t3_zy43wl,/r/askscience/comments/zy43wl/why_havent_we_found_natural_reservoirs_of_covid19/j2510c2/
+150,j268wud,matrixadmin-,Thanks for the explanation. Since you’re a virologist what steps should we take to prevent another coronavirus pandemic?,Thanks for the explanation. Since you’re a virologist what steps should we take to prevent another coronavirus pandemic?,2,2022-12-29 23:23:55,<praw.models.comment_forest.CommentForest object at 0x000002541A91E8B0>,zy43wl,askscience,t5_2qm4e,,False,True,t3_zy43wl,t1_j245zvl,/r/askscience/comments/zy43wl/why_havent_we_found_natural_reservoirs_of_covid19/j268wud/
+151,j282v66,jqbr,"I would edit that to remove ""coronavirus-2 or"" -- it's not nearly the second coronavirus ever detected and I don't think it's ever been referred to by that label (other than in your comment). Wikipedia says ""Severe acute respiratory syndrome coronavirus 2 (SARS‑CoV‑2)"" -- you can't just drop the first 4 words.","I would edit that to remove ""coronavirus-2 or"" -- it's not nearly the second coronavirus ever detected and I don't think it's ever been referred to by that label (other than in your comment). Wikipedia says ""Severe acute respiratory syndrome coronavirus 2 (SARS‑CoV‑2)"" -- you can't just drop the first 4 words.",1,2022-12-30 08:55:17,<praw.models.comment_forest.CommentForest object at 0x000002541A91EA90>,zy43wl,askscience,t5_2qm4e,,False,False,t3_zy43wl,t1_j23s5yy,/r/askscience/comments/zy43wl/why_havent_we_found_natural_reservoirs_of_covid19/j282v66/
+152,j268kr3,matrixadmin-,">killed most of the animals, which means there was very little sampling done
+
+Is that a normal procedure? I would imagine that getting as much samples as possible would be a priority, especially since wuhan has a lot of research facilities.",">killed most of the animals, which means there was very little sampling done
+
+Is that a normal procedure? I would imagine that getting as much samples as possible would be a priority, especially since wuhan has a lot of research facilities.",2,2022-12-29 23:21:38,<praw.models.comment_forest.CommentForest object at 0x000002541A91EC10>,zy43wl,askscience,t5_2qm4e,,False,True,t3_zy43wl,t1_j254hhe,/r/askscience/comments/zy43wl/why_havent_we_found_natural_reservoirs_of_covid19/j268kr3/
+153,j2680zy,matrixadmin-,I’ve heard about a lot of animals becoming covid reservoirs like minks but was referring to the reservoir or animal that it came from.,I’ve heard about a lot of animals becoming covid reservoirs like minks but was referring to the reservoir or animal that it came from.,1,2022-12-29 23:17:55,<praw.models.comment_forest.CommentForest object at 0x000002541A91ED90>,zy43wl,askscience,t5_2qm4e,,False,True,t3_zy43wl,t1_j2510c2,/r/askscience/comments/zy43wl/why_havent_we_found_natural_reservoirs_of_covid19/j2680zy/
+154,j282evo,jqbr,"That's a different question that should be asked separately, it's a public health question, not a virology question, and it shouldn't be limited to coronaviruses.","That's a different question that should be asked separately, it's a public health question, not a virology question, and it shouldn't be limited to coronaviruses.",3,2022-12-30 08:49:15,<praw.models.comment_forest.CommentForest object at 0x000002541A91EA30>,zy43wl,askscience,t5_2qm4e,,False,False,t3_zy43wl,t1_j268wud,/r/askscience/comments/zy43wl/why_havent_we_found_natural_reservoirs_of_covid19/j282evo/
+155,j2autrt,gravi-tea,"Thanks, didn't mean to omit. Added.","Thanks, didn't mean to omit. Added.",2,2022-12-30 22:09:42,<praw.models.comment_forest.CommentForest object at 0x000002541A91EBB0>,zy43wl,askscience,t5_2qm4e,,False,False,t3_zy43wl,t1_j282v66,/r/askscience/comments/zy43wl/why_havent_we_found_natural_reservoirs_of_covid19/j2autrt/
+156,j26br1c,atomfullerene,"There is no normal procedure for the outbreak of a pandemic like Covid-19.  Everything was kind of going crazy.  
+
+If you want to take the more charitable view, you could say the Chinese government was desperate to stop the virus from spreading and put a much higher priority on wiping out potential sources of infection (eg, the animals) and preventing spread (by locking down) than in getting researchers moving around to sample those animals before they were killed.  
+
+If you were going to be less charitable, you might say the Chinese government maybe didn't _want_ conclusive proof to be found that it's mess of wet markets had, predictably, caused _another_ zoonotic disease outbreak and was quite happy to see all the potential evidence killed off before it could be sampled....especially by any independent outside researchers.  
+
+One thing that's worth noting is that while it's _academically_ interesting to know the exact path and intermediate hosts that covid took to get into people, it's actually not that important from a public health perspective.  We know the broad strokes pretty well even without having all the intermediate steps perfectly filled in.","There is no normal procedure for the outbreak of a pandemic like Covid-19.  Everything was kind of going crazy.  
+
+If you want to take the more charitable view, you could say the Chinese government was desperate to stop the virus from spreading and put a much higher priority on wiping out potential sources of infection (eg, the animals) and preventing spread (by locking down) than in getting researchers moving around to sample those animals before they were killed.  
+
+If you were going to be less charitable, you might say the Chinese government maybe didn't _want_ conclusive proof to be found that it's mess of wet markets had, predictably, caused _another_ zoonotic disease outbreak and was quite happy to see all the potential evidence killed off before it could be sampled....especially by any independent outside researchers.  
+
+One thing that's worth noting is that while it's _academically_ interesting to know the exact path and intermediate hosts that covid took to get into people, it's actually not that important from a public health perspective.  We know the broad strokes pretty well even without having all the intermediate steps perfectly filled in.",3,2022-12-29 23:43:31,<praw.models.comment_forest.CommentForest object at 0x000002541A91ECD0>,zy43wl,askscience,t5_2qm4e,,False,False,t3_zy43wl,t1_j268kr3,/r/askscience/comments/zy43wl/why_havent_we_found_natural_reservoirs_of_covid19/j26br1c/
+157,j285la4,jqbr,"Note that that is not the question that you actually asked--in fact, it is much different, because even if ""bats have the virus"" that wouldn't tell us which bats were the original source ... surely the answer you're looking for as to ""which animal"" isn't simply ""bats"".
+
+Precision is important in science. Speaking of which: COVID-19 is a disease. You presumably want to know about the origin of the virus, SARS-CoV-2. This distinction is particularly relevant to your question because an animal might well harbor the virus without having any disease symptoms, or it could have disease symptoms different from those that present in humans.
+
+As for the origin: note that it took 14 years from the first case of SARS-1 until the originating bat population was stumbled upon. For numerous reasons, such a discovery may well never happen for SARS-CoV-2. (One of those possible reasons is something I dare not mention here, but you're likely to run across it if you google ""Alina Chan"".)","Note that that is not the question that you actually asked--in fact, it is much different, because even if ""bats have the virus"" that wouldn't tell us which bats were the original source ... surely the answer you're looking for as to ""which animal"" isn't simply ""bats"".
+
+Precision is important in science. Speaking of which: COVID-19 is a disease. You presumably want to know about the origin of the virus, SARS-CoV-2. This distinction is particularly relevant to your question because an animal might well harbor the virus without having any disease symptoms, or it could have disease symptoms different from those that present in humans.
+
+As for the origin: note that it took 14 years from the first case of SARS-1 until the originating bat population was stumbled upon. For numerous reasons, such a discovery may well never happen for SARS-CoV-2. (One of those possible reasons is something I dare not mention here, but you're likely to run across it if you google ""Alina Chan"".)",1,2022-12-30 09:32:27,<praw.models.comment_forest.CommentForest object at 0x000002541A91EE50>,zy43wl,askscience,t5_2qm4e,,False,False,t3_zy43wl,t1_j2680zy,/r/askscience/comments/zy43wl/why_havent_we_found_natural_reservoirs_of_covid19/j285la4/
+158,j28gorq,matrixadmin-,Ok,Ok,3,2022-12-30 11:58:46,<praw.models.comment_forest.CommentForest object at 0x000002541A91EAF0>,zy43wl,askscience,t5_2qm4e,,False,True,t3_zy43wl,t1_j282evo,/r/askscience/comments/zy43wl/why_havent_we_found_natural_reservoirs_of_covid19/j28gorq/
