@@ -3,7 +3,9 @@
 This repository proffers Reddit Posts Dataset.
 
 Cite:
+
 If you find this repository useful in your research, please cite our paper:
+
 @inproceedings{arya2025signed,
   title={Signed Network Dataset Repository: Extracting Signed Relations From Social Networks},
   author={Arya, Aikta and Pandey, Pradumn Kumar and Derr, Tyler},
